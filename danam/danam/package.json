@@ -1,0 +1,6 @@
+{
+    "name": "danam",
+    "dependencies": {
+        "arches": "archesproject/arches#dev/6.1.x"
+    }
+}
