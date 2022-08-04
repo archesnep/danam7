@@ -1,3 +1,0 @@
-# Static File Caching
-expires 30m;
-add_header Cache-Control public;

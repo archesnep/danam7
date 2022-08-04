@@ -1,61 +1,80 @@
-from setuptools import setup, find_packages  # Always prefer setuptools over distutils
-from codecs import open  # To use a consistent encoding
-from os import path
-from setuptools.command.install import install
+import sys
+import os
+import subprocess
+import shutil
+import urllib.request, urllib.error, urllib.parse
+import zipfile
+import datetime
+import platform
+import tarfile
+from arches import settings
+
+here = os.path.dirname(os.path.abspath(__file__))
+root_dir = os.path.dirname(here)
 
 
-class post_install(install):
-    def run(self):
-        from arches.setup import install as arches_install
+def install():
+    # CHECK PYTHON VERSION
+    if not sys.version_info >= (3, 7):
+        print("ERROR: Arches requires at least Python 3.7")
+        sys.exit(101)
+    else:
+        pass
 
-        install.run(self)
-        arches_install()
+    return True
 
 
-with open("arches/install/requirements.txt") as f:
-    requirements = f.read().splitlines()
+def unzip_file(file_name, unzip_location):
+    try:
+        # first assume you have a .tar.gz file
+        tar = tarfile.open(file_name, "r:gz")
+        tar.extractall(path=unzip_location)
+        tar.close()
+    except:
+        # next assume you have a .zip file
+        with zipfile.ZipFile(file_name, "r") as myzip:
+            myzip.extractall(unzip_location)
 
-# Dynamically calculate the version based on arches.VERSION.
-version = __import__("arches").__version__
 
-setup(
-    name="arches",
-    # Versions should comply with PEP440.  For a discussion on single-sourcing
-    # the version across setup.py and the project code, see
-    # http://packaging.python.org/en/latest/tutorial.html#version
-    version=version,
-    description="Arches is an open-source, web-based, geospatial information system for cultural heritage inventory and management.",
-    long_description=open("README.md").read(),
-    long_description_content_type="text/markdown",
-    url="http://archesproject.org/",
-    author="Farallon Geographics, Inc",
-    author_email="dev@fargeo.com",
-    license="GNU AGPL3",
-    scripts=["arches/install/arches-project"],
-    cmdclass={"install": post_install},
-    install_requires=requirements,
-    # See https://pypi.python.org/pypi?%3Aaction=list_classifiers
-    classifiers=[
-        # How mature is this project? Common values are
-        #   3 - Alpha
-        #   4 - Beta
-        #   5 - Production/Stable
-        "Development Status :: 5 - Production/Stable",
-        "Intended Audience :: Developers",
-        "Intended Audience :: Science/Research",
-        "Intended Audience :: Information Technology",
-        "Topic :: Software Development :: Build Tools",
-        "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.7",
-        "Framework :: Django :: 1.11",
-        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
-    ],
-    # What does your project relate to?
-    keywords="django arches cultural heritage",
-    # You can just specify the packages manually here if your project is
-    # simple. Or you can use find_packages().
-    packages=find_packages(exclude=["*.tests", "*.tests.*", "tests.*", "tests"]),
-    include_package_data=True,
-    zip_safe=False,
-    test_suite="tests.run_tests.run_all",
-)
+def get_version(version=None):
+    "Returns a PEP 440-compliant version number from VERSION."
+    version = get_complete_version(version)
+
+    # Now build the two parts of the version number:
+    # major = X.Y[.Z]
+    # sub = .devN - for pre-alpha releases
+    #     | {a|b|rc}N - for alpha, beta and rc releases
+
+    major = get_major_version(version)
+
+    sub = ""
+    if version[3] != "final":
+        mapping = {"alpha": "a", "beta": "b", "rc": "rc"}
+        sub = mapping[version[3]] + str(version[4])
+
+    return str(major + sub)
+
+
+def get_major_version(version=None):
+    "Returns major version from VERSION."
+    version = get_complete_version(version)
+    parts = 3
+    major = ".".join(str(x) for x in version[:parts])
+    return major
+
+
+def get_complete_version(version=None):
+    """Returns a tuple of the django version. If version argument is non-empty,
+    then checks for correctness of the tuple provided.
+    """
+    if version is None:
+        from arches import VERSION as version
+    else:
+        assert len(version) == 5
+        assert version[3] in ("alpha", "beta", "rc", "final")
+
+    return version
+
+
+if __name__ == "__main__":
+    install()

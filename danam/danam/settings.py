@@ -30,7 +30,7 @@ FILE_TYPE_CHECKING = False
 FILE_TYPES = ["bmp", "gif", "jpg", "jpeg", "pdf", "png", "psd", "rtf", "tif", "tiff", "xlsx", "csv", "zip"]
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'sr=4&v)jrgm5bow!25eb=wz_&c2)3&+cvl=if83sbjcdb@&*2@'
+SECRET_KEY = '#u%i&d88@=-h!96mqnw$1$@i#cic5h26si(efk2g_l4ltu+1cy'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True

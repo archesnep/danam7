@@ -1,2 +1,0 @@
-2022-08-03 03:06:38,561 arches.app.utils.task_management ERROR    A celery broker is running, but a celery worker is not available
-2022-08-03 03:06:41,212 arches.app.utils.task_management ERROR    A celery broker is running, but a celery worker is not available
