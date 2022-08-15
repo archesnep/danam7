@@ -1,0 +1,9 @@
+{
+    "name": "Address Card",
+    "description": "",
+    "component": "views/components/card_components/address-card",
+    "componentname": "address-card",
+    "defaultconfig": {
+        "icon": "star-15"
+    }
+}

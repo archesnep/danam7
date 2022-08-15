@@ -1,11 +1,15 @@
 from arches.app.datatypes.base import BaseDataType
+from arches.app.models import models
+
+geocoder = models.Widget.objects.get(name='geocoder')
+
 
 details = {
     'datatype': 'address',
     'iconclass': 'fa fa-location-arrow',
     'modulename': 'datatypes.py',
     'classname': 'AddressDataType',
-    'defaultwidget': None,
+    'defaultwidget': geocoder,
     'defaultconfig': None,
     'configcomponent': None,
     'configname': None,

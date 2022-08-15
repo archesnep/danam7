@@ -1,0 +1,1926 @@
+{
+	"business_data": {
+		"resources": [
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "86169b6e-9e60-4014-b364-17010e9dae15"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Pimbahal"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "86169b6e-9e60-4014-b364-17010e9dae15",
+						"sortorder": 0,
+						"tileid": "da457a05-30a6-443f-b4d6-41af93648269"
+					},
+					{
+						"data": {
+							"1ff5237a-9a75-11eb-9fd4-0242ac130007": [
+								{
+									"accepted": true,
+									"content": "blob:https://danam.cats.uni-heidelberg.de/779bacdf-766f-47a4-8bcc-6fa3873bbdaf",
+									"file_id": "ade91ed4-9a75-11eb-9d13-0242ac120006",
+									"index": 0,
+									"lastModified": 1618111579656,
+									"name": "pimbahal.webp",
+									"size": 809098,
+									"status": "uploaded",
+									"type": "image/webp",
+									"url": "/files/ade91ed4-9a75-11eb-9d13-0242ac120006"
+								}
+							],
+							"1ff55c64-9a75-11eb-9fd4-0242ac130007": "Pimbahal with the view of pond and phalcās, photo by Christiane Brosius"
+						},
+						"nodegroup_id": "1ff5237a-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "86169b6e-9e60-4014-b364-17010e9dae15",
+						"sortorder": 0,
+						"tileid": "fe2f3486-09f4-4e4b-a4a2-0beb84b2d375"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "86169b6e-9e60-4014-b364-17010e9dae15",
+						"sortorder": 0,
+						"tileid": "588a6b8c-58a1-46d9-aca0-04cbf45dc039"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														85.32061596770007,
+														27.676909682624058
+													],
+													[
+														85.32184183202657,
+														27.67687308929166
+													],
+													[
+														85.32156635689586,
+														27.67526297052484
+													],
+													[
+														85.31989973236279,
+														27.67579967941745
+													],
+													[
+														85.32061596770007,
+														27.676909682624058
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "41c61a8d-e32c-43fe-99e7-ee1a7e21e050",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "86169b6e-9e60-4014-b364-17010e9dae15",
+						"sortorder": 0,
+						"tileid": "bb5122d5-67ae-4b40-aa81-59bb7533b752"
+					},
+					{
+						"data": {
+							"1ff5181c-9a75-11eb-9fd4-0242ac130007": "<p>Like Cyāsal, Pimbahal has a vibrant political and cultural history and life that also manifests in its larger ensemble of monuments, and intangible heritage, and turns it into one of the relevant monument zones we have defined (please note that by doing so, we do not follow official and administrative boundaries!). Pimbahal is a unique part of Patan&rsquo;s urban heritage and dynamic life, with a high condensation of sites used for social, religious, economic and cultural purposes. For this case study on DANAM, we have documented 12 <em>phalcās</em> and six other heritage monuments, ranging from monastic compound to shrine and temple</p>\n\n<p>&nbsp;</p>\n\n<p>Similar to the Cyāsal case, too, Pimbahal&rsquo;s built heritage was also affected by the Gorkha earthquakes of 2015. Both use their open spaces, one of the few larger ones in the otherwise condensed network of Old Patan, intensively. Pimbahal area and sites were quickly regenerated and got a &lsquo;facelift&rsquo; that has pushed the open space around the famous pond into a popular site for both local residents and other visitors. As in the case of Cyāsal, Pimbahal locality is made up of various castes: Śreṣṭhas, Rājopādhyāyas (Newark Brahmins), Maharjanas (farmers), Śākyas, , Kapālīs (Newar musicians and caretaker of the temples) and Bhāratīs (Daśanāmī Sanyāsīs), for instance. The associations related to the area have started to revitalize some of their ritual and other cultural practices. Pimbahal and Cyāsal share their open squares and engaged socio-cultural activities as well as historic Cila͂ (possibly Ashokan, 250 BCE) Caitya. There is also a three storied medieval pagoda temple of Caṇḍeśvarī towards the northern side of the pond, the lineage deity of Pātravaṃśa Śreṣṭhas of this area. Another strong association, the to Digvijaya&#39;s Lākhe clan, is to the Lākhe (lit. &#39;demon&#39;), and some representatives of the Pātravaṃśa Śreṣṭha clan promite this association, also through rejuvenation of related rituals in this particular vicinity. The pond is believed to have been made by Lākhes (either clan members or the premodern figure of the Lākhe demon), following the order of Gayo Brahman/Bāje.<sup data-footnote-id=\"ls1vp\"><a href=\"#footnote-1\" id=\"footnote-marker-1-1\" rel=\"footnote\">[1]</a></sup>&nbsp;</p>\n\n<p>All four sub-clans claim that they once migrated from Banepa, a small historical town located to east of the Kathmandu Valley. Each clan also celebrates annual linage deity worship once a year jointly and separately as well in the temple of Caṇḍeśvarī. The social topography around the pond contains many legends related to the famous tantric Gayo Bāje and the lineage goddess Caṇḍeśvarī. During the annual festival of Indrajātrā, figures of Yamadyaḥ (Indra) are displayed in many <em>phalcās</em> and <em>samay-baji </em>(ritual food with 5 kinds of edible things like beaten rice, buffalo meat, vegetable etc.)<em> </em>is distributed as <em>prasāda</em> by the donor or <em>guṭhīyāra</em> family of the sites<em>.</em> One also finds worship of other deities, gurus and ancestors in several <em>phalcās</em>, edcative, social and religious activities.</p>\n\n<p>Local and municipality organisations have actively engaged in post-earthquake reconstruction of damaged sites around Pimbahal, Chāybahal and Sulima areas. The Jagamadu Pukhu Kṣetra Vikāsa Samiti (Jagamadu Pond Area Development Committee), in collaboration with Lalitpur Metropolitan office and World Bank, implemented the Pimbahal Pond Repair Project (almost 6 lakh Rs.), a Project for Stone Paving around the Pond area (almost 6 lakh Rs.) and a Rainwater Harvesting Project (almost 5 lakh Rs.) in 2017.</p>\n"
+						},
+						"nodegroup_id": "1ff5181c-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "86169b6e-9e60-4014-b364-17010e9dae15",
+						"sortorder": 0,
+						"tileid": "4176041a-6f4b-42e8-9732-4fe62ce016a2"
+					},
+					{
+						"data": {
+							"1ff5615a-9a75-11eb-9fd4-0242ac130007": [
+								{
+									"accepted": true,
+									"content": "blob:https://danam.cats.uni-heidelberg.de/1caa6bea-0fcd-4678-b8d6-079f1c0c8816",
+									"file_id": "17723f2a-9a76-11eb-97c2-0242ac120006",
+									"index": 0,
+									"lastModified": 1618111756525,
+									"name": "map-of-pimbahal.webp",
+									"size": 266818,
+									"status": "uploaded",
+									"type": "image/webp",
+									"url": "/files/17723f2a-9a76-11eb-97c2-0242ac120006"
+								}
+							],
+							"1ff56286-9a75-11eb-9fd4-0242ac130007": "bcbfeb70-627e-4014-9486-900d83069e7c",
+							"1ff563bc-9a75-11eb-9fd4-0242ac130007": "<p>Location map of the Pimbhala Heritage Focus Area by Anil Basukala</p>\n",
+							"1ff564e8-9a75-11eb-9fd4-0242ac130007": null
+						},
+						"nodegroup_id": "1ff53f4a-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "86169b6e-9e60-4014-b364-17010e9dae15",
+						"sortorder": 0,
+						"tileid": "f9ac2c87-4e74-415f-a54e-699b182b0bf1"
+					},
+					{
+						"data": {
+							"1ff544e0-9a75-11eb-9fd4-0242ac130007": null
+						},
+						"nodegroup_id": "1ff544e0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "86169b6e-9e60-4014-b364-17010e9dae15",
+						"sortorder": 0,
+						"tileid": "5e822fc7-eac8-4056-92d5-56bfdb94bef2"
+					},
+					{
+						"data": {
+							"1ff5661e-9a75-11eb-9fd4-0242ac130007": "<p>Editor:&nbsp;Christiane Brosius</p>\n"
+						},
+						"nodegroup_id": "1ff550ac-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "86169b6e-9e60-4014-b364-17010e9dae15",
+						"sortorder": 0,
+						"tileid": "2cbf1fa2-7452-47b1-bbd5-12750da2950e"
+					},
+					{
+						"data": {
+							"1ff54b0c-9a75-11eb-9fd4-0242ac130007": "<p>Sharma, Nutandhar. 1999. &quot;The Legends of &#39;Gayahbajya&#39; of Patan in the Kathmandu Valley&quot;, in: <em>Contributions to Nepalese Studies</em>, Vol. 26, No. 2, Kathmandu: CNAS, pp. 239-256</p>\n"
+						},
+						"nodegroup_id": "1ff54b0c-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "86169b6e-9e60-4014-b364-17010e9dae15",
+						"sortorder": 0,
+						"tileid": "84a6d183-15ce-465d-a4ea-3b3007900d89"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "b6eac59e-7334-4788-8fa0-b26fd9237e0d"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff5181c-9a75-11eb-9fd4-0242ac130007": "<p>Cyāsal is one of the key monument heritage areas selected for the NHDP pilot phase (please note that by doing so, we neither follow the official and administrative boundaries, such as defined by the Department of Archeology, nor do we intend to create a new heritage zone that collide with the existing official boundaries!). It is a unique site, of various interconnected and meandering squares that turn Cyasal also into one of the few large open areas the densely built old city of Patan has (other exceptions are Pimbahal and Patan Darbar Square, see monument areas&hellip;). The area is very popular among local residents and urban youth from the Kathmandu Valley as well as some tourists. Especially the festivals are popular, but the area also has some remarkable smaller and larger monuments that deserve our attention. As an ensemble, Cyāsal tole (Ṭola) is, thus, a remarkable habitat of both Newar urban cultural heritage and modern facets interrelated. The ancient trade-route cutting through the square from East to West, is still relevant. Cyāsal is now surrounded by splintering urbanism, most fields have been sold and converted into ground for constructions. For NHDP, we have so far documented 20 <em>phalcās</em> and in this small-scale vicinity, which has a density of public and semi-public monuments as hardly any other neighbourhood in Patan&rsquo;s old city, possibly even Kathmandu. Moreover, eight other monuments such as shrines, ponds/stepwells, <em>caitya</em>/<em>stūpas</em> and monasteries have been documented and mapped. Although Cyāsal&rsquo;s buildings, residential and public, were quite badly hit by the earthquakes of 2015, reconstruction was very important, also because residents of the area are proud of the tangible and intangible heritage and actively use and engage in practicing it, be it for festivals, feasts, annual rituals and processions, or devotional chanting.</p>\n\n<p>The locality has got several Licchavi period stone inscriptions to trace back its history to ancient period. Also, one of the four Cila͂caityas believed to be built about 2250 years ago during the time of Great King Aśoka of Magadh (India) is also situated here. The shadow play in the Bhailaḥ (Avaḥ Guṭhī) <em>capāḥ</em> during Indrajātrā is the cultural specialty of this area.</p>\n\n<p>Cyāsal was a final battlefield for the battle between Kirantas and Lichhavis. About 250 A.D., Lichhavis are said to have attacked this post, killing 800 Kirantas who were guarding the post. In Newari language, 800 means <em>chyasa</em>, thus this place is also a &lsquo;memory site&rsquo;. Mainly people from the caste of the &ldquo;Vyan͂janakāra&rdquo; (traditionally kitchen gardeners) and Avāle (often tilers, potters) reside here, the latter more towards the South of the large square, the first towards the North. Earlier, there would have been communal tensions between these groups, but those have now become part of the folkloristic memory rather than active conflict. Members of Maharjan farmers, members of Śākya or Śhreṣṭha castes also live in and around Cyāsal square.</p>\n\n<p>According to an Avāle resident (aged 55) the Avāles are divided into two <em>guṭhī</em>s i. e. the Cidha͂ (smaller) and the Tadha͂ (bigger) and into ten Si (death) Guṭhīs as well. The members of Cidha͂ Guṭhī are called Lā manaṃ (vegetarians). Only five families still live in Bhindyaḥlāchi. The other Avāles are connected to the Tadha͂ Guṭhī. Some Avāles have migrated from Kathmandu, near Ason Tole (Asana Ṭola), to Cyāsal Tole. They shifted their lineage deity from Lainchaur to Depacākhyaḥ in Shankhamool (Śaṅkhamūla), Patan and worship her in the month of Pauṣa/Māgha (Jan-March).</p>\n"
+						},
+						"nodegroup_id": "1ff5181c-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "b6eac59e-7334-4788-8fa0-b26fd9237e0d",
+						"sortorder": 0,
+						"tileid": "f5ac0689-d4a7-4b7f-89f8-9efb1ac652ae"
+					},
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Cyāsal (च्यासल्)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "b6eac59e-7334-4788-8fa0-b26fd9237e0d",
+						"sortorder": 0,
+						"tileid": "f2c7f958-86c3-408c-86ac-fea694f0616f"
+					},
+					{
+						"data": {
+							"1ff5237a-9a75-11eb-9fd4-0242ac130007": [
+								{
+									"accepted": true,
+									"content": "blob:https://danam.cats.uni-heidelberg.de/f0afbe59-c44a-477f-b45d-967f3b8aae9a",
+									"file_id": "b9ce07c2-9a76-11eb-9d13-0242ac120006",
+									"index": 0,
+									"lastModified": 1618112036538,
+									"name": "LAL4159_P_20191112_01_lgvCsw3.jpg",
+									"size": 709632,
+									"status": "uploaded",
+									"type": "image/jpeg",
+									"url": "/files/b9ce07c2-9a76-11eb-9d13-0242ac120006"
+								}
+							],
+							"1ff55c64-9a75-11eb-9fd4-0242ac130007": "Nhugu Phalcā at Cyāsal, dāphā bhajana for kartik purnima, view from NE; photo by Christiane Brosius; 2019-11-12"
+						},
+						"nodegroup_id": "1ff5237a-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "b6eac59e-7334-4788-8fa0-b26fd9237e0d",
+						"sortorder": 0,
+						"tileid": "5eabc075-f4db-4763-bf0a-33d2beb47360"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "b6eac59e-7334-4788-8fa0-b26fd9237e0d",
+						"sortorder": 0,
+						"tileid": "78374919-e569-47af-99fb-54b73bfe8b6a"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														85.328153524649,
+														27.674964212877855
+													],
+													[
+														85.32730628141582,
+														27.674273920183994
+													],
+													[
+														85.32834556644883,
+														27.673933774353359
+													],
+													[
+														85.32878613293099,
+														27.674719109439523
+													],
+													[
+														85.32891039523293,
+														27.67489418340729
+													],
+													[
+														85.328153524649,
+														27.674964212877855
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "c5fa0365-1cd2-423e-ad49-8b23a0912b8a",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "b6eac59e-7334-4788-8fa0-b26fd9237e0d",
+						"sortorder": 0,
+						"tileid": "518c3cad-ec83-407d-934e-7ba210f73655"
+					},
+					{
+						"data": {
+							"1ff5615a-9a75-11eb-9fd4-0242ac130007": [
+								{
+									"accepted": true,
+									"content": "blob:https://danam.cats.uni-heidelberg.de/ab057f5b-5ac0-4506-9984-fa7362da45fb",
+									"file_id": "e676bfa8-9a76-11eb-9d13-0242ac120006",
+									"index": 0,
+									"lastModified": 1618112039588,
+									"name": "Cyasal.png",
+									"size": 216254,
+									"status": "uploaded",
+									"type": "image/png",
+									"url": "/files/e676bfa8-9a76-11eb-9d13-0242ac120006"
+								}
+							],
+							"1ff56286-9a75-11eb-9fd4-0242ac130007": "bcbfeb70-627e-4014-9486-900d83069e7c",
+							"1ff563bc-9a75-11eb-9fd4-0242ac130007": "<p>Location map of the Cyāsal Heritage Focus Area by Anil Basukala</p>\n",
+							"1ff564e8-9a75-11eb-9fd4-0242ac130007": null
+						},
+						"nodegroup_id": "1ff53f4a-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "b6eac59e-7334-4788-8fa0-b26fd9237e0d",
+						"sortorder": 0,
+						"tileid": "9d83d8ec-e4e1-4a0f-a6b9-0eabff39a160"
+					},
+					{
+						"data": {
+							"1ff544e0-9a75-11eb-9fd4-0242ac130007": null
+						},
+						"nodegroup_id": "1ff544e0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "b6eac59e-7334-4788-8fa0-b26fd9237e0d",
+						"sortorder": 0,
+						"tileid": "9bfef66f-5430-4428-bff7-1e45dd0f2b4f"
+					},
+					{
+						"data": {
+							"1ff5661e-9a75-11eb-9fd4-0242ac130007": "<p>Editor:&nbsp;Christiane Brosius</p>\n"
+						},
+						"nodegroup_id": "1ff550ac-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "b6eac59e-7334-4788-8fa0-b26fd9237e0d",
+						"sortorder": 0,
+						"tileid": "8c7c8203-fe32-4d51-b21c-d1a7bb4dd74b"
+					},
+					{
+						"data": {
+							"1ff54b0c-9a75-11eb-9fd4-0242ac130007": "<p>Gutschow, Niels, Inventory of Public Resthouses pāṭī/phalcā, sataḥ: Draft Report, Kathmandu: Urban Developemnt Through Local Efforts/ GtZ, Dec. 1992</p>\n\n<p>Tiwari, Sudarshan Raj, <em>Special Study Cy&agrave;sa (A action programme and strategy for public space conservation)</em>, Kathmandu: Patan Conservation and Development Programme, 1994</p>\n"
+						},
+						"nodegroup_id": "1ff54b0c-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "b6eac59e-7334-4788-8fa0-b26fd9237e0d",
+						"sortorder": 0,
+						"tileid": "82d2086a-f810-43bd-b80d-250b8aaf5b46"
+					},
+					{
+						"data": {
+							"1ff51dd0-9a75-11eb-9fd4-0242ac130007": "1343c22f-ce6a-4b76-af2b-7368e36f4a9c"
+						},
+						"nodegroup_id": "1ff51dd0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "b6eac59e-7334-4788-8fa0-b26fd9237e0d",
+						"sortorder": 0,
+						"tileid": "87fd7bc7-8eaa-4464-8be8-b62f3e37738c"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "1a313d29-3576-44ea-9b02-0bfc52919a1a"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Nagbahal/Nāga Bāhāḥ (नाग्बाहाल्/नाग बाहाः)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "1a313d29-3576-44ea-9b02-0bfc52919a1a",
+						"sortorder": 0,
+						"tileid": "a9f2e76e-5baf-46d8-a5a5-9d9753b49b2c"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "1a313d29-3576-44ea-9b02-0bfc52919a1a",
+						"sortorder": 0,
+						"tileid": "a4b837ae-82dd-4955-8b5e-07acf0209ef4"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														85.32389147590908,
+														27.676401949828134
+													],
+													[
+														85.32362702616894,
+														27.67606199085398
+													],
+													[
+														85.32334958481954,
+														27.675706690529326
+													],
+													[
+														85.3240293889362,
+														27.675311816334444
+													],
+													[
+														85.32468350727459,
+														27.676046078335348
+													],
+													[
+														85.32389147590908,
+														27.676401949828134
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "fb554997-ad64-4315-aed0-b03a6d83799e",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "1a313d29-3576-44ea-9b02-0bfc52919a1a",
+						"sortorder": 0,
+						"tileid": "d37e525c-3726-4a9f-b6d5-af396962c203"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "8285799e-6ff8-42f4-88b4-580d5c8947ed"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Tāpā Hiti (तापा हिति)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "8285799e-6ff8-42f4-88b4-580d5c8947ed",
+						"sortorder": 0,
+						"tileid": "853cc56b-8275-48dd-b70f-2ae0bae7337f"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "8285799e-6ff8-42f4-88b4-580d5c8947ed",
+						"sortorder": 0,
+						"tileid": "a06c2234-9167-4260-a476-af3851c9d38a"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														85.32356516055688,
+														27.677419499581263
+													],
+													[
+														85.32413669398761,
+														27.677423089203289
+													],
+													[
+														85.32414480084464,
+														27.67691695132818
+													],
+													[
+														85.32350435912918,
+														27.67695284770886
+													],
+													[
+														85.32356516055688,
+														27.677419499581263
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "c329d693-7b01-43bf-9bbf-5de61b118c9c",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "8285799e-6ff8-42f4-88b4-580d5c8947ed",
+						"sortorder": 0,
+						"tileid": "47036d1e-654a-45a0-8c79-1b977cbda827"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "8f597bdd-6d04-4943-838b-cfaba6923671"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Pulchok/Pūcvā (पुल्चोक/पूच्वा)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "8f597bdd-6d04-4943-838b-cfaba6923671",
+						"sortorder": 0,
+						"tileid": "da3c7d26-f967-42e2-b52d-6da93221cdfd"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "8f597bdd-6d04-4943-838b-cfaba6923671",
+						"sortorder": 0,
+						"tileid": "d745cceb-a308-4bd0-8116-da6e24aa8c0d"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														85.31435419584136,
+														27.678002159740559
+													],
+													[
+														85.3179207674429,
+														27.677517599712276
+													],
+													[
+														85.31673139925198,
+														27.674907453027588
+													],
+													[
+														85.31543780828179,
+														27.674486674694579
+													],
+													[
+														85.31381775403855,
+														27.674638698105455
+													],
+													[
+														85.31435419584136,
+														27.678002159740559
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "7bf50bce-8e81-4025-afa5-2348274df710",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "8f597bdd-6d04-4943-838b-cfaba6923671",
+						"sortorder": 0,
+						"tileid": "421771a7-e9d5-4325-960c-ac9fd46a7426"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "d9681a64-5b4a-4808-a0ad-df92c9a7706e"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Kumbheśvara/Konti (कुम्भेश्वर/कोन्ति)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "d9681a64-5b4a-4808-a0ad-df92c9a7706e",
+						"sortorder": 0,
+						"tileid": "0e8c383b-93f9-4764-930a-375694b44293"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "d9681a64-5b4a-4808-a0ad-df92c9a7706e",
+						"sortorder": 0,
+						"tileid": "87c912a6-a868-4449-bf54-584966629fde"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														85.32593773893712,
+														27.67612052287666
+													],
+													[
+														85.32654727708672,
+														27.6766173824153
+													],
+													[
+														85.32551521816362,
+														27.676948620848706
+													],
+													[
+														85.32521044908646,
+														27.67631067926557
+													],
+													[
+														85.32593773893712,
+														27.67612052287666
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "d6f979c0-f9ac-47df-8f25-196ebe9bed5d",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "d9681a64-5b4a-4808-a0ad-df92c9a7706e",
+						"sortorder": 0,
+						"tileid": "63c8a8f1-4cd0-41b2-9760-5e989ca68367"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "121ffd57-28ae-49a1-99b5-846a7b26f060"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Taṅgala (तङ्गल)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "121ffd57-28ae-49a1-99b5-846a7b26f060",
+						"sortorder": 0,
+						"tileid": "d7ffeac4-7261-4792-9161-b63a692ddcd2"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "121ffd57-28ae-49a1-99b5-846a7b26f060",
+						"sortorder": 0,
+						"tileid": "82e0645b-6a2b-4f89-9a55-3bf00de50325"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														85.32397863063824,
+														27.671692056531854
+													],
+													[
+														85.32354157606875,
+														27.669817596645517
+													],
+													[
+														85.32588710052886,
+														27.669713017632604
+													],
+													[
+														85.32510148427628,
+														27.67162774045464
+													],
+													[
+														85.32475699523809,
+														27.67208672762395
+													],
+													[
+														85.32397863063824,
+														27.671692056531854
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "9791f93f-08e2-453c-8a90-11cb72c319d9",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "121ffd57-28ae-49a1-99b5-846a7b26f060",
+						"sortorder": 0,
+						"tileid": "56914c7c-464c-499d-949a-2484b20d9abf"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "8e2b2c0e-3970-418f-897c-226e63356b88"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Buṅgamatī (बुङ्गमती)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "8e2b2c0e-3970-418f-897c-226e63356b88",
+						"sortorder": 0,
+						"tileid": "9c0d1f1e-eb2c-4eb2-b8ff-914a61ffff5c"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "8e2b2c0e-3970-418f-897c-226e63356b88",
+						"sortorder": 0,
+						"tileid": "cb3e76d2-89e4-481f-8c15-e9d11675af8d"
+					},
+					{
+						"data": {
+							"1ff5181c-9a75-11eb-9fd4-0242ac130007": "<p>Located south of Patan, Bungamati is an important settlement for intangible and tangible heritage. The predominantly Newar town&rsquo;s historical core has been heavily damaged by the 2015 earthquakes. Nearly two thirds of the houses have been damaged or destroyed, many heritage monuments collapsed or are still endangered, including the temple of the main deity.</p>\n"
+						},
+						"nodegroup_id": "1ff5181c-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "8e2b2c0e-3970-418f-897c-226e63356b88",
+						"sortorder": 0,
+						"tileid": "c4014eec-770a-4cf7-9190-3faa34080f70"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														85.30041307395266,
+														27.63176391539237
+													],
+													[
+														85.30565253867843,
+														27.631712905644279
+													],
+													[
+														85.30604746927492,
+														27.62619379209596
+													],
+													[
+														85.29992035104778,
+														27.62620856798023
+													],
+													[
+														85.30041307395266,
+														27.63176391539237
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "a6305bc2-7327-4ba2-be54-3fdb3a05cd55",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "8e2b2c0e-3970-418f-897c-226e63356b88",
+						"sortorder": 0,
+						"tileid": "65ad5fd4-b7d0-415e-894c-7c062dd304e0"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "3a404633-3d25-45c2-9f9e-0f52aebddcf5"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Sundhara/Lũhiti/Nugaḥ (सुन्धारा/लुँहिति/नुगः)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "3a404633-3d25-45c2-9f9e-0f52aebddcf5",
+						"sortorder": 0,
+						"tileid": "0f41a523-3809-44eb-b466-15a8d927dcb4"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "3a404633-3d25-45c2-9f9e-0f52aebddcf5",
+						"sortorder": 0,
+						"tileid": "b1108519-ed44-4e95-830f-376acdd0d260"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														85.32776110810954,
+														27.66983914538477
+													],
+													[
+														85.32890346651203,
+														27.66978665066155
+													],
+													[
+														85.3288031170186,
+														27.668967333264449
+													],
+													[
+														85.32778928232853,
+														27.66910569459675
+													],
+													[
+														85.32776110810954,
+														27.66983914538477
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "2ad002c5-58dd-46b2-aa04-ab55cb1cc177",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "3a404633-3d25-45c2-9f9e-0f52aebddcf5",
+						"sortorder": 0,
+						"tileid": "d4fce2e6-497a-4047-b8b8-1c5263dc4a5e"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "04e20a7f-8c55-47c2-914a-db38210697db"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Bālakumarī (बालकुमारी)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "04e20a7f-8c55-47c2-914a-db38210697db",
+						"sortorder": 0,
+						"tileid": "fad503ee-e6fc-4a80-af20-8e536baae28f"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "04e20a7f-8c55-47c2-914a-db38210697db",
+						"sortorder": 0,
+						"tileid": "868d9a1e-a97a-4097-a13c-c5559082ac43"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														85.33524929994366,
+														27.6723538399676
+													],
+													[
+														85.33832806662758,
+														27.6722774948435
+													],
+													[
+														85.3382049159597,
+														27.670477915752387
+													],
+													[
+														85.33506457394322,
+														27.670292502888814
+													],
+													[
+														85.33524929994366,
+														27.6723538399676
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "3d740c23-8293-42da-973d-674010c6b499",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "04e20a7f-8c55-47c2-914a-db38210697db",
+						"sortorder": 0,
+						"tileid": "fd709e83-9453-461d-ab45-c1481ff8d3ca"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "9d9cd695-753d-483e-a020-b41a45316a44"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Okubahal/Oku Bāhāḥ (ओकुबहाल/ओकु बाहाः)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "9d9cd695-753d-483e-a020-b41a45316a44",
+						"sortorder": 0,
+						"tileid": "38e196cd-f9dc-4899-95dc-eb93e4231e4e"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "9d9cd695-753d-483e-a020-b41a45316a44",
+						"sortorder": 0,
+						"tileid": "6278433a-c737-4707-96b4-21831223292f"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														85.32594823229215,
+														27.670266767178945
+													],
+													[
+														85.32809515503249,
+														27.66928019055686
+													],
+													[
+														85.3280569294144,
+														27.667244255445483
+													],
+													[
+														85.32511886425505,
+														27.66821237359396
+													],
+													[
+														85.32594823229215,
+														27.670266767178945
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "ae85505e-a409-4976-9d72-f356658b4c3a",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "9d9cd695-753d-483e-a020-b41a45316a44",
+						"sortorder": 0,
+						"tileid": "da783761-01a1-4263-bb7a-dda736e7fda7"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "85bbad4c-4f0f-4a8f-b5ce-54d3c12a5587"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff5181c-9a75-11eb-9fd4-0242ac130007": "<p>Patan Durbar Square is the heart of the old town of Lalitpur and one of three royal squares in the Kathmandu Valley, all of which are declared UNESCO World Heritage Sites. One of its attractions is the ancient Royal Palace</p>\n\n<p>where the Malla Kings of Lalitpur resided. NHDP has documented many previously undocumented monuments located at this Square.</p>\n"
+						},
+						"nodegroup_id": "1ff5181c-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "85bbad4c-4f0f-4a8f-b5ce-54d3c12a5587",
+						"sortorder": 0,
+						"tileid": "8a0ffc13-e770-4de7-80f5-3c98955888ec"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														85.32510781767798,
+														27.67418042717783
+													],
+													[
+														85.3244343846423,
+														27.673181281981984
+													],
+													[
+														85.32604687923697,
+														27.6718458438328
+													],
+													[
+														85.32690661122814,
+														27.673465339007266
+													],
+													[
+														85.32510781767798,
+														27.67418042717783
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "181e1943-5c5b-4a9d-9b21-565cb1a6ea01",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "85bbad4c-4f0f-4a8f-b5ce-54d3c12a5587",
+						"sortorder": 0,
+						"tileid": "7e69ec9b-77cc-494c-808f-eefe5da519d9"
+					},
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Patan Darbar Square/Mangal Bazar (पाटन दरबार परिसर/मङ्गल बजार)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "85bbad4c-4f0f-4a8f-b5ce-54d3c12a5587",
+						"sortorder": 0,
+						"tileid": "9913337e-9c09-4655-b24d-74b83ca814d1"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "85bbad4c-4f0f-4a8f-b5ce-54d3c12a5587",
+						"sortorder": 0,
+						"tileid": "ee30aa23-423c-4a2b-97e5-e1608d824c82"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "a58d1b3e-67f4-47f1-afba-e5550c0b5e05"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "a58d1b3e-67f4-47f1-afba-e5550c0b5e05",
+						"sortorder": 0,
+						"tileid": "2bed1329-6682-4c5a-9a7a-933c10388faf"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														81.9191503227973,
+														29.20354672470546
+													],
+													[
+														81.9726543725643,
+														29.257490641643643
+													],
+													[
+														82.07135116339464,
+														29.282866176719609
+													],
+													[
+														82.09940183026294,
+														29.318200171333645
+													],
+													[
+														82.12156449112593,
+														29.36780879693984
+													],
+													[
+														82.22014247597355,
+														29.384003595315578
+													],
+													[
+														82.15711720697238,
+														29.42201603533134
+													],
+													[
+														82.10378813320182,
+														29.464938911616373
+													],
+													[
+														82.04237889673942,
+														29.476194365463884
+													],
+													[
+														81.96319330235287,
+														29.446646134682397
+													],
+													[
+														81.9389528142757,
+														29.353019991866803
+													],
+													[
+														81.91875240754524,
+														29.29313861659638
+													],
+													[
+														81.8920878706599,
+														29.233222110277425
+													],
+													[
+														81.90259208215986,
+														29.19655000572537
+													],
+													[
+														81.9191503227973,
+														29.20354672470546
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "26485c93-c03d-40e5-b6ed-8338d5efd341",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "a58d1b3e-67f4-47f1-afba-e5550c0b5e05",
+						"sortorder": 0,
+						"tileid": "f504cf83-6e4b-41fe-9e88-f55e0258ab2c"
+					},
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Sinjā (सिन्जा)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "a58d1b3e-67f4-47f1-afba-e5550c0b5e05",
+						"sortorder": 0,
+						"tileid": "7fa61108-776f-47cd-993a-657d268426d0"
+					},
+					{
+						"data": {
+							"1ff5181c-9a75-11eb-9fd4-0242ac130007": "<p>The Sinja Valley is located in West Nepal, in the Jumla district. The Sinja river runs through the valley before joining the flows of the Karnali in Kalikot district. The area is marked by stunning sceneries of fertile paddy fields, a preserved vernacular architecture and a number of heritage sites. The landscape is dotted by medieval stone pillars, śikhara temples and fountains. Close to the village of Haṭ Sinja is the site of a ruined medieval fortress often identified as Yatse (Ya rtse), the capital of the Khaśa Malla empire (12 th -14 th century). In 2008, the Sinja Valley was enlisted on UNESCO&rsquo;s World Heritage Tentative List by the Government of Nepal (criteria ii and iii).</p>\n"
+						},
+						"nodegroup_id": "1ff5181c-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "a58d1b3e-67f4-47f1-afba-e5550c0b5e05",
+						"sortorder": 0,
+						"tileid": "b9860576-ab4b-4ee7-889f-13a1b5c9c87a"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "ee91186a-05a4-4094-a304-7a8d132c0c82"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Lagankhel/Lagãkhyaḥ (लगनखेल/लगँख्यः)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "ee91186a-05a4-4094-a304-7a8d132c0c82",
+						"sortorder": 0,
+						"tileid": "1f849649-c95a-4870-9813-a434ee09c76f"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "ee91186a-05a4-4094-a304-7a8d132c0c82",
+						"sortorder": 0,
+						"tileid": "38da4535-1d0a-4b36-bb9f-1c1c18846b48"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														85.32342210398793,
+														27.657869356771955
+													],
+													[
+														85.31678164798831,
+														27.66308264877493
+													],
+													[
+														85.32056891650626,
+														27.669366151822218
+													],
+													[
+														85.32985199582675,
+														27.66483617930804
+													],
+													[
+														85.32342210398793,
+														27.657869356771955
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "577f6ef3-3fb3-4556-a57e-e7546ac7e835",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "ee91186a-05a4-4094-a304-7a8d132c0c82",
+						"sortorder": 0,
+						"tileid": "d529822b-c305-4df3-8b90-113d9eca7f63"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "00a71d7f-01f6-4b80-8c0b-865423948d37"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Sunakothi/Sunāguthi (सुनकोथि/सुनागुथि)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "00a71d7f-01f6-4b80-8c0b-865423948d37",
+						"sortorder": 0,
+						"tileid": "50544747-5f36-4833-9dfe-b574f06b4acf"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "00a71d7f-01f6-4b80-8c0b-865423948d37",
+						"sortorder": 0,
+						"tileid": "2a4dbb6a-b709-4873-ae5f-7baf764b35f7"
+					},
+					{
+						"data": {
+							"1ff5181c-9a75-11eb-9fd4-0242ac130007": "<p>The Newar settlement of Sunaguthi, located c. 6 km south of Patan, is remarkably rich in its largely undocumented tangible and intangible heritage. Particularly the attempt to widen the main road where many of the heritage sites lie, has led to their extremely endangered status. NHDP has documented most of hose vulnerable sites.</p>\n"
+						},
+						"nodegroup_id": "1ff5181c-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "00a71d7f-01f6-4b80-8c0b-865423948d37",
+						"sortorder": 0,
+						"tileid": "515ffa28-6535-4e2e-9df2-b0edfce35fb7"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														85.31631095076438,
+														27.63458773365062
+													],
+													[
+														85.32028001993382,
+														27.63445610032538
+													],
+													[
+														85.32033699480115,
+														27.63151663621997
+													],
+													[
+														85.31593980236943,
+														27.631747240240686
+													],
+													[
+														85.31631095076438,
+														27.63458773365062
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "d9efc4ef-371c-4fe7-b8db-22f3843c7c86",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "00a71d7f-01f6-4b80-8c0b-865423948d37",
+						"sortorder": 0,
+						"tileid": "82f236fb-009a-4b6e-b0f2-4c8eab0635c5"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "52db97d3-c3b8-491c-8503-b727fc4ab5e8"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Guita (गुइत)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "52db97d3-c3b8-491c-8503-b727fc4ab5e8",
+						"sortorder": 0,
+						"tileid": "cf57c549-956a-4d15-9f6f-ac5881ba7b10"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "52db97d3-c3b8-491c-8503-b727fc4ab5e8",
+						"sortorder": 0,
+						"tileid": "0e88df67-714b-4fce-bac7-c905592717eb"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														85.3311984683678,
+														27.672139526820787
+													],
+													[
+														85.33424545780872,
+														27.67246258302076
+													],
+													[
+														85.33439566151327,
+														27.66987810667166
+													],
+													[
+														85.33130575672885,
+														27.66987810667166
+													],
+													[
+														85.3311984683678,
+														27.672139526820787
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "2442deea-5e70-44e1-a385-b5c2f28d1305",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "52db97d3-c3b8-491c-8503-b727fc4ab5e8",
+						"sortorder": 0,
+						"tileid": "0916ab7f-9186-42cc-bb81-0f1030ec6c9b"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "d6eed6b8-e2f7-47d0-b178-b9495070dbe6"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": " Khaḍācakra Koṭa Darbar (खडाचक्र कोत दरबार)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "d6eed6b8-e2f7-47d0-b178-b9495070dbe6",
+						"sortorder": 0,
+						"tileid": "293b141e-6abe-481e-9ced-07ee23b0d60e"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "d6eed6b8-e2f7-47d0-b178-b9495070dbe6",
+						"sortorder": 0,
+						"tileid": "8bb8f060-9987-40b2-8085-e18c04c52596"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														81.58940631039099,
+														29.152096262533364
+													],
+													[
+														81.59179846150926,
+														29.152103238899387
+													],
+													[
+														81.59176234268785,
+														29.150856861105923
+													],
+													[
+														81.58938976486428,
+														29.150970100770608
+													],
+													[
+														81.58940631039099,
+														29.152096262533364
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "4771a073-8062-4a5b-a7b3-8294ef407343",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "d6eed6b8-e2f7-47d0-b178-b9495070dbe6",
+						"sortorder": 0,
+						"tileid": "98cd24e2-b8eb-4e03-a20d-56b137755698"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "a53d02a0-6fe5-4ba1-aae2-305aed7f00c9"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Kirtipur (कीर्तिपुर)"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "a53d02a0-6fe5-4ba1-aae2-305aed7f00c9",
+						"sortorder": 0,
+						"tileid": "d06d89d0-aadd-4406-bcf4-4766e1a1f626"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														85.27046873828647,
+														27.683177887018134
+													],
+													[
+														85.27356866114417,
+														27.68359445400837
+													],
+													[
+														85.28193965905433,
+														27.674653936658019
+													],
+													[
+														85.27531764485781,
+														27.67345753951878
+													],
+													[
+														85.27256751874222,
+														27.67422665346956
+													],
+													[
+														85.27046873828647,
+														27.683177887018134
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "58284e9d-d3ec-407b-a4cf-5519fad1513f",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "a53d02a0-6fe5-4ba1-aae2-305aed7f00c9",
+						"sortorder": 0,
+						"tileid": "b405720d-f0c4-4e7d-bc5a-0b37091ed2d2"
+					},
+					{
+						"data": {
+							"1ff5181c-9a75-11eb-9fd4-0242ac130007": "<p>Kirtipur, an old Newar settlement of the Kathmandu Valley is believed to be founded by King Sadāśivadeva (ca. 1099-1126 CE). The citizens of this ancient Newar city have engaged in preserving the rich tangible and intangible heritage sites that have been included in the &lsquo;World Heritage List Nominations&rsquo; by UNESCO. The city, with its numerous temples, stūpas, caityas or arcaded platforms, dynamised by several impressive processions, festivals and other cultural activities, is a remarkable repository of cultural heritage from Nepal.&nbsp; Kirtipur hosts the unique Bāghabhairava temple, Cilincva Caitya and Umāmaheśvara temple.</p>\n"
+						},
+						"nodegroup_id": "1ff5181c-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "a53d02a0-6fe5-4ba1-aae2-305aed7f00c9",
+						"sortorder": 0,
+						"tileid": "a76e3acd-866f-48d6-a7f7-7c4866aafc58"
+					}
+				]
+			},
+			{
+				"resourceinstance": {
+					"graph_id": "1ff4e0b8-9a75-11eb-9fd4-0242ac130007",
+					"legacyid": null,
+					"resourceinstanceid": "9d323c41-a813-47ab-ac64-352f477ea86c"
+				},
+				"tiles": [
+					{
+						"data": {
+							"1ff5661e-9a75-11eb-9fd4-0242ac130007": "<p>Editor: David C. Andolfatto</p>\n\n<p>Descriptions, iconography, social and religious activities:&nbsp;David C. Andolfatto</p>\n\n<p>Drawings and architectural data:&nbsp;David C. Andolfatto</p>\n\n<p>Historical events, inscriptions:&nbsp;David C. Andolfatto</p>\n"
+						},
+						"nodegroup_id": "1ff550ac-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "9d323c41-a813-47ab-ac64-352f477ea86c",
+						"sortorder": 0,
+						"tileid": "252287ca-829c-4d23-b7cb-4f1eddeafa4d"
+					},
+					{
+						"data": {
+							"1ff4e32e-9a75-11eb-9fd4-0242ac130007": "Bhurti Temple Complex"
+						},
+						"nodegroup_id": "1ff4e32e-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "9d323c41-a813-47ab-ac64-352f477ea86c",
+						"sortorder": 0,
+						"tileid": "3c12ba58-12fe-4233-983c-3775ab29e0cb"
+					},
+					{
+						"data": {
+							"1ff50bce-9a75-11eb-9fd4-0242ac130007": false
+						},
+						"nodegroup_id": "1ff50bce-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "9d323c41-a813-47ab-ac64-352f477ea86c",
+						"sortorder": 0,
+						"tileid": "0881b068-34ca-4a16-bf3c-e536aa78bfea"
+					},
+					{
+						"data": {
+							"1ff511f0-9a75-11eb-9fd4-0242ac130007": {
+								"features": [
+									{
+										"geometry": {
+											"coordinates": [
+												[
+													[
+														81.72334024056278,
+														28.861659251279833
+													],
+													[
+														81.72314516635714,
+														28.861734503790218
+													],
+													[
+														81.7231846456603,
+														28.862119917820807
+													],
+													[
+														81.72348886853365,
+														28.862161611600884
+													],
+													[
+														81.7234052653024,
+														28.8619480579149
+													],
+													[
+														81.72340294298994,
+														28.861675522097558
+													],
+													[
+														81.72334024056278,
+														28.861659251279833
+													]
+												]
+											],
+											"type": "Polygon"
+										},
+										"id": "0c9ddffd84edf0f190d83f13307ac90d",
+										"properties": {
+											"nodeId": "1ff511f0-9a75-11eb-9fd4-0242ac130007"
+										},
+										"type": "Feature"
+									}
+								],
+								"type": "FeatureCollection"
+							}
+						},
+						"nodegroup_id": "1ff511f0-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "9d323c41-a813-47ab-ac64-352f477ea86c",
+						"sortorder": 0,
+						"tileid": "ae78defa-73a9-4b95-8e8d-fa73d1da82a4"
+					},
+					{
+						"data": {
+							"1ff5237a-9a75-11eb-9fd4-0242ac130007": [
+								{
+									"accepted": true,
+									"content": "blob:https://danam.cats.uni-heidelberg.de/5277e55a-f47c-4c31-a85a-da6fac880356",
+									"file_id": "24348380-dfea-11eb-aee3-0242ac120006",
+									"index": 0,
+									"lastModified": 1625748219733,
+									"name": "Bhurti_H_20140924.jpg",
+									"size": 818731,
+									"status": "uploaded",
+									"type": "image/jpeg",
+									"url": "/files/24348380-dfea-11eb-aee3-0242ac120006"
+								}
+							],
+							"1ff55c64-9a75-11eb-9fd4-0242ac130007": "Bhurtī Temple Complex, view from south-east; photo by David C. Andolfatto; 2014-09-24"
+						},
+						"nodegroup_id": "1ff5237a-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "9d323c41-a813-47ab-ac64-352f477ea86c",
+						"sortorder": 0,
+						"tileid": "eea78b93-d866-4283-b946-70dcbcabc417"
+					},
+					{
+						"data": {
+							"1ff5181c-9a75-11eb-9fd4-0242ac130007": "<p>The Bhurtī temple complex is located 3 km north of&nbsp;Nārāyaṇa, the Dailekh district headquarter. It currently comprises 22 standing&nbsp;<em>śikhara</em>&nbsp;temples (or&nbsp;<em>devala</em>) and one stone fountain. Architectural activity at the site can be situated between the 13<sup>th</sup>&nbsp;and 15<sup>th</sup>&nbsp;century, a time period corresponding to the latter part of the Khaśa Malla empire and the early phase of the&nbsp;Rāskoṭi dynasty.&nbsp;In 2008, the &ldquo;Bhurti Temple Complex of Dailekh&rdquo; was enlisted on UNESCO&rsquo;s World Heritage Tentative List by the Government of Nepal (criteria ii and iv).</p>\n"
+						},
+						"nodegroup_id": "1ff5181c-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "9d323c41-a813-47ab-ac64-352f477ea86c",
+						"sortorder": 0,
+						"tileid": "ec8ab209-190c-49e5-8d6d-2908cc8da18d"
+					},
+					{
+						"data": {
+							"1ff5615a-9a75-11eb-9fd4-0242ac130007": [
+								{
+									"accepted": true,
+									"content": "blob:https://danam.cats.uni-heidelberg.de/b80722db-7fb3-4ae8-88a2-e0499e1e1f97",
+									"file_id": "56ae2848-dfea-11eb-aee3-0242ac120006",
+									"index": 0,
+									"lastModified": 1625748307829,
+									"name": "Bhurti_D_2014_site_plan.png",
+									"size": 251261,
+									"status": "uploaded",
+									"type": "image/png",
+									"url": "/files/56ae2848-dfea-11eb-aee3-0242ac120006"
+								}
+							],
+							"1ff56286-9a75-11eb-9fd4-0242ac130007": "ebf3c557-eba0-4e6a-b846-ca94dd32e368",
+							"1ff563bc-9a75-11eb-9fd4-0242ac130007": "<p>Bhurti Temple Complex,&nbsp;site plan by David Andolfatto;&nbsp;2014</p>\n",
+							"1ff564e8-9a75-11eb-9fd4-0242ac130007": "<p>Bhurti Temple Complex; site plan by David Andolfatto, 2014</p>\n"
+						},
+						"nodegroup_id": "1ff53f4a-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "9d323c41-a813-47ab-ac64-352f477ea86c",
+						"sortorder": 0,
+						"tileid": "fea3929a-37c8-4e5c-b561-aea7695a33a3"
+					},
+					{
+						"data": {
+							"1ff54b0c-9a75-11eb-9fd4-0242ac130007": "<p>Andolfatto, D. C. 2019.&nbsp;<em>Le Pays aux Cent-Vingt-Cinq-Mille Montagnes. Etude Arch&eacute;ologique du Bassin de la Karnali (N&eacute;pal) entre le XIIe et le XVIe si&egrave;cle</em>. Paris: Sorbonne Universit&eacute;.</p>\n\n<p>Pokharel, Bishwo K. C. 2011.&nbsp;<em>Kīrtikhamba</em>. Kathmandu:&nbsp;Prakāśka.</p>\n\n<p>Sharma, Dilli Raj. 2012.&nbsp;<em>Heritage of Western Nepal. Art and Architecture</em>. Kathmandu:&nbsp;Centre for Nepal and Asian Studies.</p>\n\n<p>Sharma, P. R. 1972.&nbsp;<em>Preliminary Study of the Art and Architecture of the Karnali Basin, West Nepal.</em>&nbsp;Paris: CNRS.</p>\n"
+						},
+						"nodegroup_id": "1ff54b0c-9a75-11eb-9fd4-0242ac130007",
+						"parenttile_id": null,
+						"provisionaledits": null,
+						"resourceinstance_id": "9d323c41-a813-47ab-ac64-352f477ea86c",
+						"sortorder": 0,
+						"tileid": "34137be0-967f-4a1e-ab3e-67be8b899125"
+					}
+				]
+			}
+		]
+	}
+}

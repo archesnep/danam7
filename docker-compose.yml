@@ -13,7 +13,7 @@ services:
         - arches-static:/static_root
         - ./docker:/web_root/docker
         - ./docker/entrypoint.sh:/web_root/entrypoint.sh
-        - ./arches:/web_root/arches/arches/
+        # - ./arches:/web_root/arches/arches/
         - ./danam:/web_root/danam
         #- arches-uploadedfiles:/web_root/danam/danam/uploadedfiles
       env_file:

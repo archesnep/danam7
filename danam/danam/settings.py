@@ -2,9 +2,10 @@
 Django settings for danam project.
 """
 
-import os
-import arches
 import inspect
+import os
+
+import arches
 from django.utils.translation import gettext_lazy as _
 
 try:
@@ -13,8 +14,9 @@ except ImportError:
     pass
 
 APP_NAME = 'danam'
-APP_ROOT = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
-STATICFILES_DIRS =  (os.path.join(APP_ROOT, 'media'),) + STATICFILES_DIRS
+APP_ROOT = os.path.dirname(os.path.abspath(
+    inspect.getfile(inspect.currentframe())))
+STATICFILES_DIRS = (os.path.join(APP_ROOT, 'media'),) + STATICFILES_DIRS
 
 DATATYPE_LOCATIONS.append('danam.datatypes')
 FUNCTION_LOCATIONS.append('danam.functions')
@@ -27,7 +29,8 @@ TEMPLATES[0]['DIRS'].insert(0, os.path.join(APP_ROOT, 'templates'))
 LOCALE_PATHS.append(os.path.join(APP_ROOT, 'locale'))
 
 FILE_TYPE_CHECKING = False
-FILE_TYPES = ["bmp", "gif", "jpg", "jpeg", "pdf", "png", "psd", "rtf", "tif", "tiff", "xlsx", "csv", "zip"]
+FILE_TYPES = ["bmp", "gif", "jpg", "jpeg", "pdf", "png",
+              "psd", "rtf", "tif", "tiff", "xlsx", "csv", "zip"]
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '#u%i&d88@=-h!96mqnw$1$@i#cic5h26si(efk2g_l4ltu+1cy'
@@ -48,7 +51,8 @@ ELASTICSEARCH_CUSTOM_INDEXES = []
 # }]
 
 KIBANA_URL = "http://localhost:5601/"
-KIBANA_CONFIG_BASEPATH = "kibana"  # must match Kibana config.yml setting (server.basePath) but without the leading slash,
+# must match Kibana config.yml setting (server.basePath) but without the leading slash,
+KIBANA_CONFIG_BASEPATH = "kibana"
 # also make sure to set server.rewriteBasePath: true
 
 LOAD_DEFAULT_ONTOLOGY = False
@@ -103,7 +107,7 @@ MIDDLEWARE = [
     "corsheaders.middleware.CorsMiddleware",
     "django.middleware.security.SecurityMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
-    #'arches.app.utils.middleware.TokenMiddleware',
+    # 'arches.app.utils.middleware.TokenMiddleware',
     "django.middleware.locale.LocaleMiddleware",
     "django.middleware.common.CommonMiddleware",
     "django.middleware.csrf.CsrfViewMiddleware",
@@ -118,7 +122,8 @@ MIDDLEWARE = [
 
 ALLOWED_HOSTS = []
 
-SYSTEM_SETTINGS_LOCAL_PATH = os.path.join(APP_ROOT, 'system_settings', 'System_Settings.json')
+SYSTEM_SETTINGS_LOCAL_PATH = os.path.join(
+    APP_ROOT, 'system_settings', 'System_Settings.json')
 WSGI_APPLICATION = 'danam.wsgi.application'
 
 # URL that handles the media served from MEDIA_ROOT, used for managing stored files.
@@ -126,7 +131,7 @@ WSGI_APPLICATION = 'danam.wsgi.application'
 MEDIA_URL = '/files/'
 
 # Absolute filesystem path to the directory that will hold user-uploaded files.
-MEDIA_ROOT =  os.path.join(APP_ROOT)
+MEDIA_ROOT = os.path.join(APP_ROOT)
 
 # URL prefix for static files.
 # Example: "http://media.lawrence.com/static/"
@@ -195,27 +200,29 @@ CACHES = {
 # Hide nodes and cards in a report that have no data
 HIDE_EMPTY_NODES_IN_REPORT = False
 
-BYPASS_UNIQUE_CONSTRAINT_TILE_VALIDATION = False
-BYPASS_REQUIRED_VALUE_TILE_VALIDATION = False
+BYPASS_UNIQUE_CONSTRAINT_TILE_VALIDATION = True
+BYPASS_REQUIRED_VALUE_TILE_VALIDATION = True
 
-DATE_IMPORT_EXPORT_FORMAT = "%Y-%m-%d" # Custom date format for dates imported from and exported to csv
+# Custom date format for dates imported from and exported to csv
+DATE_IMPORT_EXPORT_FORMAT = "%Y-%m-%d"
 
 # This is used to indicate whether the data in the CSV and SHP exports should be
 # ordered as seen in the resource cards or not.
 EXPORT_DATA_FIELDS_IN_CARD_ORDER = False
 
-#Identify the usernames and duration (seconds) for which you want to cache the time wheel
+# Identify the usernames and duration (seconds) for which you want to cache the time wheel
 CACHE_BY_USER = {'anonymous': 3600 * 24}
-TILE_CACHE_TIMEOUT = 600 #seconds
-CLUSTER_DISTANCE_MAX = 5000 #meters
+TILE_CACHE_TIMEOUT = 600  # seconds
+CLUSTER_DISTANCE_MAX = 5000  # meters
 GRAPH_MODEL_CACHE_TIMEOUT = None
 
-MOBILE_OAUTH_CLIENT_ID = ''  #'9JCibwrWQ4hwuGn5fu2u1oRZSs9V6gK8Vu8hpRC4'
-MOBILE_DEFAULT_ONLINE_BASEMAP = {'default': 'mapbox://styles/mapbox/streets-v9'}
+MOBILE_OAUTH_CLIENT_ID = ''  # '9JCibwrWQ4hwuGn5fu2u1oRZSs9V6gK8Vu8hpRC4'
+MOBILE_DEFAULT_ONLINE_BASEMAP = {
+    'default': 'mapbox://styles/mapbox/streets-v9'}
 MOBILE_IMAGE_SIZE_LIMITS = {
     # These limits are meant to be approximates. Expect to see uploaded sizes range +/- 20%
     # Not to exceed the limit defined in DATA_UPLOAD_MAX_MEMORY_SIZE
-    "full": min(1500000, DATA_UPLOAD_MAX_MEMORY_SIZE), # ~1.5 Mb
+    "full": min(1500000, DATA_UPLOAD_MAX_MEMORY_SIZE),  # ~1.5 Mb
     "thumb": 400,  # max width/height in pixels, this will maintain the aspect ratio of the original image
 }
 
@@ -242,9 +249,11 @@ EMAIL_HOST_USER = "xxxx@xxx.com"
 
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
-CELERY_BROKER_URL = "" # RabbitMQ --> "amqp://guest:guest@localhost",  Redis --> "redis://localhost:6379/0"
+# RabbitMQ --> "amqp://guest:guest@localhost",  Redis --> "redis://localhost:6379/0"
+CELERY_BROKER_URL = ""
 CELERY_ACCEPT_CONTENT = ['json']
-CELERY_RESULT_BACKEND = 'django-db' # Use 'django-cache' if you want to use your cache as your backend
+# Use 'django-cache' if you want to use your cache as your backend
+CELERY_RESULT_BACKEND = 'django-db'
 CELERY_TASK_SERIALIZER = 'json'
 
 
@@ -252,8 +261,8 @@ CELERY_SEARCH_EXPORT_EXPIRES = 24 * 3600  # seconds
 CELERY_SEARCH_EXPORT_CHECK = 3600  # seconds
 
 CELERY_BEAT_SCHEDULE = {
-    "delete-expired-search-export": {"task": "arches.app.tasks.delete_file", "schedule": CELERY_SEARCH_EXPORT_CHECK,},
-    "notification": {"task": "arches.app.tasks.message", "schedule": CELERY_SEARCH_EXPORT_CHECK, "args": ("Celery Beat is Running",),},
+    "delete-expired-search-export": {"task": "arches.app.tasks.delete_file", "schedule": CELERY_SEARCH_EXPORT_CHECK, },
+    "notification": {"task": "arches.app.tasks.message", "schedule": CELERY_SEARCH_EXPORT_CHECK, "args": ("Celery Beat is Running",), },
 }
 
 # Set to True if you want to send celery tasks to the broker without being able to detect celery.
@@ -303,10 +312,10 @@ LANGUAGE_CODE = "en"
 # {langcode}-{regioncode} eg: en, en-gb ....
 # a list of language codes can be found here http://www.i18nguy.com/unicode/language-identifiers.html
 LANGUAGES = [
-#   ('de', _('German')),
-#   ('en', _('English')),
-#   ('en-gb', _('British English')),
-#   ('es', _('Spanish')),
+    #   ('de', _('German')),
+    #   ('en', _('English')),
+    #   ('en-gb', _('British English')),
+    #   ('es', _('Spanish')),
 ]
 
 # override this to permenantly display/hide the language switcher

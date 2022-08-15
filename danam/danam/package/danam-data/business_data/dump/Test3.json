@@ -1,0 +1,1579 @@
+{
+    "business_data": {
+        "resources": [{
+                "resourceinstance": {
+                    "graph_id": "6215ee02-990d-11ea-9766-0242ac130005",
+                    "legacyid": null,
+                    "resourceinstanceid": "2fa342fe-c738-49b2-b548-7753fa18e7ac"
+                },
+                "tiles": [{
+                        "data": {
+                            "1bb0731c-c2b9-11ea-a1e8-0242ac120007": "<ol>\n\t<li>\n\t<p>\u0950 \u0928\u092e: \u0936\u094d\u0930\u0940 \u092e\u0939\u093e{\u092d\u0948\u0930\u0935\u093e\u092f} \u0964 \u0969 \u0964 \u0936\u094d\u0930\u0947\u092f\u094b\u093d\u0938\u094d\u0924\u0941 \u0964</p>\n\t</li>\n\t<li>\n\t<p>\u0938\u092e\u094d\u0935\u0924\u094d \u096e\u0967\u096a \u091a\u0948\u0924\u094d\u0930 \u0915\u0943\u0937\u094d\u0923 \u0924\u094d\u0930\u092f\u094b\u0926\u0936\u0940 \u092a\u094d\u0930 \u091a\u0924\u0941\u0930\u094d\u0926\u094d\u0926\u0936\u0940, \u0909-</p>\n\t</li>\n\t<li>\n\t<p>\u0924\u094d\u0924\u094d\u0930\u092d\u0926\u094d\u0930 \u092a\u094d\u0930 \u0930\u0947\u0935\u0924\u0940 \u0928\u0915\u094d\u0937\u0924\u094d\u0930, \u0935\u0943\u0939\u0938\u094d\u092a\u0924\u093f\u0935\u093e\u0930, \u0925\u094d\u0935\u0915\u0941\u0928\u094d\u0939\u0941 \u0936\u094d\u0930\u0940-</p>\n\t</li>\n\t<li>\n\t<p>\u092e\u0924 \u0936\u094d\u0930\u0940\u0936\u094d\u0930\u0940 \u092e\u0939\u093e\u092d\u0948\u0930\u0935 \u092d\u091f\u094d\u091f\u093e\u0930\u0915\u093e\u0938\u0915\u0947 \u0916\u092a\u093f\u0928\u093f\u091b\u0947 \u091c\u093f\u0924\u094d\u0930-</p>\n\t</li>\n\t<li>\n\t<p>\u0938\u093f\u0902\u0939 \u092a\u094d\u0930\u091c\u093e\u092a\u0924\u093f, \u092e\u093e\u0932\u0938\u093f\u0902\u0939 \u0927\u0902\u0924\u0941\u0932\u093f, \u092a\u0941\u0928\u0938\u093f\u0902\u0939 \u0927\u0902\u0924\u0941-</p>\n\t</li>\n\t<li>\n\t<p>\u0932\u093f, \u092e\u093e\u0932\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u092c\u0926\u0947 \u092d\u093e\u0935\u094b, \u092e\u0928\u093f\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b,</p>\n\t</li>\n\t<li>\n\t<p>\u0935\u093e\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u092a\u0941\u0928\u0938\u093f\u0902\u0939 \u0927\u0902\u0924\u0941\u0932\u093f, \u092e\u0928\u093f\u0938\u093f\u0902\u0939 \u0927\u0902\u0924\u0941-</p>\n\t</li>\n\t<li>\n\t<p>\u0932\u093f, \u0915\u0943\u0937\u094d\u0923\u0930\u093e\u092e \u092d\u093e\u0935\u094b, \u092c\u0941\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u091b\u0947\u0939\u094d\u092f\u094b\u092f<sup data-footnote-id=\"lw9vf\"><a href=\"#footnote-1\" id=\"footnote-marker-1-1\" rel=\"footnote\">[1]</a></sup>&nbsp;\u092c\u0941\u0938\u093f\u0902-</p>\n\t</li>\n\t<li>\n\t<p>\u0939 \u092d\u093e\u0935\u094b, \u092d\u093e\u0917\u0940\u0930\u093e\u092e \u0932\u0902, \u092e\u093e\u0939\u093e\u0928 \u0926\u0947\u0935\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b,</p>\n\t</li>\n\t<li>\n\t<p>\u0928\u092f\u0928\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u092c\u0926\u0947 \u092d\u093e\u0935\u094b, \u092d\u093e\u0917\u0940\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b,</p>\n\t</li>\n\t<li>\n\t<p>\u0927\u0930\u094d\u092e\u094d\u092e\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u092e\u093e\u0928\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u092e\u093e\u0927\u0935\u0938\u093f\u0902\u0939</p>\n\t</li>\n\t<li>\n\t<p>\u092d\u093e\u0935\u094b, \u092e\u093e\u0928\u0938\u093f\u0902\u0939 \u0927\u0902\u0917\u0941\u0932\u093f, \u0925\u094d\u0935\u0924\u0947 \u0938\u092e\u0942\u0939\u0928 \u091a\u0924\u0941-</p>\n\t</li>\n\t<li>\n\t<p>\u0930\u094d\u0926\u094d\u0926\u0936\u0940 \u0938\u0947\u0935\u093e \u0926\u092f\u0915\u0902 \u0925\u094d\u0935 \u091a\u092a\u093e\u0921 \u0932\u093f\u0935\u0928\u0947 \u091b\u0947 \u0926\u0919\u093e-</p>\n\t</li>\n\t<li>\n\t<p>\u0935 \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093e \u092f\u093e\u0919\u093e \u0926\u093f\u0928 \u091c\u0941\u0930\u094b \u0964 \u092f\u0925\u093e\u0936\u093e\u0938\u094d\u0924\u094d\u0930\u094b\u0915\u094d\u0924-</p>\n\t</li>\n\t<li>\n\t<p>\u092b\u0932\u092e\u0938\u094d\u0924\u0941 \u0964 \u0936\u0941\u092d \u0964</p>\n\t</li>\n\t<li>\n\t<section class=\"footnotes\">\n\t<header>\n\t<h2>Footnotes</h2>\n\t</header>\n\n\t<ol>\n\t\t<li data-footnote-id=\"lw9vf\" id=\"footnote-1\"><sup><a href=\"#footnote-marker-1-1\">^</a> </sup><cite>A similar term \u091b\u0947\u092e\u094d\u0939\u094b\u092f (chemhoya) appears in another inscription from the same monument (LAL_1780_0002). The unclear term appears to be a name of a nearby locality.</cite></li>\n\t</ol>\n\t</section>\n\t</li>\n</ol>\n",
+                            "374255f0-c2b9-11ea-ac0e-0242ac120007": "<ol>\n\t<li>\n\t<p>o\u1e43 nama\u1e25 \u015br\u012b mah\u0101{bhairav\u0101ya} \u0964 3 \u0964 \u015breyo &#39;stu \u0964</p>\n\t</li>\n\t<li>\n\t<p>samvat 814 caitra k\u1e5b\u1e63\u1e47a trayoda\u015b\u012b pra caturdda\u015b\u012b, u-</p>\n\t</li>\n\t<li>\n\t<p>ttrabhadra pra revat\u012b nak\u1e63atra, v\u1e5bhaspativ\u0101ra, thvakunhu \u015br\u012b-</p>\n\t</li>\n\t<li>\n\t<p>mata \u015br\u012b\u015br\u012b mah\u0101bhairava bha\u1e6d\u1e6d\u0101rak\u0101sake khapiniche jitra-</p>\n\t</li>\n\t<li>\n\t<p>si\u1e43ha praj\u0101pati, m\u0101lasi\u1e43ha dha\u1e43tuli, punasi\u1e43ha dha\u1e43tu-</p>\n\t</li>\n\t<li>\n\t<p>li, m\u0101lasi\u1e43ha bh\u0101vo, bade bh\u0101vo, manisi\u1e43ha bh\u0101vo,</p>\n\t</li>\n\t<li>\n\t<p>v\u0101si\u1e43ha bh\u0101vo, punasi\u1e43ha dha\u1e43tuli, manisi\u1e43ha dha\u1e43tu-</p>\n\t</li>\n\t<li>\n\t<p>li, k\u1e5b\u1e63\u1e47ar\u0101ma bh\u0101vo, busi\u1e43ha bh\u0101vo, chehyoya busi\u1e43-</p>\n\t</li>\n\t<li>\n\t<p>ha bh\u0101vo, bh\u0101g\u012br\u0101ma la\u1e43, m\u0101h\u0101na devasi\u1e43ha bh\u0101vo,</p>\n\t</li>\n\t<li>\n\t<p>nayanasi\u1e43ha bh\u0101vo, bade bh\u0101vo, bh\u0101g\u012bsi\u1e43ha bh\u0101vo,</p>\n\t</li>\n\t<li>\n\t<p>dharmmasi\u1e43ha bh\u0101vo, m\u0101nasi\u1e43ha bh\u0101vo, m\u0101dhavasi\u1e43ha</p>\n\t</li>\n\t<li>\n\t<p>bh\u0101vo, m\u0101nasi\u1e43ha dha\u1e43guli, thvate sam\u016bhana catu-</p>\n\t</li>\n\t<li>\n\t<p>rdda\u015b\u012b sev\u0101 dayaka\u1e43 thva cap\u0101\u1e0da livane che da\u1e45\u0101-</p>\n\t</li>\n\t<li>\n\t<p>va prati\u1e63\u1e6dh\u0101 y\u0101\u1e45\u0101 dina juro \u0964 yath\u0101\u015b\u0101strokta-</p>\n\t</li>\n\t<li>\n\t<p>phalam astu \u0964 \u015bubha \u0964</p>\n\t</li>\n</ol>\n",
+                            "f524c98c-c2b8-11ea-a1e8-0242ac120007": "<ol>\n\t<li>\n\t<p>\u27c5\u0950\u0928\u092e:\u0936\u094d\u0930\u0940\u092e\u0939\u093e{\u092d\u0948\u0930\u0935\u093e\u092f}\u0965 \u0969 \u0965\u0936\u094d\u0930\u0947\u092f\u094b\u093d\u0938\u094d\u0924\u0941\u0964</p>\n\t</li>\n\t<li>\n\t<p>\u0938\u092e\u094d\u0935\u0924\u094d\u096e\u0967\u096a\u091a\u0948\u0924\u094d\u0930\u0915\u0943\u0937\u094d\u0923\u0965\u0924\u094d\u0930\u092f\u094b\u0926\u0936\u0940\u092a\u094d\u0930\u091a\u0924\u0941\u0930\u094d\u0926\u094d\u0926\u0936\u0940\u0964\u0909</p>\n\t</li>\n\t<li>\n\t<p>\u0924\u094d\u0924\u094d\u0930\u092d\u0926\u094d\u0930\u092a\u094d\u0930\u0930\u0947\u0935\u0924\u0940\u0928\u0915\u094d\u0937\u0924\u094d\u0930\u0965\u0935\u0943\u0939\u0938\u094d\u092a\u0924\u093f\u0935\u093e\u0930\u0965\u0925\u094d\u0935\u0915\u0941\u0928\u094d\u0939\u0941\u0936\u094d\u0930\u0940</p>\n\t</li>\n\t<li>\n\t<p>\u092e\u0924\u0936\u094d\u0930\u0940\u0936\u094d\u0930\u0940\u092e\u0939\u093e\u092d\u0948\u0930\u0935\u092d\u091f\u094d\u091f\u093e\u0930\u0915\u093e\u0938\u0915\u0947\u0916\u092a\u093f\u0928\u093f\u091b\u0947\u091c\u093f\u0924\u094d\u0930</p>\n\t</li>\n\t<li>\n\t<p>\u0938\u093f\u0902\u0939\u092a\u094d\u0930\u091c\u093e\u092a\u0924\u093f\u092e\u093e\u0932\u0938\u093f\u0902\u0939\u0927\u0902\u0924\u0941\u0932\u093f\u092a\u0941\u0928\u0938\u093f\u0902\u0939\u0927\u0902\u0924\u0941</p>\n\t</li>\n\t<li>\n\t<p>\u0932\u093f\u092e\u093e\u0932\u0938\u093f\u0902\u0939\u092d\u093e\u0935\u094b\u092c\u0926\u0947\u092d\u093e\u0935\u094b\u092e\u0928\u093f\u0938\u093f\u0902\u0939\u092d\u093e\u0935\u094b</p>\n\t</li>\n\t<li>\n\t<p>\u0935\u093e\u0938\u093f\u0902\u0939\u092d\u093e\u0935\u094b\u092a\u0941\u0928\u0938\u093f\u0902\u0939\u0927\u0902\u0924\u0941\u0932\u093f\u092e\u0928\u093f\u0938\u093f\u0902\u0939\u0927\u0902\u0924\u0941</p>\n\t</li>\n\t<li>\n\t<p>\u0932\u093f\u0915\u0943\u0937\u094d\u0923\u0930\u093e\u092e\u092d\u093e\u0935\u094b\u092c\u0942\u0938\u093f\u0902\u0939\u092d\u093e\u0935\u094b\u091b\u0947\u0939\u094d\u092f\u094b\u092f\u092c\u0941\u0938\u093f\u0902</p>\n\t</li>\n\t<li>\n\t<p>\u0939\u092d\u093e\u0935\u094b\u092d\u093e\u0917\u0940\u0930\u093e\u092e\u0932\u0902\u092e\u093e\u0939\u093e\u0928\u0926\u0947\u0935\u0938\u093f\u0902\u0939\u092d\u093e\u0935\u094b</p>\n\t</li>\n\t<li>\n\t<p>\u0928\u092f\u0928\u0938\u093f\u0902\u0939\u092d\u093e\u0935\u094b\u02f4\u092c\u0926\u0947\u092d\u093e\u0935\u094b\u092d\u093e\u0917\u0940\u0938\u093f\u0902\u0939\u092d\u093e\u0935\u094b</p>\n\t</li>\n\t<li>\n\t<p>\u0927\u0930\u094d\u092e\u094d\u092e\u0938\u093f\u0902\u0939\u092d\u093e\u0935\u094b\u092e\u093e\u0928\u0938\u093f\u0902\u0939\u092d\u093e\u0935\u094b\u02f4\u092e\u093e\u0927\u0935\u0938\u093f\u0902\u0939</p>\n\t</li>\n\t<li>\n\t<p>\u092d\u093e\u0935\u094b\u092e\u093e\u0928\u0938\u093f\u0902\u0939\u0927\u0902\u0917\u0941\u0932\u093f\u02f4\u0925\u094d\u0935\u0924\u0947\u0938\u092e\u0942\u0939\u0928\u091a\u0924\u0941</p>\n\t</li>\n\t<li>\n\t<p>\u0930\u094d\u0926\u094d\u0926\u0936\u0940\u0938\u0947\u0935\u093e\u0926\u092f\u0915\u0902\u0925\u094d\u0935\u091a\u092a\u093e\u0921\u0932\u093f\u0935\u0928\u0947\u091b\u0947\u0926\u0919\u093e</p>\n\t</li>\n\t<li>\n\t<p>\u0935\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093e\u092f\u093e\u0919\u093e\u0926\u093f\u0928\u091c\u0941\u0930\u094b\u0965\u092f\u0925\u093e\u0936\u093e\u0938\u094d\u0924\u094d\u0930\u094b\u0915\u094d\u0924</p>\n\t</li>\n\t<li>\n\t<p>\u092b\u0932\u092e\u0938\u094d\u0924\u0941\u0965\u0936\u0941\u092d\u0965</p>\n\t</li>\n</ol>\n"
+                        },
+                        "nodegroup_id": "cb493e7c-c2b8-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "e00bd990-4beb-4839-b558-5d664c5a1a9c"
+                    }, {
+                        "data": {
+                            "e871483e-c2b1-11ea-a1e8-0242ac120007": {
+                                "features": [{
+                                        "geometry": {
+                                            "coordinates": [85.32785641623008, 27.67364612723757],
+                                            "type": "Point"
+                                        },
+                                        "id": "6e8579e3-9713-4fc8-b9a4-d01ba4c7f4c4",
+                                        "properties": {
+                                            "nodeId": "e871483e-c2b1-11ea-a1e8-0242ac120007"
+                                        },
+                                        "type": "Feature"
+                                    }
+                                ],
+                                "type": "FeatureCollection"
+                            }
+                        },
+                        "nodegroup_id": "e871483e-c2b1-11ea-a1e8-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "eb5496d3-8167-4a39-97d7-e553d8ae873f"
+                    }, {
+                        "data": {
+                            "bb5ef1b6-990d-11ea-82af-0242ac130005": "<p>A stone slab inscription at the Khapi\u1e43che\u0303 Bhairava Mandira in Khapi\u1e43che\u0303 \u1e6cola, Patan re the formation of a <em>gu\u1e6dh\u012b</em> and construction of a building (NS 814)</p>\n"
+                        },
+                        "nodegroup_id": "bb5ef1b6-990d-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "6e059bf3-4cfc-4676-b01f-265193a126d5"
+                    }, {
+                        "data": {
+                            "00a936da-c2b4-11ea-ac0e-0242ac120007": ["bec76f54-af97-4dba-a2e5-1db70334833d"],
+                            "00a93838-c2b4-11ea-ac0e-0242ac120007": ["30ddccb7-9c2b-445b-ab1b-c3c8258c0be8"],
+                            "00a9396e-c2b4-11ea-ac0e-0242ac120007": "2021-02-05",
+                            "00a93aa4-c2b4-11ea-ac0e-0242ac120007": null,
+                            "00a93bd0-c2b4-11ea-ac0e-0242ac120007": "<p>Transfered.</p>\n"
+                        },
+                        "nodegroup_id": "00a9327a-c2b4-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "674b0927-2ea5-4755-9a08-8b9847571bb6"
+                    }, {
+                        "data": {
+                            "3c41954c-1503-11eb-8f70-0242ac120002": null,
+                            "dac84bae-1501-11eb-b1dc-0242ac120002": ["ed96179a-ac4a-4019-8687-d383155efb41"]
+                        },
+                        "nodegroup_id": "24549ed2-990e-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "456c2a73-14c2-43d8-8626-1ca551184f09"
+                    }, {
+                        "data": {
+                            "d91cb788-990d-11ea-9766-0242ac130005": "<p>This inscription records the formation of the Caturda\u015b\u012b Sev\u0101 Guthi and construction of a new building behind the Khapi\u1e43che\u0303 Bhairava Mandira.</p>\n"
+                        },
+                        "nodegroup_id": "d91cb788-990d-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "4d5b76cc-1716-4c2c-addb-6d67621e171b"
+                    }, {
+                        "data": {
+                            "94b5b75c-990d-11ea-9766-0242ac130005": "LAL1780_I_005"
+                        },
+                        "nodegroup_id": "94b5b75c-990d-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "b8591e33-f6ff-47e6-9858-10b85676eb0a"
+                    }, {
+                        "data": {
+                            "4abb9be8-19dd-11eb-bd1f-0242ac120002": "8dd98b14-1052-4e72-9289-3c58a763bb81",
+                            "c2d1328c-19dd-11eb-bd1f-0242ac120002": "<p>A few letters are not clearly readable because they have been slightly covered by substances.</p>\n",
+                            "cdfe66b0-4a8a-11eb-b215-0242ac130009": "c0a31639-bbb4-4634-85c0-81b5262eec72"
+                        },
+                        "nodegroup_id": "2c84d388-19dd-11eb-b554-0242ac120002",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "19e8c9a2-e051-4c8e-ae8e-b78e2f7806e2"
+                    }, {
+                        "data": {
+                            "e3735d6e-6210-11eb-9e66-0242ac130009": "<p>An image of K\u0101la Bhairava is carved at the top of the slab. He is flanked by images of sun and moon.</p>\n"
+                        },
+                        "nodegroup_id": "e3735d6e-6210-11eb-9e66-0242ac130009",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "87705d28-eaa8-4642-b17b-f18ab5815f59"
+                    }, {
+                        "data": {
+                            "09b67380-c2bb-11ea-ac0e-0242ac120007": null,
+                            "36d144ea-c2ba-11ea-a1e8-0242ac120007": null,
+                            "c0f199d6-c2ba-11ea-a1e8-0242ac120007": "<p>Yogesh Budathoki</p>\n",
+                            "f05cef86-c2ba-11ea-ac0e-0242ac120007": "<p>Bharat Maharjan&nbsp;and Rajendra Shakya in collaboration with Rajan Khatiwoda</p>\n",
+                            "fc3e4008-c2b9-11ea-a1e8-0242ac120007": null,
+                            "fdaa84ba-c2b9-11ea-a1e8-0242ac120007": null
+                        },
+                        "nodegroup_id": "5c2efa0e-9914-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "f0ba4516-e102-478d-a07b-ed67db8886ad"
+                    }, {
+                        "data": {
+                            "995c8a8c-c2bc-11ea-ac0e-0242ac120007": "LAL1780_I_005 A stone slab inscription at the Khapi\u1e43che\u0303 Bhairava Mandira in Khapi\u1e43che\u0303 \u1e6cola, Patan (NS 814)"
+                        },
+                        "nodegroup_id": "2af022e8-c2bc-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "d7ce2bcd-c273-47ce-9213-8f5909a0af12"
+                    }, {
+                        "data": {
+                            "c0dc905a-9910-11ea-9766-0242ac130005": "<p><a href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL1780_D_2020_location_map.png\" target=\"_blank\"><img alt=\"\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL1780_D_2020_location_map.png\" style=\"height:283px; width:200px\" /></a><a href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL1780_A_2019_FLOOR_PLAN.png\" target=\"_blank\"><img alt=\"\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL1780_A_2019_FLOOR_PLAN.png\" style=\"height:141px; width:200px\" /></a></p>\n\n<p>Khapi\u1e43che\u0303 Bhairava Mandira,&nbsp;location map (drawing by Niels Gutschow and Bijay Basukala, 1990, updated by Bibek Basukala, May 2020)</p>\n\n<p>Khapi\u1e43che\u0303 Bhairava Mandira, site plan&nbsp;(drawing by Sabina Tandukar, March 2019)</p>\n"
+                        },
+                        "nodegroup_id": "c0dc905a-9910-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "60ca0c32-8386-42de-8451-5fec1159dd8a"
+                    }, {
+                        "data": {
+                            "2a4115cc-444f-11eb-8cb5-0242ac130007": "<p>On Thursday, the 13<sup>th</sup>/14<sup>th</sup> of the dark fortnight of <a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/3a0652b7-e273-480b-a973-1172461ec0d0\"><strong>Caitra</strong></a> in NS 814 (1694 CE), Jitrasi\u1e43ha Praj\u0101pati and 20 others of Khapi\u1e43che\u0303 formed a trust named Caturda\u015b\u012b Sev\u0101 [that worships Lord <a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/1a64c0f0-7fcb-4a20-afb0-c783c9e6f561\"><strong>Bhairava</strong></a> on the 14<sup>th</sup> of the dark fortnight every month] and constructed a new building behind this <a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/669079d4-2a69-4821-91ca-a176520ce1ce\"><strong><em>cap\u0101\u1e25</em></strong></a>. Let the merits as described in the scriptures be fulfilled by the accomplishment of this act.</p>\n",
+                            "440f482a-444f-11eb-8822-0242ac130007": "<p>\u0928\u0947\u0938\u0902 \u096e\u0967\u096a \u091a\u0948\u0924\u094d\u0930 \u0915\u0943\u0937\u094d\u0923 \u0924\u094d\u0930\u092f\u094b\u0926\u0936\u0940-\u091a\u0924\u0941\u0930\u094d\u0926\u0936\u0940 \u0935\u093f\u0939\u093f\u0935\u093e\u0930\u0915\u094b \u0926\u093f\u0928\u092e\u093e \u0916\u092a\u093f\u0902\u091b\u0947\u0901\u0915\u093e \u091c\u093f\u0924\u094d\u0930\u0938\u093f\u0902\u0939 \u092a\u094d\u0930\u091c\u093e\u092a\u0924\u093f, \u092e\u093e\u0932\u0938\u093f\u0902\u0939 \u0927\u0902\u0924\u0941\u0932\u093f, \u092a\u0941\u0928\u0938\u093f\u0902\u0939 \u0927\u0902\u0924\u0941\u0932\u093f, \u092e\u093e\u0932\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u092c\u0926\u0947 \u092d\u093e\u0935\u094b, \u092e\u0928\u093f\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u0935\u093e\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u092a\u0941\u0928\u0938\u093f\u0902\u0939 \u0927\u0902\u0924\u0941\u0932\u093f, \u092e\u0928\u093f\u0938\u093f\u0902\u0939 \u0927\u0902\u0924\u0941\u0932\u093f, \u0915\u0943\u0937\u094d\u0923\u0930\u093e\u092e \u092d\u093e\u0935\u094b, \u092c\u0941\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u092f\u092c\u0941\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u092d\u093e\u0917\u0940\u0930\u093e\u092e \u0932\u0902 \u092e\u093e\u0939\u093e\u0928, \u0926\u0947\u0935\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u0928\u092f\u0928\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u092c\u0926\u0947 \u092d\u093e\u0935\u094b, \u092d\u093e\u0917\u0940\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u0927\u0930\u094d\u092e\u094d\u092e\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u092e\u093e\u0928\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u092e\u093e\u0927\u0935\u0938\u093f\u0902\u0939 \u092d\u093e\u0935\u094b, \u092e\u093e\u0928\u0938\u093f\u0902\u0939 \u0927\u0902\u0917\u0941\u0932\u093f\u0915\u094b \u0938\u092e\u0942\u0939\u0932\u0947 \u092e\u093f\u0932\u0947\u0930 \u0916\u092a\u093f\u0902\u091b\u0947\u0901 \u092d\u0948\u0930\u0935\u0915\u094b \u0938\u0947\u0935\u093e \u0917\u0930\u094d\u0928 \u091a\u0924\u0941\u0930\u094d\u0926\u0936\u0940 \u0938\u0947\u0935\u093e \u0917\u0941\u0920\u0940 \u092c\u0928\u093e\u090f\u0930 \u092d\u0948\u0930\u0935\u0915\u094b \u091a\u092a\u093e: \u092a\u091b\u093e\u0921\u093f \u0918\u0930 \u092c\u0928\u093e\u0907\u0926\u093f\u090f \u0964 \u092f\u094b \u0915\u093e\u0930\u094d\u092f \u0917\u0930\u0947\u0935\u093e\u092a\u0924 \u0936\u093e\u0938\u094d\u0924\u094d\u0930\u092e\u093e \u0932\u0947\u0916\u093f\u090f\u092c\u092e\u094b\u091c\u092e \u092b\u0932 \u092e\u093f\u0932\u094b\u0938\u094d \u0964</p>\n"
+                        },
+                        "nodegroup_id": "0f61b3a6-444f-11eb-8cb5-0242ac130007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "7cbb23d9-3dc4-4c72-8b5a-4f4ca91c387b"
+                    }, {
+                        "data": {
+                            "21bb1b74-4a7f-11eb-85ba-0242ac130009": null,
+                            "30ccd388-4a8d-11eb-85ba-0242ac130009": "<p>Only the first and last line are written&nbsp;in Sanskrit.</p>\n",
+                            "317c3c4a-4a80-11eb-85ba-0242ac130009": ["79a993db-57d3-4911-a834-5044e9acbb81"],
+                            "4759fb84-c2b7-11ea-a1e8-0242ac120007": ["9218255b-3657-4c79-9561-f6ff2ea0b553"],
+                            "48427b8c-99c9-11ea-9766-0242ac130005": "<p>Pracalita Newari</p>\n",
+                            "5dcf79fa-99c9-11ea-82af-0242ac130005": ["89f4eead-5aa3-43d6-9cc2-07189d991018", "50f38f01-d696-4e38-b8ee-de0833e18c81"],
+                            "bcb695b6-99ce-11ea-9766-0242ac130005": ["1d6db6e5-8bad-4057-8916-79686475bfb1"],
+                            "fd2469c4-c2b5-11ea-ac0e-0242ac120007": "<p>Attached to a wall.</p>\n"
+                        },
+                        "nodegroup_id": "ff165b54-99c8-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "5ae02308-55f7-4702-b4ec-6cb88508be4e"
+                    }, {
+                        "data": {
+                            "536b77fa-5b04-11eb-9e66-0242ac130009": null,
+                            "b727b1a0-5aff-11eb-9e66-0242ac130009": ["f869a6d3-bdf6-4f6f-8001-7d4e4db210f5"],
+                            "e71d2d60-c2b4-11ea-ac0e-0242ac120007": null,
+                            "e71d2f04-c2b4-11ea-ac0e-0242ac120007": ["457be2cd-a56d-48ad-9813-b7e0e16456bb"],
+                            "e71d3076-c2b4-11ea-ac0e-0242ac120007": ["5774b022-ba4c-48a3-b5ee-9a48cf3b54fd", "95208887-f1be-4c93-89a8-a8cf566d3c9c"],
+                            "e71d31e8-c2b4-11ea-ac0e-0242ac120007": null,
+                            "e71d335a-c2b4-11ea-ac0e-0242ac120007": "1694",
+                            "e71d34c2-c2b4-11ea-ac0e-0242ac120007": ["cf5b640e-81ab-48d9-a3e0-58272687eb2d"],
+                            "e71d3634-c2b4-11ea-ac0e-0242ac120007": ["b662d771-7b38-481a-aca9-df8ac3a773c7"],
+                            "e71d379c-c2b4-11ea-ac0e-0242ac120007": null,
+                            "e71d3904-c2b4-11ea-ac0e-0242ac120007": "<p>NS 814</p>\n"
+                        },
+                        "nodegroup_id": "e71d2810-c2b4-11ea-ac0e-0242ac120007",
+                        "parenttile_id": "5ae02308-55f7-4702-b4ec-6cb88508be4e",
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "07568984-d5e8-46b5-99e4-efc1dbccf286"
+                    }, {
+                        "data": {
+                            "2591e954-9a98-11ea-82af-0242ac130005": "<p><a href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL1780_I_20190329_05.jpg\" target=\"_blank\"><img alt=\"\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL1780_I_20190329_05.jpg\" style=\"height:300px; width:200px\" /></a></p>\n\n<p>Khapi\u1e43che\u0303 Bhairava Mandira at Khapi\u1e43che\u0303 \u1e6cola, stone slab inscription from NS 814, view from W; photo by Yogesh Budathoki; 2019-03-29</p>\n",
+                            "556786b0-443f-11eb-8822-0242ac130007": 1,
+                            "5e2cb4f4-4440-11eb-8822-0242ac130007": "https://doi.org/10.11588/heidicon/1243874",
+                            "d168cb48-990e-11ea-82af-0242ac130005": null
+                        },
+                        "nodegroup_id": "a26efc40-990e-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "c70fccb6-f3de-4720-a12e-ebdb49a13333"
+                    }, {
+                        "data": {
+                            "83f4a4a4-990e-11ea-9766-0242ac130005": "<p>This inscription records two events: formation of a trust named Caturda\u015b\u012b Sev\u0101 and construction of a new building behind the <a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/669079d4-2a69-4821-91ca-a176520ce1ce\"><strong><em>cap\u0101\u1e25</em></strong></a>. Interestingly, other inscriptions from the same monument (<a href=\"https://danam.cats.uni-heidelberg.de/report/cfe8dd82-2a42-40fb-b87a-4dcae99e3944\"><strong>LAL_1780_0006</strong></a> and <a href=\"https://danam.cats.uni-heidelberg.de/report/bb7faf70-abe2-469e-af49-155168b3fc7a\"><strong>LAL_1780_0002</strong></a>), dated NS 794 (1674 CE) and NS 802 (1682 CE) respectively, also record setting up a Caturda\u015b\u012b Sev\u0101 Guthi, which basically is a religious service dedicated to a certain deity performed on the 14th of the dark fortnight of every lunar month. It is likely that the <a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/a2c86d1a-a308-4dc7-9dad-5f00ec3991e0\"><strong><em>guthi</em></strong></a> was in existence even before 1674 CE and was regularly being reconstituted or additional activities were being introduced in the religious service, which were recorded in these inscriptions. The names of some of the donors appear in all three inscriptions. Unfortunately, this service is no longer performed at the Khapi\u1e43che\u0303 Bhairava temple.<br />\nThe inscription refers to the temple as a <em>cap\u0101\u1e25</em>, although we know that it already took the shape of a <a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/0aeae6c8-ac95-40af-8c7e-3e9ba1e4bb29\"><strong><em>dega\u1e25</em></strong></a> two decades ago. For more on this, see LAL_1780_0006. The new building constructed behind the <em>cap\u0101\u1e25</em> was probably the <em>guthi</em> house that still exists.</p>\n"
+                        },
+                        "nodegroup_id": "83f4a4a4-990e-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "ff982d9e-c71c-45c1-9544-a8f68e46d3a3"
+                    }, {
+                        "data": {
+                            "1bd8d676-c698-11ea-a1e8-0242ac120007": [{
+                                    "inverseOntologyProperty": "",
+                                    "ontologyProperty": "",
+                                    "resourceId": "cfc0099e-f15d-4c3e-8d8f-e048222f7956",
+                                    "resourceXresourceId": "3d4a015e-c9ee-11eb-859b-0242ac160006"
+                                }
+                            ],
+                            "90bc279a-443d-11eb-8cb5-0242ac130007": "Khapi\u1e43che\u0303 Bhairava Mandira, Patan; 85.32785641623008,27.67364612723757"
+                        },
+                        "nodegroup_id": "d41e168e-c697-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "2fa342fe-c738-49b2-b548-7753fa18e7ac",
+                        "sortorder": 0,
+                        "tileid": "f9fc9ef9-bde8-4a21-86f0-b7d2f2a8d542"
+                    }
+                ]
+            }, {
+                "resourceinstance": {
+                    "graph_id": "6215ee02-990d-11ea-9766-0242ac130005",
+                    "legacyid": null,
+                    "resourceinstanceid": "e389e8aa-2ed8-4d22-b01b-1cea69d09b50"
+                },
+                "tiles": [{
+                        "data": {
+                            "995c8a8c-c2bc-11ea-ac0e-0242ac120007": "test"
+                        },
+                        "nodegroup_id": "2af022e8-c2bc-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "e389e8aa-2ed8-4d22-b01b-1cea69d09b50",
+                        "sortorder": 0,
+                        "tileid": "571be3cc-aeb5-448f-812d-c7cfad0167d5"
+                    }, {
+                        "data": {
+                            "94b5b75c-990d-11ea-9766-0242ac130005": "testdadw"
+                        },
+                        "nodegroup_id": "94b5b75c-990d-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "e389e8aa-2ed8-4d22-b01b-1cea69d09b50",
+                        "sortorder": 0,
+                        "tileid": "7c17e8df-00e7-439a-88a4-2d655a10cc7f"
+                    }, {
+                        "data": {
+                            "bb5ef1b6-990d-11ea-82af-0242ac130005": "<p>dawwdadwdaw</p>\n"
+                        },
+                        "nodegroup_id": "bb5ef1b6-990d-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "e389e8aa-2ed8-4d22-b01b-1cea69d09b50",
+                        "sortorder": 0,
+                        "tileid": "f79a2c7a-07bb-41b2-a91d-8c2cd6fe5d44"
+                    }, {
+                        "data": {
+                            "1bd8d676-c698-11ea-a1e8-0242ac120007": [{
+                                    "inverseOntologyProperty": "",
+                                    "ontologyProperty": "",
+                                    "resourceId": "493f8e80-fba9-11e9-a3c8-0242ac130002",
+                                    "resourceXresourceId": "edac4aba-c9ef-11eb-80c6-0242ac160006"
+                                }
+                            ],
+                            "90bc279a-443d-11eb-8cb5-0242ac130007": "dsfasdfsdafdse"
+                        },
+                        "nodegroup_id": "d41e168e-c697-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "e389e8aa-2ed8-4d22-b01b-1cea69d09b50",
+                        "sortorder": 0,
+                        "tileid": "2f0db421-4d1a-42f7-9758-27c1acce1e54"
+                    }, {
+                        "data": {
+                            "21bb1b74-4a7f-11eb-85ba-0242ac130009": null,
+                            "30ccd388-4a8d-11eb-85ba-0242ac130009": null,
+                            "317c3c4a-4a80-11eb-85ba-0242ac130009": null,
+                            "4759fb84-c2b7-11ea-a1e8-0242ac120007": null,
+                            "48427b8c-99c9-11ea-9766-0242ac130005": null,
+                            "5dcf79fa-99c9-11ea-82af-0242ac130005": [],
+                            "bcb695b6-99ce-11ea-9766-0242ac130005": ["e21331fd-6712-472f-9d41-9dbec4b62c1e"],
+                            "fd2469c4-c2b5-11ea-ac0e-0242ac120007": null
+                        },
+                        "nodegroup_id": "ff165b54-99c8-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "e389e8aa-2ed8-4d22-b01b-1cea69d09b50",
+                        "sortorder": 0,
+                        "tileid": "86b3c543-355e-4894-932c-361a3b322e84"
+                    }
+                ]
+            }, {
+                "resourceinstance": {
+                    "graph_id": "6215ee02-990d-11ea-9766-0242ac130005",
+                    "legacyid": null,
+                    "resourceinstanceid": "9035d75b-67db-4b5d-be59-e7e252250d46"
+                },
+                "tiles": [{
+                        "data": {
+                            "1bd8d676-c698-11ea-a1e8-0242ac120007": [{
+                                    "inverseOntologyProperty": "",
+                                    "ontologyProperty": "",
+                                    "resourceId": "493f8e80-fba9-11e9-a3c8-0242ac130002",
+                                    "resourceXresourceId": "edac4aba-c9ef-11eb-80c6-0242ac160006"
+                                }
+                            ],
+                            "90bc279a-443d-11eb-8cb5-0242ac130007": "Kha\u1e0dgayogin\u012b, Puldva\u0303/D\u0101n\u0101giri \u1e6cola, Lalitpur; 85.31456032590836,27.676986760224647"
+                        },
+                        "nodegroup_id": "d41e168e-c697-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "7562f393-6d0d-4692-b8a5-60ff5a51f8e7"
+                    }, {
+                        "data": {
+                            "2351e7ee-9911-11ea-82af-0242ac130005": "<p>\u015a\u0101kya, Hemr\u0101j.&nbsp;<em>Ak\u1e63e\u015bvara Mah\u0101vih\u0101ra P\u016bco chag\u016b adhyayana</em>. Lalitpur: Bauddha Vih\u0101ra Sa\u1e45gha, 1995.</p>\n"
+                        },
+                        "nodegroup_id": "2351e7ee-9911-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "0174f692-5a9c-46fa-8e9e-71352647347a"
+                    }, {
+                        "data": {
+                            "09b67380-c2bb-11ea-ac0e-0242ac120007": null,
+                            "36d144ea-c2ba-11ea-a1e8-0242ac120007": null,
+                            "c0f199d6-c2ba-11ea-a1e8-0242ac120007": "<p>Yogesh Budathoki</p>\n",
+                            "f05cef86-c2ba-11ea-ac0e-0242ac120007": "<p>Edited by Rabi Acharya</p>\n",
+                            "fc3e4008-c2b9-11ea-a1e8-0242ac120007": null,
+                            "fdaa84ba-c2b9-11ea-a1e8-0242ac120007": null
+                        },
+                        "nodegroup_id": "5c2efa0e-9914-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "df43d73e-43ce-4a61-ace8-24e737b302fc"
+                    }, {
+                        "data": {
+                            "e871483e-c2b1-11ea-a1e8-0242ac120007": {
+                                "features": [{
+                                        "geometry": {
+                                            "coordinates": [85.31456032590836, 27.676986760224647],
+                                            "type": "Point"
+                                        },
+                                        "id": "ef5ee098-5140-41c9-8982-fb443dce6be6",
+                                        "properties": {
+                                            "nodeId": "e871483e-c2b1-11ea-a1e8-0242ac120007"
+                                        },
+                                        "type": "Feature"
+                                    }
+                                ],
+                                "type": "FeatureCollection"
+                            }
+                        },
+                        "nodegroup_id": "e871483e-c2b1-11ea-a1e8-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "a12b76a0-868a-4257-a430-94ff5503a0ab"
+                    }, {
+                        "data": {
+                            "995c8a8c-c2bc-11ea-ac0e-0242ac120007": "LAL0630_I_002 A copper-plate inscription at Kha\u1e0dgayogin\u012b, Puldva\u0303/D\u0101n\u0101giri \u1e6cola, Lalitpur re an offering of a gilt canopy by Jahalasi\u1e43 Vajr\u0101c\u0101rya, his wife Dhantalak\u1e63m\u012b and sons P\u016br\u1e47ajoti, Ratnajoti and Bh\u012bmajoti (NS 1002)"
+                        },
+                        "nodegroup_id": "2af022e8-c2bc-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "3be14012-19bc-44a1-9a3f-fe991bc5be46"
+                    }, {
+                        "data": {
+                            "94b5b75c-990d-11ea-9766-0242ac130005": "LAL0630_I_002"
+                        },
+                        "nodegroup_id": "94b5b75c-990d-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "a071d6e5-e936-40cf-92e1-5b167fa724fa"
+                    }, {
+                        "data": {
+                            "bb5ef1b6-990d-11ea-82af-0242ac130005": "<p>A copper-plate inscription at Kha\u1e0dgayogin\u012b, Puldva\u0303/D\u0101n\u0101giri \u1e6cola, Lalitpur re an offering of a gilt canopy by Jahalasi\u1e43 Vajr\u0101c\u0101rya, his wife Dhantalak\u1e63m\u012b and sons P\u016br\u1e47ajoti, Ratnajoti and Bh\u012bmajoti (NS 1002)</p>\n"
+                        },
+                        "nodegroup_id": "bb5ef1b6-990d-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "2b225f89-d19f-49e8-b5d2-228e64ef2c6e"
+                    }, {
+                        "data": {
+                            "21bb1b74-4a7f-11eb-85ba-0242ac130009": null,
+                            "30ccd388-4a8d-11eb-85ba-0242ac130009": null,
+                            "317c3c4a-4a80-11eb-85ba-0242ac130009": ["720f4369-6a1b-417d-9713-59ed4ebfc7cb"],
+                            "4759fb84-c2b7-11ea-a1e8-0242ac120007": ["9218255b-3657-4c79-9561-f6ff2ea0b553"],
+                            "48427b8c-99c9-11ea-9766-0242ac130005": null,
+                            "5dcf79fa-99c9-11ea-82af-0242ac130005": ["50f38f01-d696-4e38-b8ee-de0833e18c81"],
+                            "bcb695b6-99ce-11ea-9766-0242ac130005": ["05e929e0-d85b-46ac-a8a1-f25e75c053ea"],
+                            "fd2469c4-c2b5-11ea-ac0e-0242ac120007": null
+                        },
+                        "nodegroup_id": "ff165b54-99c8-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "4534e292-6b6e-42da-8361-43cbac4e92a1"
+                    }, {
+                        "data": {
+                            "604bdd84-9a98-11ea-82af-0242ac130005": null,
+                            "89d605e2-99cd-11ea-9766-0242ac130005": 7.0,
+                            "a257de92-99cd-11ea-9766-0242ac130005": 39.0,
+                            "c5b2845a-99cd-11ea-9766-0242ac130005": null
+                        },
+                        "nodegroup_id": "6e832202-99cd-11ea-9766-0242ac130005",
+                        "parenttile_id": "4534e292-6b6e-42da-8361-43cbac4e92a1",
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "29a5dfc7-e8b0-4118-9806-e0bd6bbe5606"
+                    }, {
+                        "data": {
+                            "066fbb62-6213-11eb-aaf1-0242ac130009": null,
+                            "d4ba6b94-6212-11eb-aaf1-0242ac130009": "<p><strong>NS 1002</strong> (friday, the 14th of the dark fortnight of <strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/df3e52d2-47b7-4436-851e-0256752d4c17/\" target=\"_blank\">\u0100\u1e63\u0101\u1e0dha</a></strong>)</p>\n\n<p>Jahalasi\u1e43 Vajr\u0101c\u0101rya, his wife Dhantalak\u1e63m\u012b and sons P\u016br\u1e47ajoti, Ratnajoti and Bh\u012bmajoti offered a gilt canopy (<em>il\u0101\u0303</em>) of 11&nbsp;<em>dh\u0101rn\u012b&nbsp;</em>(2.393 kg) and 11 metal lamps to Kha\u1e0dagayogin\u012b.</p>\n",
+                            "e6adebb4-6212-11eb-9e66-0242ac130009": null
+                        },
+                        "nodegroup_id": "c53a1930-6212-11eb-9e66-0242ac130009",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "9530ba52-462c-4fe6-9636-5ab5116d421e"
+                    }, {
+                        "data": {
+                            "2cfe60a8-6213-11eb-9e66-0242ac130009": "<ul>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong>One of the Vajr\u0101c\u0101rya clans from B\u016b B\u0101h\u0101\u1e25 (<a href=\"https://danam.cats.uni-heidelberg.de/report/7ee44ac8-f17a-11e9-8649-0242ac130002\" target=\"_blank\"><strong>LAL0440</strong></a>) is responsible to carry out the daily rituals in Kha\u1e0dgayogin\u012b Mandira and also to maintain it. Only the respective clan member who is initiated is permitted to worship Kha\u1e0dgayogin\u012b.</p>\n\n\t<p><strong>Reference source:</strong>&nbsp;Priest of the temple, Vajr\u0101c\u0101rya, male, age 59</p>\n\t</li>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong>Kha\u1e0dgayogin\u012b is believed to be one of the Ten Mother Goddesses (<strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/9b60ac91-cbb0-48df-9776-949c7e67a27e/\" target=\"_blank\">Da\u015bamah\u0101vidy\u0101</a></strong>) in the Hindu tantric tradition (particularly in Shaktism). Therefore, the <strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/f6ab160e-9c73-4b0e-813d-b40e0d8f652d/\" target=\"_blank\">\u015a\u0101kta</a></strong>&nbsp;followers worship her as T\u0101r\u0101 every year on the eighth day of the bright fortnight of <strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/4b0551a5-e3df-4783-bd00-a4b071f82c72/\" target=\"_blank\">Bh\u0101dra</a></strong> during the huge celebration of the Ten Mah\u0101vidy\u0101&rsquo;s procession in Patan.</p>\n\n\t<p><strong>Reference source:&nbsp;</strong>Priest of the temple, Vajr\u0101c\u0101rya, male, age 59</p>\n\t</li>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong>Certain people from a certain city quarter or \u1e6cola form a group and collectively worship the Four Yogin\u012bs (Yogin\u012b S\u012bka\u1e25 Vanegu) of the Kathmandu Valley&nbsp;one day every year (this is called Yogin\u012bs\u012bka\u1e25vanegu in Newari). On the same day, they also visit the Kha\u1e0dgayogin\u012b temple and worship her.</p>\n\n\t<p><strong>Reference source:&nbsp;</strong>Priest of the temple, Vajr\u0101c\u0101rya, male, age 59</p>\n\t</li>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong>The bride and groom from the locality come to perform the engagement ceremony (<em>svayamvara&nbsp;</em>ritual) in the presence of Kha\u1e0dayogin\u012b before the actual marriage rites take place.</p>\n\n\t<p><strong>Reference source:</strong>&nbsp;Priest of the temple, Vajr\u0101c\u0101rya, male, age 59</p>\n\t</li>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong>&nbsp;The residents of Pulchok and Patan come to worship Kha\u1e0dgayogin\u012b during the birth day of their family members in order to get rid of the evil affects due to the bad constellations of the stars (this worship is called Kala\u1e25p\u016bj\u0101).</p>\n\n\t<p><strong>Reference source:&nbsp;</strong>Priest of the temple, Vajr\u0101c\u0101rya, male, age 59</p>\n\t</li>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong>A&nbsp;<em><strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/a2c86d1a-a308-4dc7-9dad-5f00ec3991e0/\" target=\"_blank\">gu\u1e6dh\u012b</a></strong>&nbsp;</em>of the \u015are\u1e63\u1e6dhas (Malek\u016b) of Pulchok is related to this temple. It has only five members at present and sponsors a special ritual worship for Kha\u1e0dgayogin\u012b on the full moon day of <strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/92c18b60-16a1-41ec-bb0d-bb0178e057c5/\" target=\"_blank\">Ma\u1e45sira</a></strong> followed by a community feast.</p>\n\n\t<p><strong>Reference source:&nbsp;</strong>Priest of the temple, Vajr\u0101c\u0101rya, male, age 59;&nbsp;Member of the&nbsp;<em>gu\u1e6dh\u012b</em>, Malek\u016b, male, age 52</p>\n\t</li>\n\t<li>\n\t<p><strong>Description:</strong>&nbsp;There is a tradition that someone whose house is burnt down should come to this temple and worship Kha\u1e0dgayogin\u012b within four days (this tradition is called Mi\u0303na\u1e25guy\u0101p\u016bj\u0101).</p>\n\n\t<p><strong>Reference source:</strong>&nbsp;Priest of the temple, Vajr\u0101c\u0101rya, male, age 59; Member of the gu\u1e6dh\u012b, Malek\u016b, male, age 52; Local resident, Maharjana, male, age 69</p>\n\t</li>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong>Every year, on the 2nd day of the dark fortnight of <strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/4b0551a5-e3df-4783-bd00-a4b071f82c72/\" target=\"_blank\">Bh\u0101dra</a></strong>, the <a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/9cb13b74-1f14-448f-a969-658bb18932ff/\" target=\"_blank\">Matay\u0101\u1e25</a> procession (\u015a\u1e5b\u1e45gabher\u012b Y\u0101tr\u0101) takes place in Lalitpur. A large group of people playing music&nbsp;visits various&nbsp;<em><strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/07734ba3-4482-4dc0-be30-a7bda0ec102f/\" target=\"_blank\">caitya</a></strong>s&nbsp;</em>and the&nbsp;<em>a\u015boka st\u016bpas</em>&nbsp;of Patan. The group also visits the&nbsp;<em>caityas&nbsp;</em>of this temple premises.&nbsp;</p>\n\n\t<p><strong>Reference source:&nbsp;</strong>Priest of the temple, Vajr\u0101c\u0101rya, male, age 59</p>\n\t</li>\n</ul>\n",
+                            "4ffd2648-6213-11eb-9e66-0242ac130009": null,
+                            "619ae1ce-6213-11eb-9e66-0242ac130009": null
+                        },
+                        "nodegroup_id": "1dcf8e40-6213-11eb-aaf1-0242ac130009",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "286f45bc-93f7-4823-aa50-a6c313a602c9"
+                    }, {
+                        "data": {
+                            "83f4a4a4-990e-11ea-9766-0242ac130005": "<p><a href=\"https://www.zotero.org/groups/2247442/nhdp-bibliography/items/itemKey/2EQXDXEZ/q/ak%E1%B9%A3esv\" target=\"_blank\"><strong>H. \u015a\u0101kya&nbsp;</strong></a>1995, 80</p>\n"
+                        },
+                        "nodegroup_id": "83f4a4a4-990e-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "923bc16b-7de3-47a0-a268-3b00cf962e82"
+                    }, {
+                        "data": {
+                            "c0dc905a-9910-11ea-9766-0242ac130005": "<p><a data-bind=\"attr: {href: url}\" href=\"https://danam.cats.uni-heidelberg.de/files/7ede7ac4-dd44-11ea-ba5f-0242ac120007\" id=\"\" target=\"_blank\"><img alt=\"LAL0630_D_ 2020 location map.png\" src=\"https://danam.cats.uni-heidelberg.de/files/7ede7ac4-dd44-11ea-ba5f-0242ac120007\" style=\"height:425px; width:300px\" /></a><a data-bind=\"attr: {href: url}\" href=\"https://danam.cats.uni-heidelberg.de/files/1ac3473a-dd45-11ea-ba5f-0242ac120007\" id=\"\" target=\"_blank\"><img alt=\"LAL0630_D_ 2020 site plan.png\" src=\"https://danam.cats.uni-heidelberg.de/files/1ac3473a-dd45-11ea-ba5f-0242ac120007\" style=\"height:212px; width:300px\" /></a><a data-bind=\"attr: {href: url}\" href=\"https://danam.cats.uni-heidelberg.de/files/357cd8a8-dd5d-11ea-ba5f-0242ac120007\" id=\"\" target=\"_blank\"><img alt=\"LAL0630_D_ 2020 floor plan.png\" src=\"https://danam.cats.uni-heidelberg.de/files/357cd8a8-dd5d-11ea-ba5f-0242ac120007\" style=\"height:212px; width:300px\" /></a></p>\n\n<p>Kha\u1e0dgayogin\u012b; location map by Bijay Basukala, Niels Gutschow; 1990; updated by Bijay Basukala, 2020-08</p>\n\n<p>Kha\u1e0dgayogin\u012b; site plan by Bijay Basukala; 2020-08</p>\n\n<p>Kha\u1e0dgayogin\u012b; floor&nbsp;plan by Bijay Basukala; 2020-08</p>\n"
+                        },
+                        "nodegroup_id": "c0dc905a-9910-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "2acce9a8-0ba6-4eb0-b3ed-9a80d392a3e9"
+                    }, {
+                        "data": {
+                            "2591e954-9a98-11ea-82af-0242ac130005": "<p><a href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL0630-001_I_20200802_02.jpg\" target=\"_blank\"><img alt=\"\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL0630-001_I_20200802_02.jpg\" style=\"height:200px; width:300px\" /></a><a href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL0630-001_P_20200802_01.jpg\" target=\"_blank\"><img alt=\"\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL0630-001_P_20200802_01.jpg\" style=\"height:450px; width:300px\" /></a></p>\n\n<p>Kha\u1e0dgayogin\u012b Mandira, copper inscription from NS 1002, view from E; photo by Yogesh Budathoki; 2020-08-02</p>\n\n<p>Kha\u1e0dgayogin\u012b Mandira, statue of Kha\u1e0dgayogin\u012b, view from E; photo by Yogesh Budathoki; 2020-08-02</p>\n",
+                            "556786b0-443f-11eb-8822-0242ac130007": 2.0,
+                            "5e2cb4f4-4440-11eb-8822-0242ac130007": "<p><a href=\"https://doi.org/10.11588/heidicon/1218720\" target=\"_blank\">https://doi.org/10.11588/heidicon/1218720</a>,&nbsp;<a href=\"https://doi.org/10.11588/heidicon/1218721\" target=\"_blank\">https://doi.org/10.11588/heidicon/1218721</a></p>\n",
+                            "d168cb48-990e-11ea-82af-0242ac130005": null
+                        },
+                        "nodegroup_id": "a26efc40-990e-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "0cb3b397-f785-4f11-bf72-cbbdca32fbdf"
+                    }, {
+                        "data": {
+                            "d91cb788-990d-11ea-9766-0242ac130005": "<p>It is recorded in the inscription that Jahalasi\u1e43 Vajr\u0101c\u0101rya, his wife Dhantalak\u1e63m\u012b and sons P\u016br\u1e47ajoti, Ratnajoti and Bh\u012bmajoti offered a gilt canopy (<em>il\u0101\u0303</em>) of 11&nbsp;<em>dh\u0101rn\u012b&nbsp;</em>(2.393 kg) and 11 metal lamps to Kha\u1e0dagayogin\u012b.</p>\n"
+                        },
+                        "nodegroup_id": "d91cb788-990d-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "d0baad7f-2090-409b-8a71-2720c3ad68f7"
+                    }, {
+                        "data": {
+                            "3c41954c-1503-11eb-8f70-0242ac120002": "<p>soot</p>\n",
+                            "dac84bae-1501-11eb-b1dc-0242ac120002": ["8f234cf5-5e9b-4b70-8cac-2c97542937a2"]
+                        },
+                        "nodegroup_id": "24549ed2-990e-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "5c641949-2768-4909-9fc4-c73d9b407bf2"
+                    }, {
+                        "data": {
+                            "536b77fa-5b04-11eb-9e66-0242ac130009": null,
+                            "b727b1a0-5aff-11eb-9e66-0242ac130009": ["9fa27147-f33a-4c6b-b3b6-e863c1d76d78"],
+                            "e71d2d60-c2b4-11ea-ac0e-0242ac120007": null,
+                            "e71d2f04-c2b4-11ea-ac0e-0242ac120007": ["cb1ef6ce-e955-43e4-9917-be116615e506"],
+                            "e71d3076-c2b4-11ea-ac0e-0242ac120007": ["95208887-f1be-4c93-89a8-a8cf566d3c9c"],
+                            "e71d31e8-c2b4-11ea-ac0e-0242ac120007": null,
+                            "e71d335a-c2b4-11ea-ac0e-0242ac120007": "1882",
+                            "e71d34c2-c2b4-11ea-ac0e-0242ac120007": ["6101cb1c-7b0c-4d13-aabd-4cbb40a5d335"],
+                            "e71d3634-c2b4-11ea-ac0e-0242ac120007": ["b662d771-7b38-481a-aca9-df8ac3a773c7"],
+                            "e71d379c-c2b4-11ea-ac0e-0242ac120007": null,
+                            "e71d3904-c2b4-11ea-ac0e-0242ac120007": "<p>NS 1002</p>\n"
+                        },
+                        "nodegroup_id": "e71d2810-c2b4-11ea-ac0e-0242ac120007",
+                        "parenttile_id": "4534e292-6b6e-42da-8361-43cbac4e92a1",
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "8d892d09-e5e6-4016-a940-2844dc9bac44"
+                    }, {
+                        "data": {
+                            "1bb0731c-c2b9-11ea-a1e8-0242ac120007": null,
+                            "374255f0-c2b9-11ea-ac0e-0242ac120007": "<p>1. \u015bubha\u1e25 sa\u1e43vat 1002 mti \u0101kha\u1e0dha k\u1e5b\u1e63\u1e47ay\u0101kha\u1e25 caturdasy\u0101tithau\u1e25 \u0101r\u1e0dh\u0101 nak\u1e63atre\u1e25 vy\u0101gh\u0101tajoge jath\u0101kar\u1e47amuh\u016brtte \u015bukrav\u0101lasare\u1e25 mithunar\u0101si (savitri\u1e25) tatraiva r\u0101sigate (candra)<br />\n2. masi\u1e25 etatdine\u1e25 d\u0101n\u0101girin\u0101managara\u1e25 subhasth\u0101nye vir\u0101jita\u1e25 \u015br\u012b3 kha\u1e0dgajogin\u012b dev\u012by\u0101ta (yuddhajaya)dharan\u0101mna vih\u0101ra\u1e25 (var\u016b\u1e43si y\u0101hm\u0101sa vijy\u0101ka ka vakr\u0101<br />\n3. c\u0101ryya \u015br\u012b jahalasi\u1e43\u1e25 bh\u0101ry\u0101\u1e25 dha\u1e47alak\u1e63mi\u1e25 putra \u015br\u012bp\u016br\u1e47najoti dvitiya \u015br\u012b ratnajoti\u1e25 tit\u1e5bya \u015br\u012bbhimajoti\u1e25 putra ++sakala jalabhocchi siy\u0101\u1e43 dharmmacitta utpatt\u012b juy\u0101<br />\n4. o\u1e25 p\u0101ta 1 lilay\u0101 in\u0101masa\u1e25 l\u016bna\u1e43 siy\u0101 o\u1e25 dunt\u0101 julo kadhmani 3\u0965 du jalaprap\u0101ta 11 jula div\u0101 dunt\u0101 jula \u015bubha\u1e43 \u0965 * \u0965</p>\n",
+                            "f524c98c-c2b8-11ea-a1e8-0242ac120007": "<p>\u0967. \u0936\u0941\u092d\u0903 \u0938\u0902\u0935\u0924\u094d \u0967\u0966\u0966\u0968 \u092e\u094d\u0924\u093f \u0906\u0916\u0922 \u0915\u0943\u0937\u094d\u0923\u092f\u093e\u0916\u0903 \u091a\u0924\u0941\u0930\u094d\u0926\u0938\u094d\u092f\u093e\u0924\u093f\u0925\u094c\u0903 \u0906\u0930\u094d\u0922\u093e \u0928\u0915\u094d\u0937\u0924\u094d\u0930\u0947\u0903 \u0935\u094d\u092f\u093e\u0918\u093e\u0924\u091c\u094b\u0917\u0947 \u091c\u0925\u093e\u0915\u0930\u094d\u0923\u092e\u0941\u0939\u0942\u0930\u094d\u0924\u094d\u0924\u0947 \u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0932\u0938\u0930\u0947\u0903 \u092e\u093f\u0925\u0941\u0928\u0930\u093e\u0938\u093f (\u0938\u0935\u093f\u0924\u094d\u0930\u093f\u0903) \u0924\u0924\u094d\u0930\u0948\u0935 \u0930\u093e\u0938\u093f\u0917\u0924\u0947 (\u091a\u0928\u094d\u0926\u094d\u0930)</p>\n\n<p>\u0968. \u092e\u0938\u093f\u0903 \u090f\u0924\u0924\u094d\u0926\u093f\u0928\u0947\u0903 \u0926\u093e\u0928\u093e\u0917\u093f\u0930\u093f\u0928\u093e\u092e\u0928\u0917\u0930\u0903 \u0938\u0941\u092d\u0938\u094d\u0925\u093e\u0928\u094d\u092f\u0947 \u0935\u093f\u0930\u093e\u091c\u093f\u0924\u0903 \u0936\u094d\u0930\u0940\u0969 \u0916\u0921\u094d\u0917\u091c\u094b\u0917\u093f\u0928\u0940 \u0926\u0947\u0935\u0940\u092f\u093e\u0924 (\u092f\u0941\u0926\u094d\u0927\u091c\u092f)\u0927\u0930\u0928\u093e\u092e\u094d\u0928 \u0935\u093f\u0939\u093e\u0930\u0903 (\u0935\u0930\u0942\u0902\u0938\u093f \u092f\u093e\u0939\u094d\u092e\u093e\u0938 \u0935\u093f\u091c\u094d\u092f\u093e\u0915 \u0915 \u0935\u0915\u094d\u0930\u093e</p>\n\n<p>\u0969. \u091a\u093e\u0930\u094d\u092f\u094d\u092f \u0936\u094d\u0930\u0940 \u091c\u0939\u0932\u0938\u093f\u0902\u0903 \u092d\u093e\u0930\u094d\u092f\u093e\u0903 \u0927\u0923\u0932\u0915\u094d\u0937\u094d\u092e\u093f\u0903 \u092a\u0941\u0924\u094d\u0930 \u0936\u094d\u0930\u0940\u092a\u0942\u0930\u094d\u0923\u094d\u0928\u091c\u094b\u0924\u093f \u0926\u094d\u0935\u093f\u0924\u093f\u092f \u0936\u094d\u0930\u0940 \u0930\u0924\u094d\u0928\u091c\u094b\u0924\u093f\u0903 \u0924\u093f\u0924\u0943\u092f \u0936\u094d\u0930\u0940\u092d\u093f\u092e\u091c\u094b\u0924\u093f\u0903 \u092a\u0941\u0924\u094d\u0930 ++\u0938\u0915\u0932 \u091c\u0932\u092d\u094b\u091a\u094d\u091b\u093f \u0938\u093f\u092f\u093e\u0902 \u0927\u0930\u094d\u092e\u094d\u092e\u091a\u093f\u0924\u094d\u0924 \u0909\u0924\u094d\u092a\u0924\u094d\u0924\u0940 \u091c\u0941\u092f\u093e</p>\n\n<p>\u096a. \u0913\u0903 \u092a\u093e\u0924 \u0967 \u0932\u093f\u0932\u092f\u093e \u0907\u0928\u093e\u092e\u0938\u0903 \u0932\u0942\u0928\u0902 \u0938\u093f\u092f\u093e \u0913\u0903 \u0926\u0941\u0928\u094d\u0924\u093e \u091c\u0941\u0932\u094b \u0915\u0927\u094d\u092e\u0928\u093f \u0969\u0965 \u0926\u0941 \u091c\u0932\u092a\u094d\u0930\u092a\u093e\u0924 \u0967\u0967 \u091c\u0941\u0932 \u0926\u093f\u0935\u093e \u0926\u0941\u0928\u094d\u0924\u093e \u091c\u0941\u0932 \u0936\u0941\u092d\u0902 \u0965 * \u0965</p>\n"
+                        },
+                        "nodegroup_id": "cb493e7c-c2b8-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "8c063652-bf3c-4d29-84f9-f9f587db44df"
+                    }, {
+                        "data": {
+                            "4abb9be8-19dd-11eb-bd1f-0242ac120002": "8dd98b14-1052-4e72-9289-3c58a763bb81",
+                            "c2d1328c-19dd-11eb-bd1f-0242ac120002": null,
+                            "cdfe66b0-4a8a-11eb-b215-0242ac130009": "949b0665-afba-42b7-91a8-8fd1370f3e1e"
+                        },
+                        "nodegroup_id": "2c84d388-19dd-11eb-b554-0242ac120002",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "7d30f65d-e2ee-4d63-a867-b4c92c29d157"
+                    }, {
+                        "data": {
+                            "00a936da-c2b4-11ea-ac0e-0242ac120007": ["ac3d3a20-1c40-49de-b320-0faf5d377409"],
+                            "00a93838-c2b4-11ea-ac0e-0242ac120007": ["2103928c-7c39-40ab-bc09-b3bf85116255"],
+                            "00a9396e-c2b4-11ea-ac0e-0242ac120007": "2021-05-17",
+                            "00a93aa4-c2b4-11ea-ac0e-0242ac120007": ["d2b8cd60-296a-4917-9d07-2035bdd5ccad"],
+                            "00a93bd0-c2b4-11ea-ac0e-0242ac120007": null
+                        },
+                        "nodegroup_id": "00a9327a-c2b4-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "9035d75b-67db-4b5d-be59-e7e252250d46",
+                        "sortorder": 0,
+                        "tileid": "98fcdefb-084d-4af5-840d-53d3af3dde1b"
+                    }
+                ]
+            }, {
+                "resourceinstance": {
+                    "graph_id": "6215ee02-990d-11ea-9766-0242ac130005",
+                    "legacyid": null,
+                    "resourceinstanceid": "0d822d93-a8e2-4e99-8899-d086280a4435"
+                },
+                "tiles": [{
+                        "data": {
+                            "2cfe60a8-6213-11eb-9e66-0242ac130009": "<ul>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong>One of the Vajr\u0101c\u0101rya clans from B\u016b B\u0101h\u0101\u1e25 (<a href=\"https://danam.cats.uni-heidelberg.de/report/7ee44ac8-f17a-11e9-8649-0242ac130002\" target=\"_blank\"><strong>LAL0440</strong></a>) is responsible to carry out the daily rituals in Kha\u1e0dgayogin\u012b Mandira and also to maintain it. Only the respective clan member who is initiated is permitted to worship Kha\u1e0dgayogin\u012b.</p>\n\n\t<p><strong>Reference source:</strong>&nbsp;Priest of the temple, Vajr\u0101c\u0101rya, male, age 59</p>\n\t</li>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong>Kha\u1e0dgayogin\u012b is believed to be one of the Ten Mother Goddesses (<strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/9b60ac91-cbb0-48df-9776-949c7e67a27e/\" target=\"_blank\">Da\u015bamah\u0101vidy\u0101</a></strong>) in the Hindu tantric tradition (particularly in Shaktism). Therefore, the&nbsp;<strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/f6ab160e-9c73-4b0e-813d-b40e0d8f652d/\" target=\"_blank\">\u015a\u0101kta</a></strong>&nbsp;followers worship her as T\u0101r\u0101 every year on the eighth day of the bright fortnight of&nbsp;<strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/4b0551a5-e3df-4783-bd00-a4b071f82c72/\" target=\"_blank\">Bh\u0101dra</a></strong>&nbsp;during the huge celebration of the Ten Mah\u0101vidy\u0101&rsquo;s procession in Patan.</p>\n\n\t<p><strong>Reference source:&nbsp;</strong>Priest of the temple, Vajr\u0101c\u0101rya, male, age 59</p>\n\t</li>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong>Certain people from a certain city quarter or \u1e6cola form a group and collectively worship the Four Yogin\u012bs (Yogin\u012b S\u012bka\u1e25 Vanegu) of the Kathmandu Valley&nbsp;one day every year (this is called Yogin\u012bs\u012bka\u1e25vanegu in Newari). On the same day, they also visit the Kha\u1e0dgayogin\u012b temple and worship her.</p>\n\n\t<p><strong>Reference source:&nbsp;</strong>Priest of the temple, Vajr\u0101c\u0101rya, male, age 59</p>\n\t</li>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong>The bride and groom from the locality come to perform the engagement ceremony (<em>svayamvara&nbsp;</em>ritual) in the presence of Kha\u1e0dayogin\u012b before the actual marriage rites take place.</p>\n\n\t<p><strong>Reference source:</strong>&nbsp;Priest of the temple, Vajr\u0101c\u0101rya, male, age 59</p>\n\t</li>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong>&nbsp;The residents of Pulchok and Patan come to worship Kha\u1e0dgayogin\u012b during the birth day of their family members in order to get rid of the evil affects due to the bad constellations of the stars (this worship is called Kala\u1e25p\u016bj\u0101).</p>\n\n\t<p><strong>Reference source:&nbsp;</strong>Priest of the temple, Vajr\u0101c\u0101rya, male, age 59</p>\n\t</li>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong>A&nbsp;<em><strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/a2c86d1a-a308-4dc7-9dad-5f00ec3991e0/\" target=\"_blank\">gu\u1e6dh\u012b</a></strong>&nbsp;</em>of the \u015are\u1e63\u1e6dhas (Malek\u016b) of Pulchok is related to this temple. It has only five members at present and sponsors a special ritual worship for Kha\u1e0dgayogin\u012b on the full moon day of&nbsp;<strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/92c18b60-16a1-41ec-bb0d-bb0178e057c5/\" target=\"_blank\">Ma\u1e45sira</a></strong>&nbsp;followed by a community feast.</p>\n\n\t<p><strong>Reference source:&nbsp;</strong>Priest of the temple, Vajr\u0101c\u0101rya, male, age 59;&nbsp;Member of the&nbsp;<em>gu\u1e6dh\u012b</em>, Malek\u016b, male, age 52</p>\n\t</li>\n\t<li>\n\t<p><strong>Description:</strong>&nbsp;There is a tradition that someone whose house is burnt down should come to this temple and worship Kha\u1e0dgayogin\u012b within four days (this tradition is called Mi\u0303na\u1e25guy\u0101p\u016bj\u0101).</p>\n\n\t<p><strong>Reference source:</strong>&nbsp;Priest of the temple, Vajr\u0101c\u0101rya, male, age 59; Member of the gu\u1e6dh\u012b, Malek\u016b, male, age 52; Local resident, Maharjana, male, age 69</p>\n\t</li>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong>Every year, on the 2nd day of the dark fortnight of&nbsp;<strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/4b0551a5-e3df-4783-bd00-a4b071f82c72/\" target=\"_blank\">Bh\u0101dra</a></strong>, the&nbsp;<a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/9cb13b74-1f14-448f-a969-658bb18932ff/\" target=\"_blank\">Matay\u0101\u1e25</a>&nbsp;procession (\u015a\u1e5b\u1e45gabher\u012b Y\u0101tr\u0101) takes place in Lalitpur. A large group of people playing music&nbsp;visits various&nbsp;<em><strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/07734ba3-4482-4dc0-be30-a7bda0ec102f/\" target=\"_blank\">caitya</a></strong>s&nbsp;</em>and the&nbsp;<em>a\u015boka st\u016bpas</em>&nbsp;of Patan. The group also visits the&nbsp;<em>caityas&nbsp;</em>of this temple premises.&nbsp;</p>\n\n\t<p><strong>Reference source:&nbsp;</strong>Priest of the temple, Vajr\u0101c\u0101rya, male, age 59</p>\n\t</li>\n</ul>\n",
+                            "4ffd2648-6213-11eb-9e66-0242ac130009": null,
+                            "619ae1ce-6213-11eb-9e66-0242ac130009": null
+                        },
+                        "nodegroup_id": "1dcf8e40-6213-11eb-aaf1-0242ac130009",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "4aeca26f-ec61-4c23-8a22-f2a51b20f365"
+                    }, {
+                        "data": {
+                            "1bd8d676-c698-11ea-a1e8-0242ac120007": [{
+                                    "inverseOntologyProperty": "",
+                                    "ontologyProperty": "",
+                                    "resourceId": "25c65422-6b9b-11ea-8083-0242ac130006",
+                                    "resourceXresourceId": "edac4aba-c9ef-11eb-80c6-0242ac160006"
+                                }
+                            ],
+                            "90bc279a-443d-11eb-8cb5-0242ac130007": "Kha\u1e0dgayogin\u012b, Puldva\u0303/D\u0101n\u0101giri \u1e6cola, Lalitpur; 85.31456032590836,27.676986760224647"
+                        },
+                        "nodegroup_id": "d41e168e-c697-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "4c5c1a7e-2eb0-4e25-a454-b8b501b336cd"
+                    }, {
+                        "data": {
+                            "09b67380-c2bb-11ea-ac0e-0242ac120007": null,
+                            "36d144ea-c2ba-11ea-a1e8-0242ac120007": null,
+                            "c0f199d6-c2ba-11ea-a1e8-0242ac120007": "<p>Yogesh Budathoki</p>\n",
+                            "f05cef86-c2ba-11ea-ac0e-0242ac120007": "<p>Edited by Rabi Acharya</p>\n",
+                            "fc3e4008-c2b9-11ea-a1e8-0242ac120007": null,
+                            "fdaa84ba-c2b9-11ea-a1e8-0242ac120007": null
+                        },
+                        "nodegroup_id": "5c2efa0e-9914-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "44cc6d43-745e-45a4-b85c-d8ce9fb1ddf2"
+                    }, {
+                        "data": {
+                            "e871483e-c2b1-11ea-a1e8-0242ac120007": {
+                                "features": [{
+                                        "geometry": {
+                                            "coordinates": [85.31456032590836, 27.676986760224647],
+                                            "type": "Point"
+                                        },
+                                        "id": "b03edd61-bf7c-47f4-8e0d-a92b85ae6f28",
+                                        "properties": {
+                                            "nodeId": "e871483e-c2b1-11ea-a1e8-0242ac120007"
+                                        },
+                                        "type": "Feature"
+                                    }
+                                ],
+                                "type": "FeatureCollection"
+                            }
+                        },
+                        "nodegroup_id": "e871483e-c2b1-11ea-a1e8-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "9e62d2ef-3499-45d3-af40-a198dd9254ad"
+                    }, {
+                        "data": {
+                            "995c8a8c-c2bc-11ea-ac0e-0242ac120007": "LAL0630_I_005 A copper-plate inscription at Kha\u1e0dgayogin\u012b, Puldva\u0303/D\u0101n\u0101giri \u1e6cola, Lalitpur re the offering of a crest jewel by Dharmar\u0101ja malek\u016b and his wife Ga\u1e47e\u015bam\u0101y\u0101 (VS 2046)"
+                        },
+                        "nodegroup_id": "2af022e8-c2bc-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "14e8d03f-af46-415c-9260-d479493f514a"
+                    }, {
+                        "data": {
+                            "94b5b75c-990d-11ea-9766-0242ac130005": "LAL0630_I_005"
+                        },
+                        "nodegroup_id": "94b5b75c-990d-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "748024e2-986f-47e5-ae3c-71d14a81576b"
+                    }, {
+                        "data": {
+                            "bb5ef1b6-990d-11ea-82af-0242ac130005": "<p>A copper-plate inscription at Kha\u1e0dgayogin\u012b, Puldva\u0303/D\u0101n\u0101giri \u1e6cola, Lalitpur re the offering of a crest jewel by Dharmar\u0101ja malek\u016b and his wife Ga\u1e47e\u015bam\u0101y\u0101 (VS 2046)</p>\n"
+                        },
+                        "nodegroup_id": "bb5ef1b6-990d-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "8724f8d3-7610-4699-87fc-318179403ce7"
+                    }, {
+                        "data": {
+                            "21bb1b74-4a7f-11eb-85ba-0242ac130009": null,
+                            "30ccd388-4a8d-11eb-85ba-0242ac130009": null,
+                            "317c3c4a-4a80-11eb-85ba-0242ac130009": ["720f4369-6a1b-417d-9713-59ed4ebfc7cb"],
+                            "4759fb84-c2b7-11ea-a1e8-0242ac120007": ["29b71253-3b35-415b-a655-6b0be787f90d"],
+                            "48427b8c-99c9-11ea-9766-0242ac130005": null,
+                            "5dcf79fa-99c9-11ea-82af-0242ac130005": ["89f4eead-5aa3-43d6-9cc2-07189d991018"],
+                            "bcb695b6-99ce-11ea-9766-0242ac130005": ["05e929e0-d85b-46ac-a8a1-f25e75c053ea"],
+                            "fd2469c4-c2b5-11ea-ac0e-0242ac120007": null
+                        },
+                        "nodegroup_id": "ff165b54-99c8-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "29b5fdcf-332e-4275-8fde-61d120ed4c83"
+                    }, {
+                        "data": {
+                            "604bdd84-9a98-11ea-82af-0242ac130005": null,
+                            "89d605e2-99cd-11ea-9766-0242ac130005": 9.0,
+                            "a257de92-99cd-11ea-9766-0242ac130005": 26.0,
+                            "c5b2845a-99cd-11ea-9766-0242ac130005": null
+                        },
+                        "nodegroup_id": "6e832202-99cd-11ea-9766-0242ac130005",
+                        "parenttile_id": "29b5fdcf-332e-4275-8fde-61d120ed4c83",
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "53db726a-56a8-483e-b886-004b55bc65b1"
+                    }, {
+                        "data": {
+                            "3c41954c-1503-11eb-8f70-0242ac120002": "<p>soot and drop of yellow paint</p>\n",
+                            "dac84bae-1501-11eb-b1dc-0242ac120002": ["8f234cf5-5e9b-4b70-8cac-2c97542937a2"]
+                        },
+                        "nodegroup_id": "24549ed2-990e-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "f3847471-1276-400b-a2ba-dcebda73fb02"
+                    }, {
+                        "data": {
+                            "e3735d6e-6210-11eb-9e66-0242ac130009": "<p>moon and sun&nbsp;</p>\n"
+                        },
+                        "nodegroup_id": "e3735d6e-6210-11eb-9e66-0242ac130009",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "bb68bdd5-05f6-4748-8760-4d6f66fe3479"
+                    }, {
+                        "data": {
+                            "536b77fa-5b04-11eb-9e66-0242ac130009": null,
+                            "b727b1a0-5aff-11eb-9e66-0242ac130009": null,
+                            "e71d2d60-c2b4-11ea-ac0e-0242ac120007": null,
+                            "e71d2f04-c2b4-11ea-ac0e-0242ac120007": ["cb1ef6ce-e955-43e4-9917-be116615e506"],
+                            "e71d3076-c2b4-11ea-ac0e-0242ac120007": null,
+                            "e71d31e8-c2b4-11ea-ac0e-0242ac120007": null,
+                            "e71d335a-c2b4-11ea-ac0e-0242ac120007": "1989",
+                            "e71d34c2-c2b4-11ea-ac0e-0242ac120007": ["e1666321-75d1-4797-b8b4-7339e5e90072"],
+                            "e71d3634-c2b4-11ea-ac0e-0242ac120007": null,
+                            "e71d379c-c2b4-11ea-ac0e-0242ac120007": ["581e3fc4-4950-42df-8513-218a29c10691"],
+                            "e71d3904-c2b4-11ea-ac0e-0242ac120007": "<p>VS 2046</p>\n"
+                        },
+                        "nodegroup_id": "e71d2810-c2b4-11ea-ac0e-0242ac120007",
+                        "parenttile_id": "29b5fdcf-332e-4275-8fde-61d120ed4c83",
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "ed1ec0a4-d1df-4217-8ddd-563fa3cacdb3"
+                    }, {
+                        "data": {
+                            "4abb9be8-19dd-11eb-bd1f-0242ac120002": "8dd98b14-1052-4e72-9289-3c58a763bb81",
+                            "c2d1328c-19dd-11eb-bd1f-0242ac120002": null,
+                            "cdfe66b0-4a8a-11eb-b215-0242ac130009": "949b0665-afba-42b7-91a8-8fd1370f3e1e"
+                        },
+                        "nodegroup_id": "2c84d388-19dd-11eb-b554-0242ac120002",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "7dfb10c5-9680-4fe8-a017-08910e0a6fa1"
+                    }, {
+                        "data": {
+                            "2591e954-9a98-11ea-82af-0242ac130005": "<p><a href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL0630-001_I_20200802_01_FlxBtMK.jpg\" target=\"_blank\"><img alt=\"\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL0630-001_I_20200802_01_FlxBtMK.jpg\" style=\"height:200px; width:300px\" /></a></p>\n\n<p>Kha\u1e0dgayogin\u012b Mandira, copper inscription from VS 2046, view from E; photo by Yogesh Budathoki; 2020-08-02</p>\n",
+                            "556786b0-443f-11eb-8822-0242ac130007": 1.0,
+                            "5e2cb4f4-4440-11eb-8822-0242ac130007": "<p><a href=\"https://doi.org/10.11588/heidicon/1218719\" target=\"_blank\">https://doi.org/10.11588/heidicon/1218719</a></p>\n",
+                            "d168cb48-990e-11ea-82af-0242ac130005": null
+                        },
+                        "nodegroup_id": "a26efc40-990e-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "7738df97-4941-4e5a-a82f-0a946e945a6c"
+                    }, {
+                        "data": {
+                            "d91cb788-990d-11ea-9766-0242ac130005": "<p>The inscription records that Dharmar\u0101ja Malek\u016b and his wife Ga\u1e47e\u015bam\u0101y\u0101, both residents of Pulchok offered a crest jewel (c\u016b\u1e0d\u0101ma\u1e47i) to Kha\u1e0dgayogin\u012b.</p>\n"
+                        },
+                        "nodegroup_id": "d91cb788-990d-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "7732ba1b-8176-42a4-9845-60f6a8c48333"
+                    }, {
+                        "data": {
+                            "c0dc905a-9910-11ea-9766-0242ac130005": "<p><a data-bind=\"attr: {href: url}\" href=\"https://danam.cats.uni-heidelberg.de/files/7ede7ac4-dd44-11ea-ba5f-0242ac120007\" id=\"\" target=\"_blank\"><img alt=\"LAL0630_D_ 2020 location map.png\" src=\"https://danam.cats.uni-heidelberg.de/files/7ede7ac4-dd44-11ea-ba5f-0242ac120007\" style=\"height:425px; width:300px\" /></a><a data-bind=\"attr: {href: url}\" href=\"https://danam.cats.uni-heidelberg.de/files/1ac3473a-dd45-11ea-ba5f-0242ac120007\" id=\"\" target=\"_blank\"><img alt=\"LAL0630_D_ 2020 site plan.png\" src=\"https://danam.cats.uni-heidelberg.de/files/1ac3473a-dd45-11ea-ba5f-0242ac120007\" style=\"height:212px; width:300px\" /></a><a data-bind=\"attr: {href: url}\" href=\"https://danam.cats.uni-heidelberg.de/files/357cd8a8-dd5d-11ea-ba5f-0242ac120007\" id=\"\" target=\"_blank\"><img alt=\"LAL0630_D_ 2020 floor plan.png\" src=\"https://danam.cats.uni-heidelberg.de/files/357cd8a8-dd5d-11ea-ba5f-0242ac120007\" style=\"height:212px; width:300px\" /></a></p>\n\n<p>Kha\u1e0dgayogin\u012b; location map by Bijay Basukala, Niels Gutschow; 1990; updated by Bijay Basukala, 2020-08</p>\n\n<p>Kha\u1e0dgayogin\u012b; site plan by Bijay Basukala; 2020-08</p>\n\n<p>Kha\u1e0dgayogin\u012b; floor&nbsp;plan by Bijay Basukala; 2020-08</p>\n"
+                        },
+                        "nodegroup_id": "c0dc905a-9910-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "c9b45ad2-0219-4437-adf9-8bb269a299e0"
+                    }, {
+                        "data": {
+                            "1bb0731c-c2b9-11ea-a1e8-0242ac120007": null,
+                            "374255f0-c2b9-11ea-ac0e-0242ac120007": "<p>1. [moon] \u0965 \u015br\u012b3\u0965 [sun]<br />\n2. \u015br\u012b kha\u1e0dgayogin\u012bdevyai nama\u1e25 \u0965 [vajra symbol] \u0965 \u015breyo&#39;stu sa\u1e43va\u1e6d 2046 s\u0101la \u0101\u1e63\u0101\u1e0dham\u0101se k\u1e5b\u1e63\u1e47apa<br />\n3. k\u1e63e a\u1e63\u1e6damy\u0101ntithau \u0965 uttarabh\u0101dranak\u1e63atre \u0965 saubh\u0101j&ntilde;ayoge \u0965 \u0101\u1e63\u0101\u1e0dha 12 gate somav\u0101sare \u0965<br />\n4. dina gha\u1e6d\u012b 11\u096435 \u0965 sa\u1e25 \u0965 \u0965 la. pu. \u1e0d\u012bn\u0101gir\u012b niv\u0101situ\u1e43 . \u015br\u012bmacchr\u012b\u015br\u012bkha\u1e0dgayogin\u012bde<br />\n5. v\u012b bhatk\u0101rakasya [bha\u1e6d\u1e6d\u0101rakasya] \u0965 cu\u1e0d\u0101ma\u1e47\u012b \u015bupratisth\u012bt\u0101di pr\u012btiye \u015bubha\u1e43 \u0965 d\u0101napati \u0965 amukasth\u0101<br />\n6. ne niv\u0101sita \u0965 mulek\u016b . dharmar\u0101ja . dharmapatnidvaya ga\u1e47e\u015bam\u0101y\u0101 . pur\u1e47am\u0101y\u0101 . anyasa\u1e25 pa<br />\n7. +++sya . ++++++ uddh\u0101ra k\u0101manay\u0101 : \u015b\u0101ntisvasti . pau\u1e63\u1e6di . k\u0101man\u0101di+ subha\u1e43</p>\n\n<p>&nbsp;</p>\n",
+                            "f524c98c-c2b8-11ea-a1e8-0242ac120007": "<ol>\n\t<li>\n\t<p>[moon] || \u0936\u094d\u0930\u0940\u0969|| [sun]</p>\n\t</li>\n\t<li>\n\t<p>\u0936\u094d\u0930\u0940 \u0916\u0921\u094d\u0917\u092f\u094b\u0917\u093f\u0928\u0940\u0926\u0947\u0935\u094d\u092f\u0948 \u0928\u092e\u0903 \u0965 [\u0935\u091c\u094d\u0930 symbol] || \u0936\u094d\u0930\u0947\u092f\u094b\u093d\u0938\u094d\u0924\u0941 \u0938\u0902\u0935\u091f\u094d \u0968\u0966\u096a\u096c \u0938\u093e\u0932 \u0906\u0937\u093e\u0922\u092e\u093e\u0938\u0947 \u0915\u0943\u0937\u094d\u0923\u092a</p>\n\t</li>\n\t<li>\n\t<p>\u0915\u094d\u0937\u0947 \u0905\u0937\u094d\u091f\u092e\u094d\u092f\u093e\u0928\u094d\u0924\u093f\u0925\u094c \u0965 \u0909\u0924\u094d\u0924\u0930\u092d\u093e\u0926\u094d\u0930\u0928\u0915\u094d\u0937\u0924\u094d\u0930\u0947 \u0965 \u0938\u094c\u092d\u093e\u091c\u094d\u091e\u092f\u094b\u0917\u0947 \u0965 \u0906\u0937\u093e\u0922 \u0967\u0968 \u0917\u0924\u0947 \u0938\u094b\u092e\u0935\u093e\u0938\u0930\u0947 \u0965</p>\n\t</li>\n\t<li>\n\t<p>\u0926\u093f\u0928 \u0918\u091f\u0940 \u0967\u0967\u0964\u0969\u096b \u0965 \u0938\u0903 \u0965 \u0965 \u0932. \u092a\u0941. \u0921\u0940\u0928\u093e\u0917\u093f\u0930\u0940 \u0928\u093f\u0935\u093e\u0938\u093f\u0924\u0941\u0902 . \u0936\u094d\u0930\u0940\u092e\u091a\u094d\u091b\u094d\u0930\u0940\u0936\u094d\u0930\u0940\u0916\u0921\u094d\u0917\u092f\u094b\u0917\u093f\u0928\u0940\u0926\u0947</p>\n\t</li>\n\t<li>\n\t<p>\u0935\u0940 \u092d\u0924\u094d\u0915\u093e\u0930\u0915\u0938\u094d\u092f [\u092d\u091f\u094d\u091f\u093e\u0930\u0915\u0938\u094d\u092f] \u0965 \u091a\u0941\u0921\u093e\u092e\u0923\u0940 \u0936\u0941\u092a\u094d\u0930\u0924\u093f\u0938\u094d\u0925\u0940\u0924\u093e\u0926\u093f \u092a\u094d\u0930\u0940\u0924\u093f\u092f\u0947 \u0936\u0941\u092d\u0902 \u0965 \u0926\u093e\u0928\u092a\u0924\u093f \u0965 \u0905\u092e\u0941\u0915\u0938\u094d\u0925\u093e</p>\n\t</li>\n\t<li>\n\t<p>\u0928\u0947 \u0928\u093f\u0935\u093e\u0938\u093f\u0924 \u0965 \u092e\u0941\u0932\u0947\u0915\u0942 . \u0927\u0930\u094d\u092e\u0930\u093e\u091c . \u0927\u0930\u094d\u092e\u092a\u0924\u094d\u0928\u093f\u0926\u094d\u0935\u092f \u0917\u0923\u0947\u0936\u092e\u093e\u092f\u093e . \u092a\u0941\u0930\u094d\u0923\u092e\u093e\u092f\u093e . \u0905\u0928\u094d\u092f\u0938\u0903 \u092a</p>\n\t</li>\n\t<li>\n\t<p>+++\u0938\u094d\u092f . ++++++ \u0909\u0926\u094d\u0927\u093e\u0930 \u0915\u093e\u092e\u0928\u092f\u093e : \u0936\u093e\u0928\u094d\u0924\u093f\u0938\u094d\u0935\u0938\u094d\u0924\u093f . \u092a\u094c\u0937\u094d\u091f\u093f . \u0915\u093e\u092e\u0928\u093e\u0926\u093f+ \u0938\u0941\u092d\u0902</p>\n\t</li>\n</ol>\n"
+                        },
+                        "nodegroup_id": "cb493e7c-c2b8-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "93f4cfc2-aafa-49c2-b957-205ebb579854"
+                    }, {
+                        "data": {
+                            "00a936da-c2b4-11ea-ac0e-0242ac120007": ["ac3d3a20-1c40-49de-b320-0faf5d377409"],
+                            "00a93838-c2b4-11ea-ac0e-0242ac120007": ["2103928c-7c39-40ab-bc09-b3bf85116255"],
+                            "00a9396e-c2b4-11ea-ac0e-0242ac120007": "2021-05-17",
+                            "00a93aa4-c2b4-11ea-ac0e-0242ac120007": ["d2b8cd60-296a-4917-9d07-2035bdd5ccad"],
+                            "00a93bd0-c2b4-11ea-ac0e-0242ac120007": null
+                        },
+                        "nodegroup_id": "00a9327a-c2b4-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "0d822d93-a8e2-4e99-8899-d086280a4435",
+                        "sortorder": 0,
+                        "tileid": "ca932c45-1851-4b2d-8c28-7b5959c24255"
+                    }
+                ]
+            }, {
+                "resourceinstance": {
+                    "graph_id": "6215ee02-990d-11ea-9766-0242ac130005",
+                    "legacyid": null,
+                    "resourceinstanceid": "1560c84f-b74d-438d-a555-9e8de6c4699a"
+                },
+                "tiles": [{
+                        "data": {
+                            "e3735d6e-6210-11eb-9e66-0242ac130009": "<p>The inscription is on&nbsp;the base of the Pa&ntilde;ca Buddha statues, beneath the&nbsp;<em>esoteric deity&nbsp;</em>(<strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/35bbce88-d716-4b55-9bd0-bfc91bf5fdf5/\" target=\"_blank\"><em>kv\u0101\u1e25p\u0101\u1e25dya\u1e25</em></a></strong>).</p>\n"
+                        },
+                        "nodegroup_id": "e3735d6e-6210-11eb-9e66-0242ac130009",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "1560c84f-b74d-438d-a555-9e8de6c4699a",
+                        "sortorder": 0,
+                        "tileid": "d0a53918-ff77-413f-9f47-db5da56b5aa5"
+                    }, {
+                        "data": {
+                            "83f4a4a4-990e-11ea-9766-0242ac130005": "<p>It is fragmented, and&nbsp;so the date and event is not clearly readable. The inscription&nbsp;mentions that Viso Si\u1e43&nbsp;was a caretaker. It also mentions that everyone&nbsp;must respect the wishes of the donors. It states that any act contrary to their wishes would be sinful and&nbsp;equivalent to killing a Br\u0101hma\u1e47a.</p>\n"
+                        },
+                        "nodegroup_id": "83f4a4a4-990e-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "1560c84f-b74d-438d-a555-9e8de6c4699a",
+                        "sortorder": 0,
+                        "tileid": "9e55a343-b2e9-4920-9c11-4a487ddcf91f"
+                    }, {
+                        "data": {
+                            "4abb9be8-19dd-11eb-bd1f-0242ac120002": "8dd98b14-1052-4e72-9289-3c58a763bb81",
+                            "c2d1328c-19dd-11eb-bd1f-0242ac120002": null,
+                            "cdfe66b0-4a8a-11eb-b215-0242ac130009": "0c0d6c56-b12a-44cd-8396-05344284eb2e"
+                        },
+                        "nodegroup_id": "2c84d388-19dd-11eb-b554-0242ac120002",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "1560c84f-b74d-438d-a555-9e8de6c4699a",
+                        "sortorder": 0,
+                        "tileid": "c794faf6-2633-4626-8d4a-bab922aa2bf2"
+                    }, {
+                        "data": {
+                            "1bd8d676-c698-11ea-a1e8-0242ac120007": [{
+                                    "inverseOntologyProperty": "",
+                                    "ontologyProperty": "",
+                                    "resourceId": "224ae916-e8e2-11e9-8bc4-0242ac130002",
+                                    "resourceXresourceId": "edac4aba-c9ef-11eb-80c6-0242ac160006"
+                                }
+                            ],
+                            "90bc279a-443d-11eb-8cb5-0242ac130007": "C\u012b B\u0101h\u0101\u1e25 Nani, Olakhu \u1e6cola, Lalitpur, 85.32717981821594,27.673921991552334"
+                        },
+                        "nodegroup_id": "d41e168e-c697-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "1560c84f-b74d-438d-a555-9e8de6c4699a",
+                        "sortorder": 0,
+                        "tileid": "8d1f9bb1-4f9e-4344-a713-103014c919a2"
+                    }, {
+                        "data": {
+                            "09b67380-c2bb-11ea-ac0e-0242ac120007": null,
+                            "36d144ea-c2ba-11ea-a1e8-0242ac120007": null,
+                            "c0f199d6-c2ba-11ea-a1e8-0242ac120007": "<p>Yogesh Budathoki</p>\n",
+                            "f05cef86-c2ba-11ea-ac0e-0242ac120007": "<p>Edited by Rabi Acharya</p>\n",
+                            "fc3e4008-c2b9-11ea-a1e8-0242ac120007": null,
+                            "fdaa84ba-c2b9-11ea-a1e8-0242ac120007": null
+                        },
+                        "nodegroup_id": "5c2efa0e-9914-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "1560c84f-b74d-438d-a555-9e8de6c4699a",
+                        "sortorder": 0,
+                        "tileid": "b1b8d466-d52a-4605-a18a-d3a00159dcc0"
+                    }, {
+                        "data": {
+                            "e871483e-c2b1-11ea-a1e8-0242ac120007": {
+                                "features": [{
+                                        "geometry": {
+                                            "coordinates": [85.32717981821594, 27.673921991552334],
+                                            "type": "Point"
+                                        },
+                                        "id": "a5b590df-1b41-4661-889b-49548d6ff2b8",
+                                        "properties": {
+                                            "nodeId": "e871483e-c2b1-11ea-a1e8-0242ac120007"
+                                        },
+                                        "type": "Feature"
+                                    }
+                                ],
+                                "type": "FeatureCollection"
+                            }
+                        },
+                        "nodegroup_id": "e871483e-c2b1-11ea-a1e8-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "1560c84f-b74d-438d-a555-9e8de6c4699a",
+                        "sortorder": 0,
+                        "tileid": "b2cf6ed6-3131-4ba7-ab49-7bac6a1d6cd9"
+                    }, {
+                        "data": {
+                            "995c8a8c-c2bc-11ea-ac0e-0242ac120007": "LAL1730_I_001 A pedestal inscription at C\u012b B\u0101h\u0101\u1e25 Nani, Olakhu \u1e6cola, Lalitpur"
+                        },
+                        "nodegroup_id": "2af022e8-c2bc-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "1560c84f-b74d-438d-a555-9e8de6c4699a",
+                        "sortorder": 0,
+                        "tileid": "88eecbc5-98c8-4f60-adb3-25d2e8100fd9"
+                    }, {
+                        "data": {
+                            "94b5b75c-990d-11ea-9766-0242ac130005": "LAL1730_I_001"
+                        },
+                        "nodegroup_id": "94b5b75c-990d-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "1560c84f-b74d-438d-a555-9e8de6c4699a",
+                        "sortorder": 0,
+                        "tileid": "8acd3429-85b7-4a76-b2c1-864e5c05f9a3"
+                    }, {
+                        "data": {
+                            "bb5ef1b6-990d-11ea-82af-0242ac130005": "<p>A pedestal inscription at C\u012b B\u0101h\u0101\u1e25 Nani, Olakhu \u1e6cola, Lalitpur</p>\n"
+                        },
+                        "nodegroup_id": "bb5ef1b6-990d-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "1560c84f-b74d-438d-a555-9e8de6c4699a",
+                        "sortorder": 0,
+                        "tileid": "bc0768f7-f8f4-491d-afae-927a40808868"
+                    }, {
+                        "data": {
+                            "21bb1b74-4a7f-11eb-85ba-0242ac130009": null,
+                            "30ccd388-4a8d-11eb-85ba-0242ac130009": null,
+                            "317c3c4a-4a80-11eb-85ba-0242ac130009": ["0ea8ec6e-015c-456c-9002-363c5d86208b"],
+                            "4759fb84-c2b7-11ea-a1e8-0242ac120007": ["9218255b-3657-4c79-9561-f6ff2ea0b553"],
+                            "48427b8c-99c9-11ea-9766-0242ac130005": null,
+                            "5dcf79fa-99c9-11ea-82af-0242ac130005": ["50f38f01-d696-4e38-b8ee-de0833e18c81"],
+                            "bcb695b6-99ce-11ea-9766-0242ac130005": ["1d6db6e5-8bad-4057-8916-79686475bfb1"],
+                            "fd2469c4-c2b5-11ea-ac0e-0242ac120007": "<p>on&nbsp;the base of relief with five Buddhas</p>\n"
+                        },
+                        "nodegroup_id": "ff165b54-99c8-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "1560c84f-b74d-438d-a555-9e8de6c4699a",
+                        "sortorder": 0,
+                        "tileid": "0cf88151-ed64-4005-8809-990e3baff3ce"
+                    }, {
+                        "data": {
+                            "2591e954-9a98-11ea-82af-0242ac130005": "<p><a href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL1730_I_20190412_02.jpg\" target=\"_blank\"><img alt=\"\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL1730_I_20190412_02.jpg\" style=\"height:200px; width:300px\" /></a></p>\n\n<p>C\u012b B\u0101h\u0101\u1e25 Nani, stone inscription of unknown date, view from N; photo by Yogesh Budathoki; 2019-04-12</p>\n",
+                            "556786b0-443f-11eb-8822-0242ac130007": 1.0,
+                            "5e2cb4f4-4440-11eb-8822-0242ac130007": "<p><a href=\"https://doi.org/10.11588/heidicon/1243324\" target=\"_blank\">https://doi.org/10.11588/heidicon/1243324</a></p>\n",
+                            "d168cb48-990e-11ea-82af-0242ac130005": null
+                        },
+                        "nodegroup_id": "a26efc40-990e-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "1560c84f-b74d-438d-a555-9e8de6c4699a",
+                        "sortorder": 0,
+                        "tileid": "7590608a-edd0-4a96-949c-fc012af72695"
+                    }, {
+                        "data": {
+                            "3c41954c-1503-11eb-8f70-0242ac120002": "<p>covered with oil and vermillion powder; edges and especially the middle portion are damaged</p>\n",
+                            "dac84bae-1501-11eb-b1dc-0242ac120002": ["2267a947-86a1-468e-81fa-d6c8cd86709d", "8f234cf5-5e9b-4b70-8cac-2c97542937a2"]
+                        },
+                        "nodegroup_id": "24549ed2-990e-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "1560c84f-b74d-438d-a555-9e8de6c4699a",
+                        "sortorder": 0,
+                        "tileid": "0e56ec02-c4b7-4247-94de-a33a53e6c2d7"
+                    }, {
+                        "data": {
+                            "1bb0731c-c2b9-11ea-a1e8-0242ac120007": null,
+                            "374255f0-c2b9-11ea-ac0e-0242ac120007": "<p>1. vande kate \u0101dina he\u1e45ana, kaci\u1e43gala tha\u1e45ana satas\u0101 go br\u0101hama\u1e47\u0101di \u1e63una mah\u0101p\u0101taka l\u0101ka vijyana<br />\n2. +ut\u012btra juro, kaci\u1e43gara thanasya, guthibh\u0101epasena(+++mayi) ci\u1e43t\u0101 y\u0101yam\u0101la juro \u015bubha \u0965 +++++++++<br />\n3. ++++ vis\u0101si\u1e43 ++++ ni +++++ +++++&nbsp;</p>\n",
+                            "f524c98c-c2b8-11ea-a1e8-0242ac120007": "<ol>\n\t<li>\n\t<p>\u0935\u0928\u094d\u0926\u0947 \u0915\u0924\u0947 \u0906\u0926\u093f\u0928 \u0939\u0947\u0919\u0928, \u0915\u091a\u093f\u0902\u0917\u0932 \u0925\u0919\u0928 \u0938\u0924\u0938\u093e \u0917\u094b \u092c\u094d\u0930\u093e\u0939\u092e\u0923\u093e\u0926\u093f \u0937\u0941\u0928 \u092e\u0939\u093e\u092a\u093e\u0924\u0915 \u0932\u093e\u0915 \u0935\u093f\u091c\u094d\u092f\u0928</p>\n\t</li>\n\t<li>\n\t<p>+\u0909\u0924\u0940\u0924\u094d\u0930 \u091c\u0941\u0930\u094b, \u0915\u091a\u093f\u0902\u0917\u0930 \u0925\u0928\u0938\u094d\u092f, \u0917\u0941\u0925\u093f\u092d\u093e\u090f\u092a\u0938\u0947\u0928(+++\u092e\u092f\u093f) \u091a\u093f\u0902\u0924\u093e \u092f\u093e\u092f\u092e\u093e\u0932 \u091c\u0941\u0930\u094b \u0936\u0941\u092d \u0965 +++++++++</p>\n\t</li>\n\t<li>\n\t<p>++++ \u0935\u093f\u0938\u093e\u0938\u093f\u0902 ++++ \u0928\u093f +++++ +++++</p>\n\t</li>\n</ol>\n"
+                        },
+                        "nodegroup_id": "cb493e7c-c2b8-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "1560c84f-b74d-438d-a555-9e8de6c4699a",
+                        "sortorder": 0,
+                        "tileid": "3d1a0082-12be-4874-a247-855c14e4cb87"
+                    }, {
+                        "data": {
+                            "2cfe60a8-6213-11eb-9e66-0242ac130009": "<ul>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong>The annual festival was observed on the full moon day of Bhadra (<strong><a href=\"https://www.zotero.org/groups/2247442/nhdp-bibliography/items/itemKey/5A9SNX3X/q/locke\" target=\"_blank\">Locke</a>&nbsp;</strong>1985, 72), but is now&nbsp;observed on the full moon day of \u0100\u015bvina. A Vajr\u0101c\u0101rya from Kumbhe\u015bvara is appointed to perform the ritual. An umbrella is also offered on that day.</p>\n\n\t<p><strong>Reference source:</strong>&nbsp;None</p>\n\t</li>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong><em><strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/94126120-b001-4f04-975c-5c08a3dd2656/\" target=\"_blank\">Bhajana</a></strong>&nbsp;</em>is performed during the month of&nbsp;<strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/17e908a4-676c-4503-82e0-b4e58b72496b/\" target=\"_blank\"><em>G\u0169l\u0101</em></a></strong>&nbsp;(<strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/cb906d38-016b-47d0-92bc-a8fdd8c3e821/\" target=\"_blank\"><em>\u015ar\u0101va\u1e47a</em></a></strong>) in the courtyard of the B\u0101h\u0101\u1e25.</p>\n\n\t<p><strong>Reference source:</strong>&nbsp;None</p>\n\t</li>\n\t<li>\n\t<p><strong>Description:&nbsp;</strong>This is a private monastery constructed by the&nbsp;Praj\u0101pati family. The daily ritual worship is regularly performed by a Praj\u0101pati family member.</p>\n\n\t<p><strong>Reference source:</strong>&nbsp;None</p>\n\t</li>\n</ul>\n",
+                            "4ffd2648-6213-11eb-9e66-0242ac130009": null,
+                            "619ae1ce-6213-11eb-9e66-0242ac130009": null
+                        },
+                        "nodegroup_id": "1dcf8e40-6213-11eb-aaf1-0242ac130009",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "1560c84f-b74d-438d-a555-9e8de6c4699a",
+                        "sortorder": 0,
+                        "tileid": "5f17df9d-9e5f-4c1e-bccf-f351a7d8575a"
+                    }, {
+                        "data": {
+                            "c0dc905a-9910-11ea-9766-0242ac130005": "<p><a data-bind=\"attr: {href: url}\" href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL1730_A_2019__FLOORPLAN.png\" id=\"\" target=\"_blank\"><img alt=\"LAL1730_A_2019__FLOORPLAN.png\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL1730_A_2019__FLOORPLAN.png\" style=\"height:186px; width:300px\" /></a><a data-bind=\"attr: {href: url}\" href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL1730_D_2020_location_map.png\" id=\"\" target=\"_blank\"><img alt=\"LAL1730_D_2020 location map.png\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL1730_D_2020_location_map.png\" style=\"height:424px; width:300px\" /></a></p>\n\n<p>&nbsp;</p>\n\n<p>C\u012b B\u0101h\u0101\u1e25 Nani; site&nbsp;plan by&nbsp;Sabina Tandukar; 2019</p>\n\n<p>C\u012b B\u0101h\u0101\u1e25 Nani,&nbsp;location map by Niels Gutschow, Bijay Basukala; 1990; updated by Bibek Basukala, 2020-06</p>\n"
+                        },
+                        "nodegroup_id": "c0dc905a-9910-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "1560c84f-b74d-438d-a555-9e8de6c4699a",
+                        "sortorder": 0,
+                        "tileid": "77fff067-e90c-4c4e-a15d-cf3aa0109c4c"
+                    }, {
+                        "data": {
+                            "00a936da-c2b4-11ea-ac0e-0242ac120007": ["ac3d3a20-1c40-49de-b320-0faf5d377409"],
+                            "00a93838-c2b4-11ea-ac0e-0242ac120007": ["2103928c-7c39-40ab-bc09-b3bf85116255"],
+                            "00a9396e-c2b4-11ea-ac0e-0242ac120007": "2021-05-13",
+                            "00a93aa4-c2b4-11ea-ac0e-0242ac120007": ["d2b8cd60-296a-4917-9d07-2035bdd5ccad"],
+                            "00a93bd0-c2b4-11ea-ac0e-0242ac120007": null
+                        },
+                        "nodegroup_id": "00a9327a-c2b4-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "1560c84f-b74d-438d-a555-9e8de6c4699a",
+                        "sortorder": 0,
+                        "tileid": "a96be3bc-4bad-4c07-bc6e-973b4219435c"
+                    }
+                ]
+            }, {
+                "resourceinstance": {
+                    "graph_id": "6215ee02-990d-11ea-9766-0242ac130005",
+                    "legacyid": null,
+                    "resourceinstanceid": "5a955b98-3f94-42be-9013-c2bc401527ef"
+                },
+                "tiles": [{
+                        "data": {
+                            "94b5b75c-990d-11ea-9766-0242ac130005": "LAL2570_I_003"
+                        },
+                        "nodegroup_id": "94b5b75c-990d-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "a06ca82c-5f2e-4c09-9afe-cbf0ffefdebd"
+                    }, {
+                        "data": {
+                            "bb5ef1b6-990d-11ea-82af-0242ac130005": "<p>A statue inscription at Joth\u0101 B\u0101h\u0101\u1e25, Thaina \u1e6cola, Lalitpur re the consecration &nbsp;of statues (NS 793)</p>\n"
+                        },
+                        "nodegroup_id": "bb5ef1b6-990d-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "cb83edbe-0375-4378-8b6a-2d10c70c525e"
+                    }, {
+                        "data": {
+                            "e3735d6e-6210-11eb-9e66-0242ac130009": "<p>arched top contains a relief with \u015a\u0101kyamuni, Ak\u1e63obhya or Ratnasambhava Buddha</p>\n"
+                        },
+                        "nodegroup_id": "e3735d6e-6210-11eb-9e66-0242ac130009",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "75d2245f-83a0-4f24-905b-7193c8050428"
+                    }, {
+                        "data": {
+                            "4abb9be8-19dd-11eb-bd1f-0242ac120002": "1fd4b546-9c00-4aa7-9ce4-5b85786da03f",
+                            "c2d1328c-19dd-11eb-bd1f-0242ac120002": "<p>the last five lines are almost entirely missing</p>\n",
+                            "cdfe66b0-4a8a-11eb-b215-0242ac130009": "0c0d6c56-b12a-44cd-8396-05344284eb2e"
+                        },
+                        "nodegroup_id": "2c84d388-19dd-11eb-b554-0242ac120002",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "2059fc62-4657-495a-8477-40a5c9d64fe4"
+                    }, {
+                        "data": {
+                            "1bd8d676-c698-11ea-a1e8-0242ac120007": [{
+                                    "inverseOntologyProperty": "",
+                                    "ontologyProperty": "",
+                                    "resourceId": "1798db32-ecce-11e9-8bc4-0242ac130002",
+                                    "resourceXresourceId": "edac4aba-c9ef-11eb-80c6-0242ac160006"
+                                }
+                            ],
+                            "90bc279a-443d-11eb-8cb5-0242ac130007": "Joth\u0101 B\u0101h\u0101\u1e25, Thaina \u1e6cola, Lalitpur; 85.32604071220527,27.670263512125427"
+                        },
+                        "nodegroup_id": "d41e168e-c697-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "03d9f233-81e5-4433-bba1-c6e8961c2a27"
+                    }, {
+                        "data": {
+                            "09b67380-c2bb-11ea-ac0e-0242ac120007": null,
+                            "36d144ea-c2ba-11ea-a1e8-0242ac120007": null,
+                            "c0f199d6-c2ba-11ea-a1e8-0242ac120007": "<p>Nashib Kafle</p>\n",
+                            "f05cef86-c2ba-11ea-ac0e-0242ac120007": "<p>Edited by Rabi Acharya</p>\n",
+                            "fc3e4008-c2b9-11ea-a1e8-0242ac120007": null,
+                            "fdaa84ba-c2b9-11ea-a1e8-0242ac120007": null
+                        },
+                        "nodegroup_id": "5c2efa0e-9914-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "ba717b89-55a5-4737-ad80-bcdd79e75aab"
+                    }, {
+                        "data": {
+                            "2351e7ee-9911-11ea-82af-0242ac130005": "<p>Bajracharya, Manik, and Axel Michaels, eds.&nbsp;<em>Nep\u0101likabh\u016bpava\u1e43\u015b\u0101val\u012b: History of the Kings of Nepal: A Buddhist Chronicle</em>. Vol. 1&ndash;2. 3 vols. Kathmandu: Himal Books, 2016.</p>\n\n<p>\u015a\u0101kya, Hemr\u0101ja.&nbsp;<em>Samyak M\u0101h\u0101d\u0101na Guthi</em>. Kathmandu: Jagatdhara Tul\u0101dhara, 2036.</p>\n"
+                        },
+                        "nodegroup_id": "2351e7ee-9911-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "65d75022-ae76-4888-8201-c482e33e585c"
+                    }, {
+                        "data": {
+                            "e871483e-c2b1-11ea-a1e8-0242ac120007": {
+                                "features": [{
+                                        "geometry": {
+                                            "coordinates": [85.32604071220527, 27.670263512125427],
+                                            "type": "Point"
+                                        },
+                                        "id": "3d0ade12-36fc-4c89-a33a-fb32389b85d3",
+                                        "properties": {
+                                            "nodeId": "e871483e-c2b1-11ea-a1e8-0242ac120007"
+                                        },
+                                        "type": "Feature"
+                                    }
+                                ],
+                                "type": "FeatureCollection"
+                            }
+                        },
+                        "nodegroup_id": "e871483e-c2b1-11ea-a1e8-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "ec60b99a-7b78-463c-8ad8-c1e587773483"
+                    }, {
+                        "data": {
+                            "536b77fa-5b04-11eb-9e66-0242ac130009": null,
+                            "b727b1a0-5aff-11eb-9e66-0242ac130009": ["d431db8b-b858-46d5-bcf0-64fcfbcbb946"],
+                            "e71d2d60-c2b4-11ea-ac0e-0242ac120007": null,
+                            "e71d2f04-c2b4-11ea-ac0e-0242ac120007": ["cb1ef6ce-e955-43e4-9917-be116615e506"],
+                            "e71d3076-c2b4-11ea-ac0e-0242ac120007": ["2af109ef-4876-48d6-970a-8d18865bb5f3"],
+                            "e71d31e8-c2b4-11ea-ac0e-0242ac120007": null,
+                            "e71d335a-c2b4-11ea-ac0e-0242ac120007": "1673",
+                            "e71d34c2-c2b4-11ea-ac0e-0242ac120007": ["cf5b640e-81ab-48d9-a3e0-58272687eb2d"],
+                            "e71d3634-c2b4-11ea-ac0e-0242ac120007": ["a76209c8-a3fd-4dff-9ffb-cc019dfec7b9"],
+                            "e71d379c-c2b4-11ea-ac0e-0242ac120007": null,
+                            "e71d3904-c2b4-11ea-ac0e-0242ac120007": "<p>NS 793</p>\n"
+                        },
+                        "nodegroup_id": "e71d2810-c2b4-11ea-ac0e-0242ac120007",
+                        "parenttile_id": "e2be6623-ed83-4ee0-94b1-6f0ab84937d2",
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "09c705ff-5d53-4182-9ff4-831652057ce2"
+                    }, {
+                        "data": {
+                            "d91cb788-990d-11ea-9766-0242ac130005": "<p>The inscription records the consecration of the images of <strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/4a2fad02-46df-4195-8011-f7e2949dabe6/\" target=\"_blank\">Amoghap\u0101\u015ba Loke\u015bvara</a></strong> and \u0100rya T\u0101r\u0101 on the sides of&nbsp;the main deity inside the sanctum.</p>\n"
+                        },
+                        "nodegroup_id": "d91cb788-990d-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "93e9b383-7d3b-48f3-9ebf-c38bd93d2d3d"
+                    }, {
+                        "data": {
+                            "2591e954-9a98-11ea-82af-0242ac130005": "<p><a href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL2570-002_P_20181219_01.jpg\" target=\"_blank\"><img alt=\"\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL2570-002_P_20181219_01.jpg\" style=\"height:200px; width:300px\" /></a><a href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL2570_I_20181219_02.jpg\" target=\"_blank\"><img alt=\"\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL2570_I_20181219_02.jpg\" style=\"height:200px; width:300px\" /></a></p>\n\n<p>Joth\u0101 B\u0101h\u0101\u1e25, statue of donor, view from W; photo by Nashib Kafle; 2018-12-19</p>\n\n<p>Joth\u0101&nbsp;B\u0101h\u0101\u1e25, inscription from NS 793 (1673 CE), view from E; photo by Nashib Kafle; 2018-12-19</p>\n",
+                            "556786b0-443f-11eb-8822-0242ac130007": 2.0,
+                            "5e2cb4f4-4440-11eb-8822-0242ac130007": "<p><a href=\"https://doi.org/10.11588/heidicon/1266890\" target=\"_blank\">https://doi.org/10.11588/heidicon/1266890</a>,&nbsp;<a href=\"https://doi.org/10.11588/heidicon/1266873\" target=\"_blank\">https://doi.org/10.11588/heidicon/1266873</a></p>\n",
+                            "d168cb48-990e-11ea-82af-0242ac130005": null
+                        },
+                        "nodegroup_id": "a26efc40-990e-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "ed5691a7-0571-43aa-b575-479c640052a9"
+                    }, {
+                        "data": {
+                            "995c8a8c-c2bc-11ea-ac0e-0242ac120007": "LAL2570_I_003 A statue inscription at Joth\u0101 B\u0101h\u0101\u1e25, Thaina \u1e6cola, Lalitpur re the consecration  of statues (NS 793)"
+                        },
+                        "nodegroup_id": "2af022e8-c2bc-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "f7cf71c5-257c-4660-9c6c-dbe14683d04b"
+                    }, {
+                        "data": {
+                            "21bb1b74-4a7f-11eb-85ba-0242ac130009": null,
+                            "30ccd388-4a8d-11eb-85ba-0242ac130009": null,
+                            "317c3c4a-4a80-11eb-85ba-0242ac130009": ["10195e14-0ffa-420b-979f-eda9251d1446"],
+                            "4759fb84-c2b7-11ea-a1e8-0242ac120007": ["9218255b-3657-4c79-9561-f6ff2ea0b553"],
+                            "48427b8c-99c9-11ea-9766-0242ac130005": null,
+                            "5dcf79fa-99c9-11ea-82af-0242ac130005": ["89f4eead-5aa3-43d6-9cc2-07189d991018"],
+                            "bcb695b6-99ce-11ea-9766-0242ac130005": ["1d6db6e5-8bad-4057-8916-79686475bfb1"],
+                            "fd2469c4-c2b5-11ea-ac0e-0242ac120007": "<p>on the backside of the statue of the donor (LAL2570-001)</p>\n"
+                        },
+                        "nodegroup_id": "ff165b54-99c8-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "e2be6623-ed83-4ee0-94b1-6f0ab84937d2"
+                    }, {
+                        "data": {
+                            "3c41954c-1503-11eb-8f70-0242ac120002": "<p>scratches; lower part is heavily damaged</p>\n",
+                            "dac84bae-1501-11eb-b1dc-0242ac120002": ["814263d6-a08b-423d-a87e-e006280decbe", "2267a947-86a1-468e-81fa-d6c8cd86709d"]
+                        },
+                        "nodegroup_id": "24549ed2-990e-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "1317d44d-308b-442d-bf0b-10dc0cd1abbf"
+                    }, {
+                        "data": {
+                            "1bb0731c-c2b9-11ea-a1e8-0242ac120007": null,
+                            "374255f0-c2b9-11ea-ac0e-0242ac120007": "<p>1. \u27c5 o\u1e43 nama\u1e25 \u015br\u012b\u015b\u0101kyamunaye \u0965 sarvvabuddh\u0101laya</p>\n\n<p>2. caitya\u1e43 svaya\u1e43bh\u016b vi\u015bvar\u016bpina\u1e43 \u0964 trivarggamok\u1e63ala</p>\n\n<p>3. bdh\u0101ya dharmmadh\u0101tu\u1e43 nam\u0101myaha\u1e43 \u0965 buddhar\u0101j&ntilde;a\u1e43 ma</p>\n\n<p>4. h\u0101n\u0101tha\u1e43 \u015b\u0101kyasi\u1e43ha\u1e43 nam\u0101myaha\u1e43 \u0965 \u0965 \u015buddhaku\u1e47\u1e0da</p>\n\n<p>5. tu\u1e63\u0101rabh\u0101sa\u015bad\u1e5b\u015ba\u1e43 padme vare sa\u1e43sthita\u1e43, sa</p>\n\n<p>6. rvvaj&ntilde;avidadh\u0101nam\u0101bhaya\u1e43 \u015br\u012bp\u0101\u015boj\u0101yo</p>\n\n<p>7. ttama\u1e43 \u0964 v\u0101me ta\u1e43sikama\u1e47\u1e0dala&ntilde;ca kamalada\u1e47\u1e0do</p>\n\n<p>8. ttama\u1e43 pustaka\u1e43 vandeha\u1e43 parame\u015bvara\u1e43 tu siras\u0101</p>\n\n<p>9. kok\u0101n\u016bka\u1e43 y\u0101maya \u0965 0 \u0965 \u015briva&#39;stu</p>\n\n<p>10. sa\u1e43vat 793 \u0101\u1e63\u0101\u1e0dha \u015bukla, saptamy\u0101\u1e43 t\u012b</p>\n\n<p>11. thau, uttarabhadranak\u1e63atre, vyatip\u0101tayoge</p>\n\n<p>12. budhav\u0101sare, maithunar\u0101sigate, savitali</p>\n\n<p>13. si\u1e43har\u0101sigate idamadivase, \u015br\u012bjaya&nbsp;</p>\n\n<p>14. \u015br\u012bma\\+\\vih\u0101re, \u015b\u0101kyamunibha\u1e6d\u1e6d\u0101ra</p>\n\n<p>15. k\u0101\\+++++\\(y\u0101\u1e45\u0101) p\u0101\u015baloke\u015bvar\u0101aryyat\u0101</p>\n\n<p>16. \\\\\\++++++prati++++t\u0101y\u0101</p>\n\n<p>17. \\\\\\+++</p>\n\n<p>18. +++</p>\n\n<p>19. +++ \\\\\\&hellip;</p>\n",
+                            "f524c98c-c2b8-11ea-a1e8-0242ac120007": "<p>\u0967. \u27c5 \u0913\u0902 \u0928\u092e\u0903 \u0936\u094d\u0930\u0940\u0936\u093e\u0915\u094d\u092f\u092e\u0941\u0928\u092f\u0947 \u0965 \u0938\u0930\u094d\u0935\u094d\u0935\u092c\u0941\u0926\u094d\u0927\u093e\u0932\u092f</p>\n\n<p>\u0968. \u091a\u0948\u0924\u094d\u092f\u0902 \u0938\u094d\u0935\u092f\u0902\u092d\u0942 \u0935\u093f\u0936\u094d\u0935\u0930\u0942\u092a\u093f\u0928\u0902 \u0964 \u0924\u094d\u0930\u093f\u0935\u0930\u094d\u0917\u094d\u0917\u092e\u094b\u0915\u094d\u0937\u0932</p>\n\n<p>\u0969. \u092c\u094d\u0927\u093e\u092f \u0927\u0930\u094d\u092e\u094d\u092e\u0927\u093e\u0924\u0941\u0902 \u0928\u092e\u093e\u092e\u094d\u092f\u0939\u0902 \u0965 \u092c\u0941\u0926\u094d\u0927\u0930\u093e\u091c\u094d\u091e\u0902 \u092e</p>\n\n<p>\u096a. \u0939\u093e\u0928\u093e\u0925\u0902 \u0936\u093e\u0915\u094d\u092f\u0938\u093f\u0902\u0939\u0902 \u0928\u092e\u093e\u092e\u094d\u092f\u0939\u0902 \u0965 \u0965 \u0936\u0941\u0926\u094d\u0927\u0915\u0941\u0923\u094d\u0921</p>\n\n<p>\u096b. \u0924\u0941\u0937\u093e\u0930\u092d\u093e\u0938\u0936\u0926\u0943\u0936\u0902 \u092a\u0926\u094d\u092e\u0947 \u0935\u0930\u0947 \u0938\u0902\u0938\u094d\u0925\u093f\u0924\u0902, \u0938</p>\n\n<p>\u096c. \u0930\u094d\u0935\u094d\u0935\u091c\u094d\u091e\u0935\u093f\u0926\u0927\u093e\u0928\u092e\u093e\u092d\u092f\u0902 \u0936\u094d\u0930\u0940\u092a\u093e\u0936\u094b\u091c\u093e\u092f\u094b</p>\n\n<p>\u096d. \u0924\u094d\u0924\u092e\u0902 \u0964 \u0935\u093e\u092e\u0947 \u0924\u0902\u0938\u093f\u0915\u092e\u0923\u094d\u0921\u0932\u091e\u094d\u091a \u0915\u092e\u0932\u0926\u0923\u094d\u0921\u094b</p>\n\n<p>\u096e. \u0924\u094d\u0924\u092e\u0902 \u092a\u0941\u0938\u094d\u0924\u0915\u0902 \u0935\u0928\u094d\u0926\u0947\u0939\u0902 \u092a\u0930\u092e\u0947\u0936\u094d\u0935\u0930\u0902 \u0924\u0941 \u0938\u093f\u0930\u0938\u093e</p>\n\n<p>\u096f. \u0915\u094b\u0915\u093e\u0928\u0942\u0915\u0902 \u092f\u093e\u092e\u092f \u0965 \u0966 \u0965 \u0936\u094d\u0930\u093f\u0935\u093d\u0938\u094d\u0924\u0941</p>\n\n<p>\u0967\u0966. \u0938\u0902\u0935\u0924\u094d \u096d\u096f\u0969 \u0906\u0937\u093e\u0922 \u0936\u0941\u0915\u094d\u0932, \u0938\u092a\u094d\u0924\u092e\u094d\u092f\u093e\u0902 \u0924\u0940</p>\n\n<p>\u0967\u0967. \u0925\u094c, \u0909\u0924\u094d\u0924\u0930\u092d\u0926\u094d\u0930\u0928\u0915\u094d\u0937\u0924\u094d\u0930\u0947, \u0935\u094d\u092f\u0924\u093f\u092a\u093e\u0924\u092f\u094b\u0917\u0947</p>\n\n<p>\u0967\u0968. \u092c\u0941\u0927\u0935\u093e\u0938\u0930\u0947, \u092e\u0948\u0925\u0941\u0928\u0930\u093e\u0938\u093f\u0917\u0924\u0947, \u0938\u0935\u093f\u0924\u0932\u093f</p>\n\n<p>\u0967\u0969. \u0938\u093f\u0902\u0939\u0930\u093e\u0938\u093f\u0917\u0924\u0947 \u0907\u0926\u092e\u0926\u093f\u0935\u0938\u0947, \u0936\u094d\u0930\u0940\u091c\u092f</p>\n\n<p>\u0967\u096a. \u0936\u094d\u0930\u0940\u092e\\+\\\u0935\u093f\u0939\u093e\u0930\u0947, \u0936\u093e\u0915\u094d\u092f\u092e\u0941\u0928\u093f\u092d\u091f\u094d\u091f\u093e\u0930</p>\n\n<p>\u0967\u096b. \u0915\u093e\\+++++\\(\u092f\u093e\u0919\u093e) \u092a\u093e\u0936\u0932\u094b\u0915\u0947\u0936\u094d\u0935\u0930\u093e\u0905\u0930\u094d\u092f\u094d\u092f\u0924\u093e</p>\n\n<p>\u0967\u096c. \\\\\\++++++\u092a\u094d\u0930\u0924\u093f++++\u0924\u093e\u092f\u093e</p>\n\n<p>\u0967\u096d. \\\\\\+++</p>\n\n<p>\u0967\u096e. +++</p>\n\n<p>\u0967\u096f. +++ \\\\\\ &hellip;</p>\n"
+                        },
+                        "nodegroup_id": "cb493e7c-c2b8-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "91126bc1-98bb-4518-8cb7-a68e041fd534"
+                    }, {
+                        "data": {
+                            "83f4a4a4-990e-11ea-9766-0242ac130005": "<p>Towards the east of the&nbsp;<em>\u015bikharak\u016b\u1e6da <strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/07734ba3-4482-4dc0-be30-a7bda0ec102f/\" target=\"_blank\">caitya</a></strong></em>&nbsp;one can find an statue of a donor. The donor sits on a lotus and is facing west.&nbsp;<a href=\"https://www.zotero.org/groups/2247442/nhdp-bibliography/items/itemKey/5UE3H7K9?\" target=\"_blank\">\u015a\u0101kya</a>&nbsp;(1994, 89) states that this is the statue of Loha\u1e43ma\u1e47i \u0100ju. There is an inscription behind the statue, which has been carved&nbsp;in the same stone. The lower part of the inscription of NS 793&nbsp;is broken. Any&nbsp;information about the person who installed it has therefore been lost. However, some text&nbsp;can still&nbsp;be deciphered, telling the reader&nbsp;that images of Amoghap\u0101\u015ba Loke\u015bvara and \u0100rya T\u0101r\u0101 were installed.</p>\n"
+                        },
+                        "nodegroup_id": "83f4a4a4-990e-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "606141d2-03e5-4bee-ba85-4fb82e0e8bdf"
+                    }, {
+                        "data": {
+                            "066fbb62-6213-11eb-aaf1-0242ac130009": null,
+                            "d4ba6b94-6212-11eb-aaf1-0242ac130009": "<p><strong>NS 793 </strong>(Wednesday, the 7th of the bright fortnight of <strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/df3e52d2-47b7-4436-851e-0256752d4c17/\" target=\"_blank\">\u0100\u1e63\u0101\u1e0dha</a></strong>)</p>\n\n<p>The statues of Amoghap\u0101\u015ba Loke\u015bvara and \u0100rya T\u0101r\u0101 on the sides of&nbsp;the main deity inside the sanctum were consecrated.</p>\n",
+                            "e6adebb4-6212-11eb-9e66-0242ac130009": null
+                        },
+                        "nodegroup_id": "c53a1930-6212-11eb-9e66-0242ac130009",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "18b1a3de-77e7-47d1-8daa-078bf8401cb9"
+                    }, {
+                        "data": {
+                            "2cfe60a8-6213-11eb-9e66-0242ac130009": "<ul>\n\t<li>\n\t<p><strong>Description:&nbsp;<a href=\"https://www.zotero.org/groups/2247442/nhdp-bibliography/items/itemKey/5UE3H7K9/q/Samyak%20M%C4%81h%C4%81d%C4%81na%20Guthi\" target=\"_blank\">H. \u015a\u0101kya&nbsp;</a></strong>mentions that \u015ar\u012bniv\u0101sa Malla (r. 1661-1685), the King of Patan, was invited to visit&nbsp;this&nbsp;<em>b\u0101h\u0101\u1e25</em>&nbsp;in 1667 (NS 787) on the occasion of&nbsp;the<em>&nbsp;samyak mah\u0101d\u0101na</em>&nbsp;performance. The king sat&nbsp;on a golden throne placed at the&nbsp;<em>p\u0101sukh\u0101 jhy\u0101\u1e25,&nbsp;</em>which was&nbsp;on the north&nbsp;wing. From here,&nbsp;he watched the<em>&nbsp;</em>ritual.&nbsp;</p>\n\n\t<p>In NS 783 and together with the workers who had worked on the construction of the&nbsp;<em>b\u0101h\u0101\u1e25</em>, the founder of the monastry&nbsp;Joth\u0101ju&nbsp;helped King \u015ar\u012bniv\u0101sa Malla in the process of extending&nbsp;the palace building. The king was ultimately pleased&nbsp;with Joth\u0101ju&rsquo;s work, and gave him a horse as a gift. According to the&nbsp;<a href=\"https://www.zotero.org/groups/2247442/nhdp-bibliography/items/itemKey/RLA2AXR2/q/Nepalik\" target=\"_blank\"><strong><em>Nep\u0101likabh\u016bpava\u1e43\u015b\u0101val\u012b</em></strong></a>&nbsp; (2016: 129), this event took place during the reign&nbsp;of King Vi\u1e63\u1e47u Malla (r. NS 849-865). However, Joth\u0101ju passed away&nbsp;in 795, which suggests that the event actually took place in the reign&nbsp;of King \u015ar\u012bniv\u0101sa Malla.&nbsp;<br />\n\tJoth\u0101ju sold the horse and used the money to&nbsp;buy land. The land was named Salakhv\u0101\u1e25 B\u0169. Using the income from this field,&nbsp;Joth\u0101ju also established a&nbsp;<em>gu\u1e6dh\u012b</em>&nbsp;for the management of Rudravar\u1e47a Mah\u0101vih\u0101ra.</p>\n\n\t<p><strong>Reference source:</strong>&nbsp;<a href=\"https://www.zotero.org/groups/2247442/nhdp-bibliography/items/itemKey/RLA2AXR2/q/Nepalik\" target=\"_blank\"><strong><em>Nep\u0101likabh\u016bpava\u1e43\u015b\u0101val\u012b</em></strong></a>&nbsp;</p>\n\t</li>\n</ul>\n",
+                            "4ffd2648-6213-11eb-9e66-0242ac130009": null,
+                            "619ae1ce-6213-11eb-9e66-0242ac130009": null
+                        },
+                        "nodegroup_id": "1dcf8e40-6213-11eb-aaf1-0242ac130009",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "75635e80-dc87-4ea6-86d8-93d3c710c4e2"
+                    }, {
+                        "data": {
+                            "c0dc905a-9910-11ea-9766-0242ac130005": "<p><a data-bind=\"attr: {href: url}\" href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL2570_D_2020_location_map_wFc8u8Z.png\" id=\"\" target=\"_blank\"><img alt=\"LAL2570_D_2020 location map.png\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL2570_D_2020_location_map_wFc8u8Z.png\" style=\"height:424px; width:300px\" /></a><a data-bind=\"attr: {href: url}\" href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL2570_D_2018_floor_plan.png\" id=\"\" target=\"_blank\"><img alt=\"LAL2570_D_2018 floor plan.png\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL2570_D_2018_floor_plan.png\" style=\"height:212px; width:300px\" /></a><a data-bind=\"attr: {href: url}\" href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL2570_D_2018_site_plan.png\" id=\"\" target=\"_blank\"><img alt=\"LAL2570_D_2018 site plan.png\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL2570_D_2018_site_plan.png\" style=\"height:212px; width:300px\" /></a></p>\n\n<p>Joth\u0101 B\u0101h\u0101\u1e25; location map by Niels Gutschow, Bijay Basukala; 1990; updated by Bibek Basukala, 2020-05</p>\n\n<p>Joth\u0101 B\u0101h\u0101\u1e25; floor plan by Padma Sundar Maharjan; 2018-12</p>\n\n<p>Joth\u0101 B\u0101h\u0101\u1e25; site plan by Padma Sundar Maharjan; 2018-12</p>\n"
+                        },
+                        "nodegroup_id": "c0dc905a-9910-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "125a5a66-1128-4c02-a5e5-0df4fc0c6114"
+                    }, {
+                        "data": {
+                            "00a936da-c2b4-11ea-ac0e-0242ac120007": ["ac3d3a20-1c40-49de-b320-0faf5d377409"],
+                            "00a93838-c2b4-11ea-ac0e-0242ac120007": ["2103928c-7c39-40ab-bc09-b3bf85116255"],
+                            "00a9396e-c2b4-11ea-ac0e-0242ac120007": "2021-05-25",
+                            "00a93aa4-c2b4-11ea-ac0e-0242ac120007": ["d2b8cd60-296a-4917-9d07-2035bdd5ccad"],
+                            "00a93bd0-c2b4-11ea-ac0e-0242ac120007": null
+                        },
+                        "nodegroup_id": "00a9327a-c2b4-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "5a955b98-3f94-42be-9013-c2bc401527ef",
+                        "sortorder": 0,
+                        "tileid": "225de139-1d54-48ee-b172-1c76a07d3707"
+                    }
+                ]
+            }, {
+                "resourceinstance": {
+                    "graph_id": "6215ee02-990d-11ea-9766-0242ac130005",
+                    "legacyid": null,
+                    "resourceinstanceid": "115a5984-e4be-4d38-8c9b-424556dc2078"
+                },
+                "tiles": [{
+                        "data": {
+                            "94b5b75c-990d-11ea-9766-0242ac130005": "LAL2750_I_001"
+                        },
+                        "nodegroup_id": "94b5b75c-990d-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "a4b4b1eb-62ca-4aa8-a907-e672ac3547af"
+                    }, {
+                        "data": {
+                            "bb5ef1b6-990d-11ea-82af-0242ac130005": "<p>A stone slab inscription at Um\u0101mahe\u015bvara, C\u0101ka B\u0101h\u0101\u1e25 \u1e6cola, Lalitpur re the reconstruction of temple by Vi\u015bvambhara Bh\u0101ro (NS 796)</p>\n"
+                        },
+                        "nodegroup_id": "bb5ef1b6-990d-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "3f68a883-497e-4bf2-ade6-eb5230c27452"
+                    }, {
+                        "data": {
+                            "00a936da-c2b4-11ea-ac0e-0242ac120007": ["ac3d3a20-1c40-49de-b320-0faf5d377409"],
+                            "00a93838-c2b4-11ea-ac0e-0242ac120007": ["2103928c-7c39-40ab-bc09-b3bf85116255"],
+                            "00a9396e-c2b4-11ea-ac0e-0242ac120007": "2021-05-28",
+                            "00a93aa4-c2b4-11ea-ac0e-0242ac120007": ["d2b8cd60-296a-4917-9d07-2035bdd5ccad"],
+                            "00a93bd0-c2b4-11ea-ac0e-0242ac120007": null
+                        },
+                        "nodegroup_id": "00a9327a-c2b4-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "6aa27581-77ed-4b6e-8a42-6371a7eb22db"
+                    }, {
+                        "data": {
+                            "3c41954c-1503-11eb-8f70-0242ac120002": null,
+                            "dac84bae-1501-11eb-b1dc-0242ac120002": ["ed96179a-ac4a-4019-8687-d383155efb41"]
+                        },
+                        "nodegroup_id": "24549ed2-990e-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "3722b20e-25db-4d79-a631-f11e7bbfe893"
+                    }, {
+                        "data": {
+                            "e3735d6e-6210-11eb-9e66-0242ac130009": "<p>archway-like shape; nine <strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/dabf6234-fd09-4619-a1ac-d14aa3598737/\" target=\"_blank\">\u015aivali\u1e45ga</a>&nbsp;</strong>on lotus pedestals adorn the text of the inscription</p>\n"
+                        },
+                        "nodegroup_id": "e3735d6e-6210-11eb-9e66-0242ac130009",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "72538de5-6c32-4c57-af90-cc3b993cff07"
+                    }, {
+                        "data": {
+                            "4abb9be8-19dd-11eb-bd1f-0242ac120002": "8dd98b14-1052-4e72-9289-3c58a763bb81",
+                            "c2d1328c-19dd-11eb-bd1f-0242ac120002": null,
+                            "cdfe66b0-4a8a-11eb-b215-0242ac130009": "c0a31639-bbb4-4634-85c0-81b5262eec72"
+                        },
+                        "nodegroup_id": "2c84d388-19dd-11eb-b554-0242ac120002",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "494ca4e4-c755-4d93-93ea-e2b3953519e6"
+                    }, {
+                        "data": {
+                            "1bb0731c-c2b9-11ea-a1e8-0242ac120007": null,
+                            "374255f0-c2b9-11ea-ac0e-0242ac120007": "<p>1. \u27c5 o\u1e43 nama\u1e25 \u015biv\u0101ya \u0965 bhuja\u1e45gopav\u012bta\u1e43, bhuja\u1e43g\u0101vata\u1e43\u015ba\u1e43, \u015baratko\u1e6dicandraprabha\u1e43 candrac\u016b\u1e0da\u1e43 \u0965</p>\n\n<p>2. gir\u012b\u015ba\u1e43 gir\u012b\u015b\u0101tmaje\u015ba\u1e43 mahe\u015ba\u1e43, gave\u015b\u0101na \u0101s\u012bnam\u012b\u015b\u0101nam\u012b\u1e0de \u0965 \u015br\u012b \u015br\u012b \u015br\u012bniv\u0101san\u1e5btapate</p>\n\n<p>3. \u1e25 sacive\u1e63u mukhyo, vi\u015bve\u015bvarasya tanayo nayakovido&#39;bh\u016bt \u0965 vi\u015bvambhara\u1e25 kulasarojavik\u0101</p>\n\n<p>4. sabh\u0101n\u016b\u1e25 sa\u1e43gr\u0101makarmmanipu\u1e47a\u015bcatura\u1e25 su\u015b\u012bla\u1e25 \u0965 loke&#39;tyantaparopak\u0101ramanaso vi\u015bve\u015bva</p>\n\n<p>5. rasy\u0101tmajo, n\u012btij&ntilde;o&#39;tulavikrama\u1e25 pa\u1e6dutaro vi\u015bva\u1e43bharo vi\u015bruta\u1e25 \u0964 nep\u0101le lalit\u0101pur\u012bpatin\u1e5bpa</p>\n\n<p>6. \u015br\u012b\u015br\u012bniv\u0101saprabho\u1e25 sen\u0101n\u0101\u1e43 ga\u1e47an\u0101yaka\u1e25 sasacivo j\u012bvvy\u0101ccira\u1e43 bh\u016btale \u0965 tasy\u0101tmajo harapad\u0101mbujayugmabh\u1e5b\u1e45go, d\u0101modaro vivu</p>\n\n<p>7. dhasajjanasa\u1e43rak\u1e63a\u1e25 \u0964 tasm\u0101dbabh\u016bvaturubhau tanayau ca r\u0101ma, saumitrakauda\u015banath\u0101diva b\u0101lakau tau \u0965 pur\u0101natana\u1e43 \u015ba\u1e43bhuma\u1e6dha\u1e43 suj\u012br\u1e47\u1e47amap\u0101syahemna</p>\n\n<p>8. \u1e25 kala\u015bena h\u012bna\u1e43 \u0965 vi\u015bva\u1e43bharosay kurutesma \u015bambho\u1e25 pr\u0101s\u0101damena\u1e43 ca nava\u1e43 manoj&ntilde;a\u1e43 \u0965 tasminneva ma\u1e6dhe ramye, bhav\u0101n\u012b\u015ba\u1e43kar\u0101vubhau \u0964 tena vi\u015bva\u1e43</p>\n\n<p>9. bhare\u1e47aiva, sth\u0101pitau jagat\u0101\u1e43 prabh\u016b \u0965 naip\u0101l\u0101bde rasavilamunau, jye\u1e63\u1e6dham\u0101se ca \u015bukle, v\u0101re j\u012bve \u015batadh\u1e5btitithau rohi\u1e47\u012bbhe \u015bivasya \u0964</p>\n\n<p>10. pr\u0101s\u0101de&#39;smin kanakakala\u015ba\u1e43, sth\u0101pay\u0101m\u0101sa bhakty\u0101, k\u1e5bty\u0101 homa\u1e43 dvijavaraga\u1e47\u0101np\u016bjya vi\u015bva\u1e43bharo&#39;sau \u0965 0\u0965 atha nep\u0101labh\u0101\u1e63\u0101 \u0965</p>\n\n<p>11. \u27c5 samvat 796 jye\u1e63\u1e6dham\u0101se \u015buklapak\u1e63e dvit\u012by\u0101y\u0101\u1e43 tithau, rohi\u1e47\u012bnak\u1e63atre, b\u1e5bhaspativ\u0101sare, thva kunhu c\u0101krav\u0101h\u0101ray\u0101 param\u0101na vi\u015bva\u1e43bhara bh\u0101rosana h\u1e47avay\u0101 (m\u0101h\u0101)devala c\u0101cchataye</p>\n\n<p>12. ri j\u012br\u1e47\u1e47a juy\u0101va se\u1e45\u0101va co\u1e45asa thava n\u0101mna svataparidevala dayaka\u1e43 mah\u0101r\u0101j\u0101dhir\u0101ja \u015br\u012b3 niv\u0101samallath\u0101kula \u015br\u012b2 narendramalla tho nehma th\u0101kula vijy\u0101caka\u1e43 \u015br\u012b um\u0101mahe\u015bvaram\u016brtti</p>\n\n<p>13. prati\u1e63\u1e6dh\u0101 y\u0101\u1e45\u0101na suvar\u1e47akala\u015badhvaj\u0101varohana y\u0101\u1e45\u0101 dina julo \u0965 thva devay\u0101ta var\u1e63a\u1e43 pratinist\u016braye y\u0101ta, rova 7 khomo\u1e0d ro 6 nhasibhela, rovahuva\u1e43 de\u015br\u0101mako, thvate v\u016by\u0101 varas\u0101na\u1e43 v\u016bs\u0101</p>\n\n<p>14. dhanasa homa y\u0101\u1e45ana duguhma\u1e43 1 hikhoyam\u0101la, sagana y\u0101ta sacekana ku\u1e0da 2 c\u0101kramata cchoyake, \u015bivar\u0101tri sapa\u1e43c\u0101m\u1e5bta ni\u015br\u0101vajo 2 vy\u0101lapatrasa jon\u0101sata\u1e43 re\u1e47uki 2 \u1e45a\u1e43 1 ceka\u1e43 c\u0101kra</p>\n\n<p>15. mata cchoyake, dyerapra 1 x div\u0101mata, nityap\u016bj\u0101y\u0101ta,ke, sv\u0101nay\u0101ta, vyepha\u1e43 12 ni\u015br\u0101va y\u0101take pha\u1e43 67 dharivye? pha\u1e43 30 madhivye pha\u1e43 30 ceka\u1e43 vyapha\u1e43 30 br\u0101hma\u1e47a y\u0101tam\u0101ta\u1e45ana vya \u1e63\u1e6dha\u1e43 ? 90</p>\n\n<p>16. mo\u1e6da\u1e43 1 lenakesa hl\u0101y\u0101ta, thvate varas\u0101nena var\u1e63a\u1e43pratipi&lt;&nbsp;tem\u0101la, thvatiy\u0101 ci\u1e43t\u0101y\u0101ka siddhir\u0101ja bh\u0101ro, kaly\u0101nasi\u1e43ha bh\u0101ro, r\u0101macandra bh\u0101ro, harina\u1e43dana bh\u0101ro, thvati hl\u0101seta</p>\n\n<p>17. ko may\u0101ta s\u0101lobhay\u0101tas\u0101 gobr\u0101hma\u1e47\u0101di hathy\u0101ya\u1e43 ca mah\u0101p\u0101taka l\u0101ka juro, hl\u0101setako y\u0101tas\u0101, thvati p\u0101pamal\u0101ka uttarottara juro \u0965 0 \u0965 \u015bubha\u1e43 \u0965</p>\n",
+                            "f524c98c-c2b8-11ea-a1e8-0242ac120007": "<p>\u0967. \u27c5 \u0950 \u0928\u092e\u0903 \u0936\u093f\u0935\u093e\u092f \u0965 \u092d\u0941\u091c\u0919\u094d\u0917\u094b\u092a\u0935\u0940\u0924\u0902, \u092d\u0941\u091c\u0902\u0917\u093e\u0935\u0924\u0902\u0936\u0902, \u0936\u0930\u0924\u094d\u0915\u094b\u091f\u093f\u091a\u0928\u094d\u0926\u094d\u0930\u092a\u094d\u0930\u092d\u0902 \u091a\u0928\u094d\u0926\u094d\u0930\u091a\u0942\u0921\u0902 \u0965</p>\n\n<p>\u0968. \u0917\u093f\u0930\u0940\u0936\u0902 \u0917\u093f\u0930\u0940\u0936\u093e\u0924\u094d\u092e\u091c\u0947\u0936\u0902 \u092e\u0939\u0947\u0936\u0902, \u0917\u0935\u0947\u0936\u093e\u0928 \u0906\u0938\u0940\u0928\u092e\u0940\u0936\u093e\u0928\u092e\u0940\u0921\u0947 \u0965 \u0936\u094d\u0930\u0940 \u0936\u094d\u0930\u0940 \u0936\u094d\u0930\u0940\u0928\u093f\u0935\u093e\u0938\u0928\u0943\u0924\u092a\u0924\u0947</p>\n\n<p>\u0969. \u0903 \u0938\u091a\u093f\u0935\u0947\u0937\u0941 \u092e\u0941\u0916\u094d\u092f\u094b, \u0935\u093f\u0936\u094d\u0935\u0947\u0936\u094d\u0935\u0930\u0938\u094d\u092f \u0924\u0928\u092f\u094b \u0928\u092f\u0915\u094b\u0935\u093f\u0926\u094b\u093d\u092d\u0942\u0924\u094d \u0965 \u0935\u093f\u0936\u094d\u0935\u092e\u094d\u092d\u0930\u0903 \u0915\u0941\u0932\u0938\u0930\u094b\u091c\u0935\u093f\u0915\u093e</p>\n\n<p>\u096a. \u0938\u092d\u093e\u0928\u0942\u0903 \u0938\u0902\u0917\u094d\u0930\u093e\u092e\u0915\u0930\u094d\u092e\u094d\u092e\u0928\u093f\u092a\u0941\u0923\u0936\u094d\u091a\u0924\u0941\u0930\u0903 \u0938\u0941\u0936\u0940\u0932\u0903 \u0965 \u0932\u094b\u0915\u0947\u093d\u0924\u094d\u092f\u0928\u094d\u0924\u092a\u0930\u094b\u092a\u0915\u093e\u0930\u092e\u0928\u0938\u094b \u0935\u093f\u0936\u094d\u0935\u0947\u0936\u094d\u0935</p>\n\n<p>\u096b. \u0930\u0938\u094d\u092f\u093e\u0924\u094d\u092e\u091c\u094b, \u0928\u0940\u0924\u093f\u091c\u094d\u091e\u094b\u093d\u0924\u0941\u0932\u0935\u093f\u0915\u094d\u0930\u092e\u0903 \u092a\u091f\u0941\u0924\u0930\u094b \u0935\u093f\u0936\u094d\u0935\u0902\u092d\u0930\u094b \u0935\u093f\u0936\u094d\u0930\u0941\u0924\u0903 \u0964 \u0928\u0947\u092a\u093e\u0932\u0947 \u0932\u0932\u093f\u0924\u093e\u092a\u0941\u0930\u0940\u092a\u0924\u093f\u0928\u0943\u092a</p>\n\n<p>\u096c. \u0936\u094d\u0930\u0940\u0936\u094d\u0930\u0940\u0928\u093f\u0935\u093e\u0938\u092a\u094d\u0930\u092d\u094b\u0903 \u0938\u0947\u0928\u093e\u0928\u093e\u0902 \u0917\u0923\u0928\u093e\u092f\u0915\u0903 \u0938\u0938\u091a\u093f\u0935\u094b \u091c\u0940\u0935\u094d\u0935\u094d\u092f\u093e\u091a\u094d\u091a\u093f\u0930\u0902 \u092d\u0942\u0924\u0932\u0947 \u0965 \u0924\u0938\u094d\u092f\u093e\u0924\u094d\u092e\u091c\u094b \u0939\u0930\u092a\u0926\u093e\u092e\u094d\u092c\u0941\u091c\u092f\u0941\u0917\u094d\u092e\u092d\u0943\u0919\u094d\u0917\u094b, \u0926\u093e\u092e\u094b\u0926\u0930\u094b \u0935\u093f\u0935\u0941</p>\n\n<p>\u096d. \u0927\u0938\u091c\u094d\u091c\u0928\u0938\u0902\u0930\u0915\u094d\u0937\u0903 \u0964 \u0924\u0938\u094d\u092e\u093e\u0926\u094d\u092c\u092d\u0942\u0935\u0924\u0941\u0930\u0941\u092d\u094c \u0924\u0928\u092f\u094c \u091a \u0930\u093e\u092e, \u0938\u094c\u092e\u093f\u0924\u094d\u0930\u0915\u094c\u0926\u0936\u0928\u0925\u093e\u0926\u093f\u0935 \u092c\u093e\u0932\u0915\u094c \u0924\u094c \u0965 \u092a\u0941\u0930\u093e\u0928\u0924\u0928\u0902 \u0936\u0902\u092d\u0941\u092e\u0920\u0902 \u0938\u0941\u091c\u0940\u0930\u094d\u0923\u094d\u0923\u092e\u092a\u093e\u0938\u094d\u092f\u0939\u0947\u092e\u094d\u0928</p>\n\n<p>\u096e. \u0903 \u0915\u0932\u0936\u0947\u0928 \u0939\u0940\u0928\u0902 \u0965 \u0935\u093f\u0936\u094d\u0935\u0902\u092d\u0930\u094b\u0938\u092f\u094d \u0915\u0941\u0930\u0941\u0924\u0947\u0938\u094d\u092e \u0936\u092e\u094d\u092d\u094b\u0903 \u092a\u094d\u0930\u093e\u0938\u093e\u0926\u092e\u0947\u0928\u0902 \u091a \u0928\u0935\u0902 \u092e\u0928\u094b\u091c\u094d\u091e\u0902 \u0965 \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0947\u0935 \u092e\u0920\u0947 \u0930\u092e\u094d\u092f\u0947, \u092d\u0935\u093e\u0928\u0940\u0936\u0902\u0915\u0930\u093e\u0935\u0941\u092d\u094c \u0964 \u0924\u0947\u0928 \u0935\u093f\u0936\u094d\u0935\u0902</p>\n\n<p>\u096f. \u092d\u0930\u0947\u0923\u0948\u0935, \u0938\u094d\u0925\u093e\u092a\u093f\u0924\u094c \u091c\u0917\u0924\u093e\u0902 \u092a\u094d\u0930\u092d\u0942 \u0965 \u0928\u0948\u092a\u093e\u0932\u093e\u092c\u094d\u0926\u0947 \u0930\u0938\u0935\u093f\u0932\u092e\u0941\u0928\u094c, \u091c\u094d\u092f\u0947\u0937\u094d\u0920\u092e\u093e\u0938\u0947 \u091a \u0936\u0941\u0915\u094d\u0932\u0947, \u0935\u093e\u0930\u0947 \u091c\u0940\u0935\u0947 \u0936\u0924\u0927\u0943\u0924\u093f\u0924\u093f\u0925\u094c \u0930\u094b\u0939\u093f\u0923\u0940\u092d\u0947 \u0936\u093f\u0935\u0938\u094d\u092f \u0964</p>\n\n<p>\u0967\u0966. \u092a\u094d\u0930\u093e\u0938\u093e\u0926\u0947\u093d\u0938\u094d\u092e\u093f\u0928\u094d \u0915\u0928\u0915\u0915\u0932\u0936\u0902, \u0938\u094d\u0925\u093e\u092a\u092f\u093e\u092e\u093e\u0938 \u092d\u0915\u094d\u0924\u094d\u092f\u093e, \u0915\u0943\u0924\u094d\u092f\u093e \u0939\u094b\u092e\u0902 \u0926\u094d\u0935\u093f\u091c\u0935\u0930\u0917\u0923\u093e\u0928\u094d\u092a\u0942\u091c\u094d\u092f \u0935\u093f\u0936\u094d\u0935\u0902\u092d\u0930\u094b\u093d\u0938\u094c \u0965 \u0966\u0965 \u0905\u0925 \u0928\u0947\u092a\u093e\u0932\u092d\u093e\u0937\u093e \u0965</p>\n\n<p>\u0967\u0967. \u27c5 \u0938\u092e\u094d\u0935\u0924\u094d \u096d\u096f\u096c \u091c\u094d\u092f\u0947\u0937\u094d\u0920\u092e\u093e\u0938\u0947 \u0936\u0941\u0915\u094d\u0932\u092a\u0915\u094d\u0937\u0947 \u0926\u094d\u0935\u093f\u0924\u0940\u092f\u093e\u092f\u093e\u0902 \u0924\u093f\u0925\u094c, \u0930\u094b\u0939\u093f\u0923\u0940\u0928\u0915\u094d\u0937\u0924\u094d\u0930\u0947, \u092c\u0943\u0939\u0938\u094d\u092a\u0924\u093f\u0935\u093e\u0938\u0930\u0947, \u0925\u094d\u0935 \u0915\u0941\u0928\u094d\u0939\u0941 \u091a\u093e\u0915\u094d\u0930\u0935\u093e\u0939\u093e\u0930\u092f\u093e \u092a\u0930\u092e\u093e\u0928 \u0935\u093f\u0936\u094d\u0935\u0902\u092d\u0930 \u092d\u093e\u0930\u094b\u0938\u0928 \u0939\u094d\u0923\u0935\u092f\u093e (\u092e\u093e\u0939\u093e)\u0926\u0947\u0935\u0932 \u091a\u093e\u091a\u094d\u091b\u0924\u092f\u0947</p>\n\n<p>\u0967\u0968. \u0930\u093f \u091c\u0940\u0930\u094d\u0923\u094d\u0923 \u091c\u0941\u092f\u093e\u0935 \u0938\u0947\u0919\u093e\u0935 \u091a\u094b\u0919\u0938 \u0925\u0935 \u0928\u093e\u092e\u094d\u0928 \u0938\u094d\u0935\u0924\u092a\u0930\u093f\u0926\u0947\u0935\u0932 \u0926\u092f\u0915\u0902 \u092e\u0939\u093e\u0930\u093e\u091c\u093e\u0927\u093f\u0930\u093e\u091c \u0936\u094d\u0930\u0940\u0969 \u0928\u093f\u0935\u093e\u0938\u092e\u0932\u094d\u0932\u0925\u093e\u0915\u0941\u0932 \u0936\u094d\u0930\u0940\u0968 \u0928\u0930\u0947\u0928\u094d\u0926\u094d\u0930\u092e\u0932\u094d\u0932 \u0925\u094b \u0928\u0947\u0939\u094d\u092e \u0925\u093e\u0915\u0941\u0932 \u0935\u093f\u091c\u094d\u092f\u093e\u091a\u0915\u0902 \u0936\u094d\u0930\u0940 \u0909\u092e\u093e\u092e\u0939\u0947\u0936\u094d\u0935\u0930\u092e\u0942\u0930\u094d\u0924\u094d\u0924\u093f</p>\n\n<p>\u0967\u0969. \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093e \u092f\u093e\u0919\u093e\u0928 \u0938\u0941\u0935\u0930\u094d\u0923\u0915\u0932\u0936\u0927\u094d\u0935\u091c\u093e\u0935\u0930\u094b\u0939\u0928 \u092f\u093e\u0919\u093e \u0926\u093f\u0928 \u091c\u0941\u0932\u094b \u0965 \u0925\u094d\u0935 \u0926\u0947\u0935\u092f\u093e\u0924 \u0935\u0930\u094d\u0937\u0902 \u092a\u094d\u0930\u0924\u093f\u0928\u093f\u0938\u094d\u0924\u0942\u0930\u092f\u0947 \u092f\u093e\u0924, \u0930\u094b\u0935 \u096d \u0916\u094b\u092e\u094b\u0921\u094d \u0930\u094b \u096c \u0928\u094d\u0939\u0938\u093f\u092d\u0947\u0932, \u0930\u094b\u0935\u0939\u0941\u0935\u0902 \u0926\u0947\u0936\u094d\u0930\u093e\u092e\u0915\u094b, \u0925\u094d\u0935\u0924\u0947 \u0935\u0942\u092f\u093e \u0935\u0930\u0938\u093e\u0928\u0902 \u0935\u0942\u0938\u093e</p>\n\n<p>\u0967\u096a. \u0927\u0928\u0938 \u0939\u094b\u092e \u092f\u093e\u0919\u0928 \u0926\u0941\u0917\u0941\u0939\u094d\u092e\u0902 \u0967 \u0939\u093f\u0916\u094b\u092f\u092e\u093e\u0932, \u0938\u0917\u0928 \u092f\u093e\u0924 \u0938\u091a\u0947\u0915\u0928 \u0915\u0941\u0921 \u0968 \u091a\u093e\u0915\u094d\u0930\u092e\u0924 \u091a\u094d\u091b\u094b\u092f\u0915\u0947, \u0936\u093f\u0935\u0930\u093e\u0924\u094d\u0930\u093f \u0938\u092a\u0902\u091a\u093e\u092e\u0943\u0924 \u0928\u093f\u0936\u094d\u0930\u093e\u0935\u091c\u094b \u0968 \u0935\u094d\u092f\u093e\u0932\u092a\u0924\u094d\u0930\u0938 \u091c\u094b\u0928\u093e\u0938\u0924\u0902 \u0930\u0947\u0923\u0941\u0915\u093f \u0968 \u0919\u0902 \u0967 \u091a\u0947\u0915\u0902 \u091a\u093e\u0915\u094d\u0930</p>\n\n<p>\u0967\u096b. \u092e\u0924 \u091a\u094d\u091b\u094b\u092f\u0915\u0947, \u0926\u094d\u092f\u0947\u0930\u092a\u094d\u0930 \u0967 x \u0926\u093f\u0935\u093e\u092e\u0924, \u0928\u093f\u0924\u094d\u092f\u092a\u0942\u091c\u093e\u092f\u093e\u0924,\u0915\u0947, \u0938\u094d\u0935\u093e\u0928\u092f\u093e\u0924, \u0935\u094d\u092f\u0947\u092b\u0902 \u0967\u0968 \u0928\u093f\u0936\u094d\u0930\u093e\u0935 \u092f\u093e\u0924\u0915\u0947 \u092b\u0902 \u096c\u096d \u0927\u0930\u093f\u0935\u094d\u092f\u0947? \u092b\u0902 \u0969\u0966 \u092e\u0927\u093f\u0935\u094d\u092f\u0947 \u092b\u0902 \u0969\u0966 \u091a\u0947\u0915\u0902 \u0935\u094d\u092f\u092b\u0902 \u0969\u0966 \u092c\u094d\u0930\u093e\u0939\u094d\u092e\u0923 \u092f\u093e\u0924\u092e\u093e\u0924\u0919\u0928 \u0935\u094d\u092f \u0937\u094d\u0920\u0902 ? \u096f\u0966</p>\n\n<p>\u0967\u096c. \u092e\u094b\u091f\u0902 \u0967 \u0932\u0947\u0928\u0915\u0947\u0938 \u0939\u094d\u0932\u093e\u092f\u093e\u0924, \u0925\u094d\u0935\u0924\u0947 \u0935\u0930\u0938\u093e\u0928\u0947\u0928 \u0935\u0930\u094d\u0937\u0902\u092a\u094d\u0930\u0924\u093f\u092a\u093f&lt;&nbsp;\u0924\u0947\u092e\u093e\u0932, \u0925\u094d\u0935\u0924\u093f\u092f\u093e \u091a\u093f\u0902\u0924\u093e\u092f\u093e\u0915 \u0938\u093f\u0926\u094d\u0927\u093f\u0930\u093e\u091c \u092d\u093e\u0930\u094b, \u0915\u0932\u094d\u092f\u093e\u0928\u0938\u093f\u0902\u0939 \u092d\u093e\u0930\u094b, \u0930\u093e\u092e\u091a\u0928\u094d\u0926\u094d\u0930 \u092d\u093e\u0930\u094b, \u0939\u0930\u093f\u0928\u0902\u0926\u0928 \u092d\u093e\u0930\u094b, \u0925\u094d\u0935\u0924\u093f \u0939\u094d\u0932\u093e\u0938\u0947\u0924</p>\n\n<p>\u0967\u096d. \u0915\u094b \u092e\u092f\u093e\u0924 \u0938\u093e\u0932\u094b\u092d\u092f\u093e\u0924\u0938\u093e \u0917\u094b\u092c\u094d\u0930\u093e\u0939\u094d\u092e\u0923\u093e\u0926\u093f \u0939\u0925\u094d\u092f\u093e\u092f\u0902 \u091a \u092e\u0939\u093e\u092a\u093e\u0924\u0915 \u0932\u093e\u0915 \u091c\u0941\u0930\u094b, \u0939\u094d\u0932\u093e\u0938\u0947\u0924\u0915\u094b \u092f\u093e\u0924\u0938\u093e, \u0925\u094d\u0935\u0924\u093f \u092a\u093e\u092a\u092e\u0932\u093e\u0915 \u0909\u0924\u094d\u0924\u0930\u094b\u0924\u094d\u0924\u0930 \u091c\u0941\u0930\u094b \u0965 \u0966 \u0965 \u0936\u0941\u092d\u0902 \u0965</p>\n"
+                        },
+                        "nodegroup_id": "cb493e7c-c2b8-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "9216e11b-2436-4f79-acd8-4b91441ff56f"
+                    }, {
+                        "data": {
+                            "1bd8d676-c698-11ea-a1e8-0242ac120007": [{
+                                    "inverseOntologyProperty": "",
+                                    "ontologyProperty": "",
+                                    "resourceId": "170a68d0-e68d-11e9-b125-0242ac130002",
+                                    "resourceXresourceId": "edac4aba-c9ef-11eb-80c6-0242ac160006"
+                                }
+                            ],
+                            "90bc279a-443d-11eb-8cb5-0242ac130007": "Um\u0101mahe\u015bvara, C\u0101ka B\u0101h\u0101\u1e25 \u1e6cola, Lalitpur; 85.32463657955464,27.671305503577297"
+                        },
+                        "nodegroup_id": "d41e168e-c697-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "836a5bcc-c343-4892-813d-1afd99d60890"
+                    }, {
+                        "data": {
+                            "09b67380-c2bb-11ea-ac0e-0242ac120007": null,
+                            "36d144ea-c2ba-11ea-a1e8-0242ac120007": null,
+                            "c0f199d6-c2ba-11ea-a1e8-0242ac120007": "<p>Yogesh Budathoki</p>\n",
+                            "f05cef86-c2ba-11ea-ac0e-0242ac120007": "<p>Edited by Rabi Acharya</p>\n",
+                            "fc3e4008-c2b9-11ea-a1e8-0242ac120007": null,
+                            "fdaa84ba-c2b9-11ea-a1e8-0242ac120007": null
+                        },
+                        "nodegroup_id": "5c2efa0e-9914-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "caa180f3-f5e7-45ec-9671-547bbafb8829"
+                    }, {
+                        "data": {
+                            "e871483e-c2b1-11ea-a1e8-0242ac120007": {
+                                "features": [{
+                                        "geometry": {
+                                            "coordinates": [85.32463657955464, 27.671305503577297],
+                                            "type": "Point"
+                                        },
+                                        "id": "5668424f-fe6a-47e3-ab23-84137313790f",
+                                        "properties": {
+                                            "nodeId": "e871483e-c2b1-11ea-a1e8-0242ac120007"
+                                        },
+                                        "type": "Feature"
+                                    }
+                                ],
+                                "type": "FeatureCollection"
+                            }
+                        },
+                        "nodegroup_id": "e871483e-c2b1-11ea-a1e8-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "5fec4c81-2627-4b69-8fae-0565a6724f73"
+                    }, {
+                        "data": {
+                            "995c8a8c-c2bc-11ea-ac0e-0242ac120007": "LAL2750_I_001 A stone slab inscription at Um\u0101mahe\u015bvara, C\u0101ka B\u0101h\u0101\u1e25 \u1e6cola, Lalitpur re the reconstruction of temple by Vi\u015bvambhara Bh\u0101ro (NS 796)"
+                        },
+                        "nodegroup_id": "2af022e8-c2bc-11ea-ac0e-0242ac120007",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "3d10e9d7-b2bf-4226-b74a-1cf63e2636a6"
+                    }, {
+                        "data": {
+                            "21bb1b74-4a7f-11eb-85ba-0242ac130009": null,
+                            "30ccd388-4a8d-11eb-85ba-0242ac130009": null,
+                            "317c3c4a-4a80-11eb-85ba-0242ac130009": ["79a993db-57d3-4911-a834-5044e9acbb81"],
+                            "4759fb84-c2b7-11ea-a1e8-0242ac120007": ["9218255b-3657-4c79-9561-f6ff2ea0b553"],
+                            "48427b8c-99c9-11ea-9766-0242ac130005": null,
+                            "5dcf79fa-99c9-11ea-82af-0242ac130005": ["50f38f01-d696-4e38-b8ee-de0833e18c81", "89f4eead-5aa3-43d6-9cc2-07189d991018"],
+                            "bcb695b6-99ce-11ea-9766-0242ac130005": ["1d6db6e5-8bad-4057-8916-79686475bfb1"],
+                            "fd2469c4-c2b5-11ea-ac0e-0242ac120007": "<p>built into wall above the southern door to the temple</p>\n"
+                        },
+                        "nodegroup_id": "ff165b54-99c8-11ea-82af-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "ddca9c18-7f03-49c2-bc19-966fe78319f4"
+                    }, {
+                        "data": {
+                            "536b77fa-5b04-11eb-9e66-0242ac130009": null,
+                            "b727b1a0-5aff-11eb-9e66-0242ac130009": ["f869a6d3-bdf6-4f6f-8001-7d4e4db210f5"],
+                            "e71d2d60-c2b4-11ea-ac0e-0242ac120007": null,
+                            "e71d2f04-c2b4-11ea-ac0e-0242ac120007": ["f791372e-669e-4d51-af21-b876a5e965c2"],
+                            "e71d3076-c2b4-11ea-ac0e-0242ac120007": ["ad7cd3be-6d4c-4c72-a436-b7a356033ee9"],
+                            "e71d31e8-c2b4-11ea-ac0e-0242ac120007": null,
+                            "e71d335a-c2b4-11ea-ac0e-0242ac120007": "1676",
+                            "e71d34c2-c2b4-11ea-ac0e-0242ac120007": ["cf5b640e-81ab-48d9-a3e0-58272687eb2d"],
+                            "e71d3634-c2b4-11ea-ac0e-0242ac120007": ["a76209c8-a3fd-4dff-9ffb-cc019dfec7b9"],
+                            "e71d379c-c2b4-11ea-ac0e-0242ac120007": null,
+                            "e71d3904-c2b4-11ea-ac0e-0242ac120007": "<p>NS 796</p>\n"
+                        },
+                        "nodegroup_id": "e71d2810-c2b4-11ea-ac0e-0242ac120007",
+                        "parenttile_id": "ddca9c18-7f03-49c2-bc19-966fe78319f4",
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "143b7f3b-006f-4c9d-8e1a-838a5b4e1900"
+                    }, {
+                        "data": {
+                            "2591e954-9a98-11ea-82af-0242ac130005": "<p><a href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL2750_I_20190209_12.jpg\" target=\"_blank\"><img alt=\"\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL2750_I_20190209_12.jpg\" style=\"height:200px; width:300px\" /></a></p>\n\n<p>Um\u0101mahe\u015bvara Mandira at C\u0101ka B\u0101h\u0101\u1e25, an inscription from&nbsp; NS&nbsp;796, at the southern part of temple view from S; photo by Yogesh Budathoki; 2019-02-09</p>\n",
+                            "556786b0-443f-11eb-8822-0242ac130007": 1.0,
+                            "5e2cb4f4-4440-11eb-8822-0242ac130007": "<p><a href=\"https://doi.org/10.11588/heidicon/1252905\" target=\"_blank\">https://doi.org/10.11588/heidicon/1252905</a></p>\n",
+                            "d168cb48-990e-11ea-82af-0242ac130005": null
+                        },
+                        "nodegroup_id": "a26efc40-990e-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "3350771f-4fdb-485e-9b40-aee2bf2c8b0b"
+                    }, {
+                        "data": {
+                            "d91cb788-990d-11ea-9766-0242ac130005": "<p>Param\u0101na Vi\u015bva\u1e41bhara Bh\u0101ro reconstructed the old three-storey&nbsp;temple. He consecrated a new statue of&nbsp;<strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/a159adbb-575d-49bd-9b55-02a189bf335c/\" target=\"_blank\">Um\u0101mahe\u015bvara</a></strong>, and&nbsp;golden vessels and banners were added&nbsp;to the temple in the presence of King \u015ar\u012bnivasa Malla and Prince Yoganaredra Malla.&nbsp;A&nbsp;<strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/a2c86d1a-a308-4dc7-9dad-5f00ec3991e0/\" target=\"_blank\"><em>gu\u1e6dh\u012b</em></a></strong>&nbsp;was also established with the land-grants&nbsp;to facilitate&nbsp;daily ritual worship and other functions of the temple.</p>\n"
+                        },
+                        "nodegroup_id": "d91cb788-990d-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "061035f2-a19a-407c-804b-c5edfe5f3cfa"
+                    }, {
+                        "data": {
+                            "83f4a4a4-990e-11ea-9766-0242ac130005": "<p>The stone inscription attached above the southern door of the temple mentions that the monument&nbsp;was reconstructed by Vi\u015bvambhara Bh\u0101ro in NS 796 (CE 1676) during the reign of King \u015ar\u012bniv\u0101sa Malla. The inscription further informs readers that the King and his son Yoganarendra Malla were also present at the consecration of the temple, where&nbsp;lands were bestowed and a&nbsp;<em>gu\u1e6dh\u012b</em>&nbsp;was established to fund&nbsp;its ritual worship However, these days no&nbsp;<em>gu\u1e6dh\u012b</em>&nbsp;lands connected to the temple could be traced. In VS 2058, local people collected donations in order to try to&nbsp;continue the daily and other ritual worships of the temple. They assigned a Brahmin from Agni\u015b\u0101l\u0101 \u1e6cola to carry out this&nbsp;task. However,&nbsp;the earthquake 2015 further hindered the daily worship. The Cakravarti&nbsp;\u1e6cola Sudh\u0101ra Samiti (an organisation for local development) is currently responsible for&nbsp;opening and closing&nbsp;the temple. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n<p>\u092e\u0928\u094d\u0926\u093f\u0930\u0915\u094b \u0926\u0915\u094d\u0937\u093f\u0923\u0940 \u0922\u094b\u0915\u093e\u092e\u093e\u0925\u093f \u091f\u093e\u0901\u0938\u093f\u090f\u0915\u094b \u0928\u0947\u0938\u0902 \u096d\u096f\u096c \u0915\u094b \u0936\u093f\u0932\u093e\u0932\u0947\u0916\u092e\u093e \u092a\u0939\u093f\u0932\u093e \u091c\u0940\u0930\u094d\u0923 \u0905\u0935\u0938\u094d\u0925\u093e\u092e\u093e \u0930\u0939\u0947\u0915\u094b \u092e\u0939\u093e\u0926\u0947\u0935 \u092e\u0928\u094d\u0926\u093f\u0930 \u0930\u093e\u091c\u093e \u0936\u094d\u0930\u0940\u0928\u093f\u0935\u093e\u0938\u0915\u093e \u092e\u0928\u094d\u0924\u094d\u0930\u0940 \u0935\u093f\u0936\u094d\u0935\u0902\u092d\u0930 \u092d\u093e\u0930\u094b\u0932\u0947 \u091c\u0940\u0930\u094d\u0923\u094b\u0926\u094d\u0927\u093e\u0930 \u0917\u0930\u0940 \u0924\u0940\u0928\u0924\u0932\u0947 \u092c\u0928\u093e\u0908 \u0909\u092e\u093e\u092e\u0939\u0947\u0936\u094d\u0935\u0930\u0915\u094b \u092e\u0942\u0930\u094d\u0924\u093f \u0938\u094d\u0925\u093e\u092a\u0928\u093e \u0917\u0930\u0947\u0915\u094b \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0926\u093f\u0907\u090f\u0915\u094b \u091b \u0964 \u0909\u0915\u094d\u0924 \u0905\u0935\u0938\u0930\u092e\u093e \u0930\u093e\u091c\u093e \u0936\u094d\u0930\u0940\u0928\u093f\u0935\u093e\u0938 \u0930 \u0909\u0928\u0915\u093e \u091b\u094b\u0930\u093e \u092f\u094b\u0917\u0928\u0930\u0947\u0928\u094d\u0926\u094d\u0930 \u092e\u0932\u094d\u0932 \u092a\u0928\u093f \u0909\u092a\u0938\u094d\u0925\u093f\u0924 \u092d\u090f\u0915\u094b \u0915\u0941\u0930\u093e \u092a\u0928\u093f \u0938\u094b\u0939\u0940 \u0905\u092d\u093f\u0932\u0947\u0916\u092e\u093e \u0932\u0947\u0916\u093f\u090f\u0915\u094b \u091b \u0964 \u092e\u0928\u094d\u0926\u093f\u0930\u0915\u094b \u0928\u093f\u0924\u094d\u092f\u092a\u0942\u091c\u093e \u090f\u0935\u0902 \u0905\u0928\u094d\u092f \u0935\u093f\u0936\u0947\u0937 \u092a\u0942\u091c\u093e\u0915\u094b \u0928\u093f\u092e\u093f\u0924\u094d\u0924 \u091c\u0917\u094d\u0917\u093e \u0926\u093e\u0928 \u0917\u0930\u0940 \u0917\u0941\u0920\u0940\u0915\u094b \u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093e \u0917\u0930\u0947\u0915\u094b \u091a\u0930\u094d\u091a\u093e \u092a\u0928\u093f \u0905\u092d\u093f\u0932\u0947\u0916\u092e\u093e \u092a\u0930\u0947\u0915\u094b \u091b \u0924\u0930 \u0939\u093e\u0932 \u092f\u094b \u092e\u0928\u094d\u0926\u093f\u0930\u0915\u094b \u0915\u0941\u0928\u0948 \u0917\u0941\u0920\u0940 \u090f\u0935\u0902 \u091c\u0917\u094d\u0917\u093e \u0905\u0938\u094d\u0924\u093f\u0924\u094d\u0935\u092e\u093e \u092d\u090f\u0915\u094b \u0926\u0947\u0916\u093f\u0901\u0926\u0948\u0928 \u0964 \u0935\u093f\u0938\u0902 \u0968\u0966\u096b\u096e \u0938\u093e\u0932\u092e\u093e \u0938\u094d\u0925\u093e\u0928\u0940\u092f\u0915\u094b \u091a\u0928\u094d\u0926\u093e\u092c\u093e\u091f \u0905\u0917\u094d\u0928\u093f\u0936\u093e\u0932\u093e \u091f\u094b\u0932\u0915\u093e \u092c\u094d\u0930\u093e\u0939\u094d\u092e\u0923\u0932\u093e\u0908 \u0928\u093f\u0924\u094d\u092f\u092a\u0942\u091c\u093e\u0915\u094b \u0928\u093f\u092e\u094d\u0924\u093f \u0928\u093f\u092f\u0941\u0915\u094d\u0924 \u0917\u0930\u0947\u0926\u0947\u0916\u093f \u0928\u093f\u0930\u0928\u094d\u0924\u0930 \u0928\u093f\u0924\u094d\u092f\u092a\u0942\u091c\u093e \u091a\u0932\u094d\u0926\u0948\u0906\u090f\u0915\u094b\u092e\u093e \u0917\u0924 \u0968\u0966\u096d\u0968 \u0938\u093e\u0932\u0915\u094b \u092d\u0942\u0915\u092e\u094d\u092a\u092a\u0936\u094d\u091a\u093e\u0924\u094d \u0928\u093f\u0924\u094d\u092f\u092a\u0942\u091c\u093e \u092c\u0928\u094d\u0926 \u092d\u090f\u0915\u094b \u0905\u0935\u0938\u094d\u0925\u093e \u091b \u0964 \u0939\u093e\u0932 \u092e\u0928\u094d\u0926\u093f\u0930\u0915\u094b \u0922\u094b\u0915\u093e \u0916\u094b\u0932\u094d\u0928\u0947 \u0930 \u092c\u0928\u094d\u0926 \u0917\u0930\u094d\u0928\u0947 \u0915\u093e\u0930\u094d\u092f \u091a\u0915\u094d\u0930\u0935\u0930\u094d\u0924\u093f&nbsp;\u091f\u094b\u0932 \u0938\u0941\u0927\u093e\u0930 \u0938\u092e\u093f\u0924\u093f\u0915\u094b \u0930\u094b\u0939\u0935\u0930\u092e\u093e \u0939\u0941\u0901\u0926\u0948\u0906\u090f\u0915\u094b \u091b \u0964</p>\n"
+                        },
+                        "nodegroup_id": "83f4a4a4-990e-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "ac8f3ec6-18d4-48d8-996d-d3bebdbf10b3"
+                    }, {
+                        "data": {
+                            "066fbb62-6213-11eb-aaf1-0242ac130009": null,
+                            "d4ba6b94-6212-11eb-aaf1-0242ac130009": "<p><strong>NS 796</strong> (Thursday, the 2nd of the bright fortnight of <strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/999e2d76-29f2-41b6-8efc-2d67ba23504d/\" target=\"_blank\">Jye\u1e63\u1e6dha</a></strong>)</p>\n\n<p>Param\u0101na Vi\u015bva\u1e41bhara Bh\u0101ro consecrated a new statue of&nbsp;<strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/a159adbb-575d-49bd-9b55-02a189bf335c/\" target=\"_blank\">Um\u0101mahe\u015bvara</a></strong> in the newly reconstructed&nbsp;old three-storey&nbsp;temple.</p>\n",
+                            "e6adebb4-6212-11eb-9e66-0242ac130009": null
+                        },
+                        "nodegroup_id": "c53a1930-6212-11eb-9e66-0242ac130009",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "099c04bb-f214-4171-a14d-bcc4a6404278"
+                    }, {
+                        "data": {
+                            "2cfe60a8-6213-11eb-9e66-0242ac130009": "<ul>\n\t<li>\n\t<p><strong>Description: </strong>Social and religious activities here include:</p>\n\n\t<p>1. Fixing a trident or a copper image of Nand\u012b to the door frame of the main entrance: people fix&nbsp;a&nbsp;trident or a copper image&nbsp;of Nand\u012b above the main entrance of the temple to bring peace to passed souls.&nbsp;</p>\n\n\t<p>2.&nbsp;\u015aivar\u0101tri: On the day of \u015aivar\u0101tri, local people&nbsp;gather in front of the temple, light a fire and drink&nbsp;<em>bh\u0101\u1e45&nbsp;</em>(hemp leaf).&nbsp;</p>\n\n\t<p>3. Special worship by&nbsp;<strong><a href=\"https://danam.cats.uni-heidelberg.de/glossary/meaning/e42b0c1a-12e1-41ef-a1e7-a2a4dd4e0978/\" target=\"_blank\">San\u0101\u1e25 Gu\u1e6dh\u012b</a></strong>: Every year on the day of Thi\u1e43l\u0101 Punh\u012b, San\u0101\u1e25 Gu\u1e6dh\u012b (a&nbsp;<em>gu\u1e6dh\u012b&nbsp;</em>of \u015are\u1e63\u1e6dha and Jo\u015b\u012b families of C\u0101ka B\u0101h\u0101\u1e25 \u1e6cola) organises a special worship in the temple.&nbsp;At the end of the worship, people apply oil to the statue of Nand\u012b that sits in front of the temple.&nbsp;People believe that those&nbsp;who are able to apply the&nbsp;oil perfectly and&nbsp;make&nbsp;the statue shine&nbsp;will be blessed with a son.&nbsp;</p>\n\n\t<p><strong>Reference source: </strong>None</p>\n\t</li>\n</ul>\n",
+                            "4ffd2648-6213-11eb-9e66-0242ac130009": null,
+                            "619ae1ce-6213-11eb-9e66-0242ac130009": null
+                        },
+                        "nodegroup_id": "1dcf8e40-6213-11eb-aaf1-0242ac130009",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "beeea3cb-856e-4754-a555-17e3b291be9e"
+                    }, {
+                        "data": {
+                            "c0dc905a-9910-11ea-9766-0242ac130005": "<p><a data-bind=\"attr: {href: url}\" href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL2750_A_2019_FLOOR_PLAN.png\" id=\"\" target=\"_blank\"><img alt=\"LAL2750_A_2019_FLOOR_PLAN.png\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL2750_A_2019_FLOOR_PLAN.png\" style=\"height:212px; width:300px\" /></a><a data-bind=\"attr: {href: url}\" href=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL2750_D_2020_location_map_TryYEW7.png\" id=\"\" target=\"_blank\"><img alt=\"LAL2750_D_2020 location map.png\" src=\"https://danam.cats.uni-heidelberg.de/files/uploadedfiles/LAL2750_D_2020_location_map_TryYEW7.png\" style=\"height:424px; width:300px\" /></a></p>\n\n<p>&nbsp;</p>\n\n<p>Um\u0101mahe\u015bvara Mandira at C\u0101ka&nbsp;B\u0101h\u0101\u1e25; floor plan by Sabina Tandukar; 2019</p>\n\n<p>Um\u0101mahe\u015bvara Mandira at C\u0101ka B\u0101h\u0101\u1e25; location map by Niels Gutschow, Bijay Basukala; 1990; updated by Bibek Basukala, 2020-05</p>\n"
+                        },
+                        "nodegroup_id": "c0dc905a-9910-11ea-9766-0242ac130005",
+                        "parenttile_id": null,
+                        "provisionaledits": null,
+                        "resourceinstance_id": "115a5984-e4be-4d38-8c9b-424556dc2078",
+                        "sortorder": 0,
+                        "tileid": "6ac24efd-5803-4b19-bcbd-df42da924e57"
+                    }
+                ]
+            }
+        ]
+    }
+}

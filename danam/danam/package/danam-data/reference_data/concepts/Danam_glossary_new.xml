@@ -1,0 +1,1829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:arches="http://localhost:8000/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:ConceptScheme rdf:about="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a">
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c1750c4d-50f4-4d9a-aee8-2a81fbfff32d">
+        <skos:definition xml:lang="en-us">{"id": "acef0c75-8072-4850-8b26-dee167d7361b", "value": "[S.] var. a\u1e63\u1e6dama\u1e45gal, astamangal; n. The Eight Auspicious Symbols consisting of Parasol (sit\u0101tapatra), Fish (kanakamatsya), Vase (nidhigha\u1e6da), Lotus (padma), conch (\u015ba\u1e45khavarta), Endless Knot (\u015br\u012bvatsa), Victory Banner (kundadhvaja) and All-Powerful Wheel (suvar\u1e47acakra). The Eight Auspicious Symbols may vary in different traditions. For example, \u015br\u012bvatsa, v\u0101ladhi or c\u0101mara, a\u1e45ku\u015ba, m\u012bna, nandin or svastika, ve\u1e63\u1e6dhana or bhadrap\u012b\u1e6dha, \u015ba\u1e45kha or gha\u1e6d\u0101yudha are the Eight Auspicious Symbols of the ancient Sinhalese."}</skos:definition>
+        <dcterms:identifier xml:lang="en-us">{"id": "bfdc1f0d-968b-45a9-ad68-3f9e4464fd24", "value": "http://localhost:8000/c1750c4d-50f4-4d9a-aee8-2a81fbfff32d"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en-us">{"id": "687c3958-2441-4505-a65d-cab63d68d56c", "value": "a\u1e63\u1e6dama\u1e45gala"}</skos:prefLabel>
+        <arches:image xml:lang="en-us">{"id": "ccfa2171-8bba-449d-a7cc-a30dcb344cd6", "value": "concepts/LAL2340_P_20190419_01.jpg"}</arches:image>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "cb852201-ea72-4354-926c-9a548acf2893", "value": "\u0905\u0937\u094d\u091f\u092e\u0919\u094d\u0917\u0932"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/27442fb6-d454-43ee-ad0e-69a65efba94f">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "f4dee60b-66c5-4f2e-8e09-bcae718518da", "value": "libi"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "46c76a91-d6af-40e3-b64f-c026c6e9e292", "value": "http://localhost:8000/27442fb6-d454-43ee-ad0e-69a65efba94f"}</dcterms:identifier>
+        <skos:definition xml:lang="en-us">{"id": "0867768a-6a6e-4286-b63d-9695c663efe6", "value": "[New.] n. 1) courtyard, backyard (of a monastery), 2) park, place for public recreation."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "6d3ef0e5-2214-423e-9aad-7638b58d07a5", "value": "\u0932\u093f\u092c\u093f"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c436e949-8902-40ff-aa83-c7dd870c06e5">
+        <skos:definition xml:lang="en-us">{"id": "ed7d85d2-c668-4d7d-96b8-dd7f3cecdc0a", "value": "[S.]; n. posture showed by \u015a\u0101kyamuni Buddha which will be adopted by the future Buddha, Maitreya."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "1ba7ca6e-5e87-44f5-97f4-56b2357ec95b", "value": "\u092d\u0935\u093f\u0937\u094d\u092f\u0935\u094d\u092f\u093e\u0915\u0930\u0923"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "308a191b-1382-46e1-80c1-5d1a3a628ae4", "value": "bhavi\u1e63yavy\u0101kara\u1e47a"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/fa36e226-f390-4039-907a-a7e85a55502a">
+        <dcterms:identifier xml:lang="en-us">{"id": "a169e627-f13d-4fa6-8acb-540c156ad41b", "value": "http://localhost:8000/fa36e226-f390-4039-907a-a7e85a55502a"}</dcterms:identifier>
+        <skos:altLabel xml:lang="dev">{"id": "199e646c-a69e-45f5-a812-1de9eceb8d3b", "value": "\u091f\u0941\u0901\u0921\u093e\u0932"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "9618035e-7e76-42b2-9299-b25fa4f7458a", "value": "tu\u0303\u1e0d\u0101la"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "0a4f925d-c413-490a-8f9e-6d89b2407234", "value": "[Fr. New. tun\u0101si\u0303] var. \u1e6dur\u0101l, \u1e6du\u1e0d\u0101l; n. the wooden support for the eaves or projecting edge of a roof."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/0182155e-1b64-49ef-8269-dafe12043a64">
+        <skos:prefLabel xml:lang="en-us">{"id": "e4241797-8161-400c-ac9f-0cd39946441c", "value": "cap\u0101\u1e25"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "b1ac4ff9-3780-48cf-90a9-6d2c3c20e4f3", "value": "[New.] n. 1) ceremonial phalc\u0101 (rest house), 2) kind of gu\u1e6dh\u012b building, night shelter for the image of a deity during a procession, 2) hut used for gu\u1e6dh\u012b feasts."}</skos:definition>
+        <dcterms:identifier xml:lang="en-us">{"id": "e9239949-7287-4caa-8a90-4c1f33aea91f", "value": "http://localhost:8000/0182155e-1b64-49ef-8269-dafe12043a64"}</dcterms:identifier>
+        <skos:altLabel xml:lang="dev">{"id": "8f0519ed-e540-476c-ac2e-46533d6bbea0", "value": "\u091a\u092a\u093e\u0903"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/ab9bb304-d454-4875-8527-2ff87993e029">
+        <skos:definition xml:lang="en-us">{"id": "c700c280-c0b3-495f-b7b9-765e191e8d59", "value": "n. straw pile."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "33c383cb-e333-48d4-8b6c-071920f0ec46", "value": "uta"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c90394fb-4d05-44de-8459-1e5eb97b786e">
+        <skos:definition xml:lang="en-us">{"id": "a5709ca4-1aed-4188-8dad-0fd1d818f68c", "value": "[S.] n. meditation gesture, the left hand is placed in the lap and the palm up."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "930491d6-f5e0-4691-b6a5-af92cbea77d9", "value": "http://localhost:8000/c90394fb-4d05-44de-8459-1e5eb97b786e"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en-us">{"id": "eb8e5090-546c-4c1f-8651-27dd45570a2b", "value": "dhy\u0101namudr\u0101"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "74841464-65c9-45f7-baab-4a42ec486a2b", "value": "\u0927\u094d\u092f\u093e\u0928\u092e\u0941\u0926\u094d\u0930\u093e"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/0f336f12-0531-45af-84fa-939ea8d35583">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "7816083e-d1fd-41a0-a4cd-117d3660f9eb", "value": "kvan\u0101"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "e338123a-99c1-4b4c-8b54-bc1a2d582bcb", "value": "n. wooden tub for washing or feeding."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/369b42d2-221d-4666-bc01-1bd1e66a6bef">
+        <skos:prefLabel xml:lang="en-us">{"id": "31391900-73c1-47f1-befa-cc0bdde55d36", "value": "tulas\u012b cauko"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "55bb1b49-3370-4add-87e0-fa1b1f45a44c", "value": "http://localhost:8000/369b42d2-221d-4666-bc01-1bd1e66a6bef"}</dcterms:identifier>
+        <skos:definition xml:lang="en-us">{"id": "5eecc21d-bd01-4d1c-b59a-ce390101bb1e", "value": "[F. S.] n. A platform raised round the sacred plant, ocimum basilicum (tulas\u012b)."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "2ddd50da-9be4-4602-a956-5fd840fa0839", "value": "\u0924\u0941\u0932\u0938\u0940 \u091a\u094c\u0915\u094b"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/5082e0cb-63f4-4352-8de2-4786b6410953">
+        <skos:definition xml:lang="en-us">{"id": "df537544-78f5-434b-bc64-2151b5e39eea", "value": "n. end wall."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "6c215976-e827-4ce9-b28c-2dee1b2bec47", "value": "kil\u0101y-a\u0303ga\u1e25"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/0a18bf14-c98f-417d-933c-3b089ec189b1">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "8f69a4ea-eb64-462b-81ea-b74fdd894d43", "value": "gajkathi"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "9ae06edf-60b7-49f9-995e-90523a2b6b95", "value": "n. measuring rod (one yard)."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/34632ed8-a347-4c29-9478-e794adb074ed">
+        <skos:definition xml:lang="en-us">{"id": "3983fd8b-3843-49c2-b58c-8bb9101422d4", "value": "[New.] n. branch or subdivision."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "4f0eb34a-debf-440a-8f89-719da9875be7", "value": "\u0915\u091a\u093e"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "351a3e8e-fbff-46c1-a4b7-b3932c7f37d0", "value": "kac\u0101"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "56a963cd-8967-4b81-b99c-d222ae332f38", "value": "http://localhost:8000/34632ed8-a347-4c29-9478-e794adb074ed"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/cfd8085e-77f8-4f7b-bc40-82c2023c4ea2">
+        <skos:definition xml:lang="en-us">{"id": "840f5e84-17ec-4805-9b15-0e2b36f21005", "value": "n. 1) skull covered by gold or silver used in tantric rituals to put ritual elements such as, alcohol, 2)  ceremonial bowl of brass or silver."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "fd69d8d0-aab5-4998-b697-a61932d3a9fe", "value": "\u092a\u093e\u0924\u094d\u0930\u0916\u094b\u0932\u093e"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "032e77cf-cee5-4870-8fdf-597da7037550", "value": "p\u0101trakhol\u0101"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/91f2a8fa-3259-4869-9147-424e442502d9">
+        <skos:prefLabel xml:lang="en-us">{"id": "595b06be-f785-4892-aba9-e3554af58c4f", "value": "kvakh\u0101duv\u0101\u1e25"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "14a30aa3-2c8d-46dc-92dc-dcc53e53b5da", "value": "n. private passage to a courtyard."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/1ac24c84-701a-4c18-801d-8fdc1913bb78">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "3028971b-d7cb-4e96-a7a4-f6d176b013bb", "value": "n anim blacksmith (caste)."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "9980a041-c7e9-4954-b4d0-cc3a7cf69cdf", "value": "kau"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/f22f5d98-16d1-40a9-9397-e5bf96ccc5b7">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "bffe7822-ba21-4701-a8db-bf0821ec55bf", "value": "ardhamudita"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "e833a921-5c1d-472a-bf2c-148989f4b180", "value": "\u0905\u0930\u094d\u0927\u092e\u0941\u0926\u093f\u0924"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "0b379f8f-d35e-4ba0-a8f7-3d8aa2306eb3", "value": "http://localhost:8000/f22f5d98-16d1-40a9-9397-e5bf96ccc5b7"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/3d7da176-7d5e-4483-bf5c-3f9c2b31fd46">
+        <skos:definition xml:lang="en-us">{"id": "49dd9df4-2a5a-483c-8d09-5666d2b35091", "value": "n. dovetail joint. "}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "d44c78f7-32b2-4930-b6eb-3e38c4a9b762", "value": "gath\u0101\u0303muga\u1e25s\u0101\u1e25"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/0e81bd4b-6c37-4eec-9833-8d74d31793e1">
+        <skos:altLabel xml:lang="dev">{"id": "d0e0416b-32ed-4c2c-95c6-2f927142d14e", "value": "\u0939\u0901\u0916\u093f"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "b27dcf82-cf36-4ec6-9199-b0970876eaf2", "value": "http://localhost:8000/0e81bd4b-6c37-4eec-9833-8d74d31793e1"}</dcterms:identifier>
+        <skos:definition xml:lang="en-us">{"id": "4764d1d6-5032-400c-82d4-a57f4ed25f04", "value": "[New.] n. thread to mark a line on wood."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "6d172d89-cb37-4143-968b-a085221d6598", "value": "ha\u0303khi"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/160636be-b072-4754-8b90-6de6c646aa08">
+        <skos:prefLabel xml:lang="en-us">{"id": "25e21bc5-d36b-4676-81a7-7dc5ca26721e", "value": "ak\u1e63am\u0101l\u0101"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "9ae0be63-e049-42d1-a564-43831fb971c7", "value": "n. a necklace of 'nuts'. It is a rosary made of rudr\u0101k\u1e63a beads (Elaeocarpus ganitrus or its berries). The number of beads may vary from 32, 54, 64 or 108. "}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/aab695b7-ca54-47f3-8596-fa83ca3326c7">
+        <skos:definition xml:lang="en-us">{"id": "46771ddc-1b63-439d-93c2-9c5d8e469bda", "value": "n. stick."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "fd2c2d24-91a7-455a-9c82-449214ea544f", "value": "kathi"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/2eb4f0db-229f-466b-b6f3-f5865346d3e7">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "7c5da133-5795-4aa4-baef-1662d5753426", "value": "gvalgul\u0101\u0303"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "53eab90e-a14e-421e-8c7e-e81f19971808", "value": "n. rounded chisel (carving)."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/1532edd4-02a5-428e-8801-046354cfe289">
+        <skos:prefLabel xml:lang="en-us">{"id": "8e014904-68a9-4a9b-a131-8e95bf6c5c95", "value": "c\u0101bu\u1e45gabha\u1e6d\u1e6d\u0101raka"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "70da9e9c-a24c-4218-bc57-c99352f7a073", "value": "\u091a\u093e\u092c\u0941\u0919\u094d\u0917\u092d\u091f\u094d\u091f\u093e\u0930\u0915"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "a35492bb-95b7-4816-af47-d1fc92574847", "value": "See, s.v. cakv\u0101dya\u1e25."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/e894b1bb-df15-43ee-8f4c-ebea55455261">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "ce793212-0244-46d4-8ff5-271dc17ba074", "value": "\u092c\u0930\u0947 \u091b\u0941\u092f\u0947\u0917\u0941"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "fd581b91-4bcc-496a-ba30-dd86316ddd62", "value": "bare chuyegu"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "91e0d697-7b67-47f7-928d-5ca52189db5e", "value": "var. bande luigu; n. The initiation ritual of \u015a\u0101kyas and Vajr\u0101c\u0101ryas performed on every male child, which officially recognizes him as a member of the sa\u1e45gha of the respective b\u0101h\u0101\u1e25."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/cd5d4d6e-ab71-4bff-8c1a-d32098ccfadc">
+        <skos:prefLabel xml:lang="en-us">{"id": "6e929c85-abbe-405e-bacd-06e1c5d510c2", "value": "ga\u1e25gu\u0303b\u0101"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "17521dbb-f58d-4598-880f-8cf722baf96b", "value": "n. Buddhist monastery with several rooms."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/1d66c477-f685-4129-8741-219d20a43eb6">
+        <skos:prefLabel xml:lang="en-us">{"id": "94cfdd8b-bc79-4a28-a923-294650160f12", "value": "kval\u0101"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "dd0a58fc-d6e0-4f40-a125-e4b1081b06de", "value": "n. 1) plank above the joists. 2) flooring plank; parquet. 3) wooden trowel. "}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/b1f0137e-0e52-47a6-9ed5-a3788c5f1679">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "166b493b-58ff-4d79-be07-d11f21ed63fd", "value": "kvakhalu"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "53712a5c-ce08-4bfb-8225-1f2dae4aac0e", "value": "n. 1) still or threshold. 2) inner sill with a socket."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/071e24fb-8f0f-4b49-8d75-66f3a85e426d">
+        <skos:definition xml:lang="en-us">{"id": "b329a1ca-8f65-4742-a9ae-772fda4da7f6", "value": "n. anim swallow."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "e34b81cf-6397-4d81-8a15-efe1a536e1bc", "value": "ikhu\u0303"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/e301ede7-2936-4612-9b32-799e4895ce62">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "7155761e-794c-4f02-baa5-02959f0ecc92", "value": "[New.] var. gajuli, gag\u016b; n. pinnacle (specially of a temple). See s.v. kala\u015ba."}</skos:definition>
+        <skos:altLabel xml:lang="en-us">{"id": "3980c941-9acf-4401-9723-3d9886a33f13", "value": "\u0917\u091c\u0942"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "0b5551f1-feb8-4929-ade2-656be2d91639", "value": "gaj\u016b"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "b291d3cb-8f44-4f8b-a8e8-2932a047a381", "value": "http://localhost:8000/e301ede7-2936-4612-9b32-799e4895ce62"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/94852709-bd74-4ce0-973e-c23a7b4f0d61">
+        <skos:prefLabel xml:lang="en-us">{"id": "bf09b150-d68a-4bb7-8107-0082f49b7392", "value": "chatra"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "3d51331d-b226-416b-8b8c-7fa500352bf8", "value": "n. parasol."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/fc66e2de-9dbd-481b-858f-e3f07f39183a">
+        <skos:altLabel xml:lang="dev">{"id": "ff4bfdda-bcea-4dd6-a1a9-c2074846e3cf", "value": "\u0927\u0903\u092e\u093e"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "8f2b234a-51ae-4489-9bf4-0a3b01811e47", "value": "http://localhost:8000/fc66e2de-9dbd-481b-858f-e3f07f39183a"}</dcterms:identifier>
+        <skos:definition xml:lang="en-us">{"id": "cf996323-d27b-4ce0-a296-8c2e4c8e2a9a", "value": "[New.] n. var. gha\u1e25m\u0101; shaft of a chariot."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "e95f82a7-2ca0-416a-afb7-6a7adb72e0f1", "value": "dha\u1e25m\u0101"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/16c22bb5-147e-4106-ba3d-17853eed00b9">
+        <skos:prefLabel xml:lang="en-us">{"id": "08360494-9402-4e4b-a4c2-c770f42fdef7", "value": "gva\u1e25dh\u0101\u1e25"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "de1db209-ca26-4a4a-8f65-131223e09495", "value": "n. chisel with rounded edge."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/8e10ca39-e481-4eb1-9b15-9a472aed4561">
+        <skos:altLabel xml:lang="dev">{"id": "5d05dca5-2eae-48cb-a067-82b4253085e1", "value": "\u091b\u0947\u0901"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "33e73cbf-3e38-4259-b32c-782d50d63b53", "value": "che\u0303"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "ad82e747-35b0-4674-aab4-d82ed1696f27", "value": "[New.] n. house"}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/468bbacb-bc4c-4b55-9135-661bf2d1b28b">
+        <skos:prefLabel xml:lang="en-us">{"id": "4cfb75a6-9eb2-402c-95bc-95ce7f22b1db", "value": "bhik\u1e63u"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "6e630844-0d1f-4360-831f-a4aeaa22d1c4", "value": "[S.], vernacular. bhicchu, bhikchu; a Buddhist mendicant or monk."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/638a4d0d-13c6-4c9f-b868-05640cf160ab">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "c45b97d4-f732-4cca-92f1-17a81ead6eab", "value": "it\u0101\u1e25"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "51b5d964-a4d1-4bb8-a529-0ae05f658d7f", "value": "n. candle."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/ec7e0a9e-457d-4452-bf18-47046d6bd339">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "9c867e14-6dd9-4b15-b14c-3802eb03160f", "value": "kala\u1e25"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "1e030805-eb06-43ec-aead-bcef43ac1468", "value": "n. basket or metal pot."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/4d140071-c47c-4e6e-9ceb-99e6855fec50">
+        <skos:definition xml:lang="en-us">{"id": "e2b10378-86eb-4014-8d13-b77dc0000208", "value": "n. hammer headed joint."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "9215665f-6572-4487-bc04-2ad4847a2dfa", "value": "khic\u0101gathis\u0101\u1e25"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/e2393c36-56a4-4f41-beb8-6d59f922d87f">
+        <skos:definition xml:lang="en-us">{"id": "3f10d7bb-a7a7-4110-878d-400d47be732c", "value": "[fr. S. ko\u1e63\u1e6dhap\u0101la] n. hon. principal deity of a Buddhist Monastery (see, s.v. kv\u0101\u1e25p\u0101\u1e25dya\u1e25 and kv\u0101cap\u0101laju)."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "f2c4a4cd-bb68-4f53-9ae1-2281f02fa1dd", "value": "kv\u0101cap\u0101laju"}</skos:prefLabel>
+        <skos:altLabel xml:lang="en-us">{"id": "f2bf0230-1b45-4a19-8cb6-5bd2838cdfd6", "value": "\u0915\u094d\u0935\u093e\u091a\u092a\u093e\u0932\u091c\u0941"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "d0fd1cb5-c7e3-4acd-832a-dd042e5416ab", "value": "http://localhost:8000/e2393c36-56a4-4f41-beb8-6d59f922d87f"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/e6c192f0-2557-437e-a913-d80d3ea25f77">
+        <skos:prefLabel xml:lang="en-us">{"id": "db0c2d3e-bb2e-43a8-b390-d087f9187408", "value": "pras\u0101da"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "c11fac86-2000-4749-8612-6a7cab2f40b6", "value": "http://localhost:8000/e6c192f0-2557-437e-a913-d80d3ea25f77"}</dcterms:identifier>
+        <skos:altLabel xml:lang="dev">{"id": "ef4b7258-8796-4f25-8169-91d7ba6f834c", "value": "\u092a\u094d\u0930\u0938\u093e\u0926"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "b5299ebd-4d58-4ee6-bd97-798416322b17", "value": "[S.] n. offering material blessed by a deity or reverend being."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/39ae84a5-7141-45a6-aa73-4a576fcb029d">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "0898019f-3094-480b-bec4-79584a40054c", "value": "khol\u0101"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "ce5b8745-de25-47ad-abfa-8afde7f8ef9c", "value": "[New.]; n. see s.v. p\u0101trakhol\u0101."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "f216ec35-091f-4877-845c-77a6e238ae0b", "value": "\u0916\u094b\u0932\u093e"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/b2702956-d637-4a3c-bacc-eaaa1bad825c">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "c0926275-47af-403d-805b-e34b5bf457d2", "value": "kat\u0101\u0303"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en-us">{"id": "db8fff5a-8915-4440-a4e0-f064258b50c2", "value": "n. chisel (stone or iron)."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/a38c4f14-cea3-4057-8324-2f90e85bf5ce">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "90d7afe8-819a-49ab-9d1c-925c3d1550bc", "value": "kiki\u0303p\u0101tval\u0101"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "694d3e5d-7a6b-4fcc-9857-b87baed5fd3e", "value": "n. tympanon without medalion."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/ca7a5aac-2e09-4292-9c09-c753abd2557f">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "085b285c-0445-416d-a150-7445fdb75dd1", "value": "n. a discus or sharp circular missile weapon (especially applied to the favourite weapon of Vi\u1e63\u1e47u)."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "67f440a6-5dde-492f-8882-bb747cd26571", "value": "cakra"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/ef685233-5a1a-4c5a-a747-410ab0002846">
+        <skos:definition xml:lang="en-us">{"id": "ee4b732b-54b9-4e84-8fa6-411c8ed2dc93", "value": "n. stone base of a pillar."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "ceae9697-ac94-453a-bc3c-57d3259ef41f", "value": "ilvaha\u0303"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/22a6f460-e6b7-475b-b0a1-8d18c9240797">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "9fde9815-02fc-4e1c-bd1c-b0bdf87f1be2", "value": "abhaya"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "7707c673-443c-49bc-8e60-7838f1210c49", "value": "adj. absence or removal of fear."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/299ddbc9-794a-4dd3-86b6-14aa1e58ac8f">
+        <skos:altLabel xml:lang="dev">{"id": "3034692b-973a-48e9-b279-a0ce6d99885c", "value": "\u0926\u0947\u0935\u0928\u093e\u0917\u0930\u0940"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "b8261e99-0e07-408c-9f25-3b8a96b7839d", "value": "devan\u0101gar\u012b"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "33bb0581-55dd-420d-9859-de9040f91c9f", "value": "http://localhost:8000/299ddbc9-794a-4dd3-86b6-14aa1e58ac8f"}</dcterms:identifier>
+        <skos:definition xml:lang="en-us">{"id": "4b83610e-7b72-4ada-8f09-ff0e941094b5", "value": "[S.] n. the characters written from left to right in which Sanskrit, Nep\u0101li and many other Indic languages are written. Gupt\u0101 script, beginning around 600 AD inspired N\u0101gar\u012b, \u015a\u0101rad\u0101, Tibetan and P\u0101li. N\u0101gar\u012b first appeared around 633 AD in north-west India. Once fully developed in around 11th century it became Devan\u0101gar\u012b.   "}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/6a5dab2c-b366-48de-8f54-0a76b454d44d">
+        <dcterms:identifier xml:lang="en-us">{"id": "a98cef43-5811-4271-aece-4eaea087b578", "value": "http://localhost:8000/6a5dab2c-b366-48de-8f54-0a76b454d44d"}</dcterms:identifier>
+        <skos:altLabel xml:lang="dev">{"id": "bf33358b-9ff3-40fb-b778-799c5048cb94", "value": "\u092a\u094d\u0930\u0924\u094d\u092f\u093e\u0932\u0940\u0922"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "1fb983db-c7fd-42fa-902b-827ae9325e0b", "value": "[S.] adj. a posture opposite of \u0101l\u012b\u1e0dha, the left foot advanced and right drawn back."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "9cf77908-5ed0-453c-b4f1-88f819457d8a", "value": "praty\u0101l\u012b\u1e0dha"}</skos:prefLabel>
+        <arches:image xml:lang="en-us">{"id": "2947cf1f-1c57-4557-be74-5a82821cea27", "value": "concepts/LAL1610_P_20190305_07.JPG"}</arches:image>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/2618f05e-15d9-4504-8395-c67d54ebc93a">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "9280c22f-412d-4dea-be0c-fb512ca33c34", "value": "n. large door, additional door (of a large door)."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "c9b95b54-7b39-4cf8-9c3f-20f8777e186e", "value": "kisidhv\u0101k\u0101"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/21d8b74b-ea3e-40a2-8ea3-b64496ef6d6b">
+        <dcterms:identifier xml:lang="en-us">{"id": "e97e81c9-3b1e-4989-bbf9-81c39b3cca51", "value": "http://localhost:8000/21d8b74b-ea3e-40a2-8ea3-b64496ef6d6b"}</dcterms:identifier>
+        <skos:altLabel xml:lang="dev">{"id": "5ca36216-3b4a-4a00-9842-e852f24a9492", "value": "\u0926\u0938\u0948\u0901"}</skos:altLabel>
+        <arches:image xml:lang="en-us">{"id": "7b1950e3-a1bf-4b6f-a1d8-73d90f331fb7", "value": "concepts/images.jpg"}</arches:image>
+        <skos:definition xml:lang="en-us">{"id": "970e78ed-050f-4857-9eba-65b286c102dc", "value": "[fr. S. da\u015b\u0101ha] var. dasai, da\u015bai; n. festival to worship the goddess Durg\u0101 as slayer of Mahi\u1e63\u0101sura (buffalo demon), held over the bright half of the autumn month of \u0100\u015bvina (ba\u1e0d\u0101dasai\u0303/mah\u0101dasai\u0303) and, on a smaller scale, over the bright half of the spring month of Caitra (caitedasai\u0303)."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "e7913f1c-0ce8-4a88-b9b0-31b417c2e8ed", "value": "dasai\u0303"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/1146e1d2-b678-4f1c-b82a-5e868af1bc40">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "82c39f89-ed16-45a2-8b81-90161e259638", "value": "\u091c\u094d\u0935\u093e\u0932\u093e\u0935\u0932\u093f \u091a\u0948\u0924\u094d\u092f"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "20ee816e-25ba-45cb-bb70-7f534b172e9b", "value": "[S.] javal\u0101val\u012b; jval\u0101vali; n. a type of caitya with the circular frieze of flame motifs. The first structure of this type of caitya was built in 1831 at B\u0101punani, a courtyard near Hakh\u0101 in Patan (cf. Gutschow 1997, 278)."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "30dfb83f-9884-4549-a144-86edc1332ab3", "value": "jv\u0101l\u0101vali caitya"}</skos:prefLabel>
+        <arches:image xml:lang="en-us">{"id": "3a31f3d2-55dc-42d6-97dd-425ab2e5eeca", "value": "concepts/LAL0180-rph008-2018_zUJ22I4_Jvalavali_caitya_New.jpg"}</arches:image>
+        <dcterms:identifier xml:lang="en-us">{"id": "cad5a7f2-f5c3-4893-9982-e3ecd37a6e70", "value": "http://localhost:8000/1146e1d2-b678-4f1c-b82a-5e868af1bc40"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/4a73f696-deec-4682-b9e2-787d0603356d">
+        <skos:definition xml:lang="en-us">{"id": "6a9e1222-4b9d-4dd2-9fe8-3dbb1b7c4910", "value": "n. spirits, liquor."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "47b35196-319b-467c-9476-d23ade652a33", "value": "ayl\u0101\u1e25"}</skos:prefLabel>
+        <skos:altLabel xml:lang="en-us">{"id": "de55a47d-70c4-4f4e-abd7-66bbeb33c59a", "value": "\u0905\u092f\u094d\u0932\u093e\u0903"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/2a8e7b37-f506-4f92-820b-1919f9e28331">
+        <skos:altLabel xml:lang="dev">{"id": "ef0eb9dc-34be-4d1a-9a3c-d154f9e6e1fe", "value": "\u092a\u093e\u0924\u094d\u0930"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "8277a735-5450-4525-a750-59a207dd103f", "value": "p\u0101tra"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "62804a47-aadf-4a0f-804d-1474868ebb4f", "value": "[S.]; n. ceremonial bowl of brass or silver."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c3c0d061-a6ab-4dac-922e-1fdc05b18e6e">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "deaa1d3d-8468-4108-b177-2c2a56df4272", "value": "\u0918\u0903\u092e\u093e"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "03d9d3cd-884c-4a4e-90eb-c3d08c7f24d0", "value": "[New.] n. var. dha\u1e25m\u0101; see s.v. dha\u1e25m\u0101."}</skos:definition>
+        <dcterms:identifier xml:lang="en-us">{"id": "6c18a5f3-72d8-4cf7-8d3f-c8dd63b33915", "value": "http://localhost:8000/c3c0d061-a6ab-4dac-922e-1fdc05b18e6e"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en-us">{"id": "dc731050-9755-469b-b21c-9a5f476c89a6", "value": "gha\u1e25m\u0101"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/9cd2e29c-17a4-418e-a08d-fd2e538709c3">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:exactMatch rdf:resource="http://localhost:8000/14715d41-6ad1-472f-a63b-f67a55379d8b"/>
+        <skos:altLabel xml:lang="en-us">{"id": "86813471-3568-414b-b412-c507099ce58a", "value": "\u092c\u0947\u092d\u0903"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "85302d73-7f23-4ee4-b4c5-b9f272a3be75", "value": "bebha\u1e25"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "e425d336-a40f-4746-a12c-fd99993d3d9b", "value": "See, s.v. apha\u1e25."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/770ed02c-6a76-4aa7-a13b-113693ec7199">
+        <skos:altLabel xml:lang="dev">{"id": "86835f27-06f6-43f3-a10e-7ce9aa9c4c04", "value": "\u0915\u091a\u093e \u092c\u093e\u0939\u093e\u0903"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "93f3809b-d2f6-43b7-8783-e8ca56f144e1", "value": "n. sub-branch of a Buddhist monastery (b\u0101h\u0101\u1e25). According to Locke (1985, 9) kac\u0101-b\u0101\u1e25\u0101\u1e25 refers to a b\u0101h\u0101\u1e25 whose sa\u1e45gha (the community) is not independent but considered a part of the sa\u1e45gha of the main b\u0101h\u0101\u1e25 where initiations take place."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "eeeb341c-c058-4cff-8d71-d40455527d97", "value": "kac\u0101 b\u0101h\u0101\u1e25"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "6b465413-c649-4016-8761-b0db48d1fcff", "value": "http://localhost:8000/770ed02c-6a76-4aa7-a13b-113693ec7199"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/8be1f4cf-0f52-4561-9819-83d46f198421">
+        <skos:prefLabel xml:lang="en-us">{"id": "973262fd-44c2-4473-b950-91d671046006", "value": "iche\u0303"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "41d56d39-622f-459b-98c6-0d7af79dd445", "value": "n. rectangular house."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/e6c2335e-47c9-4b21-a355-43dbd088f3f7">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "baff2ea9-41fd-4c53-9a27-f9fa79bed661", "value": "bhajana"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "317572b3-70ab-498b-a927-ae0fc1ab5979", "value": "[S.] var. bhajan (in Nep.) n. lit. \"the act of sharing, partaking.\" 1) praising a revered being, such as a deity or a guru, by singing devotional hymns or songs. 2) devotional hymn or song for praising a revered being, such as a deity or a guru."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/ea163841-f3ce-45be-a5e8-738799ec3599">
+        <skos:prefLabel xml:lang="en-us">{"id": "4c9fd85e-a9db-4723-b50c-b775f16fcfe8", "value": "samay"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "b8f58cf5-6d64-49d0-a556-a3bf87d294ec", "value": "http://localhost:8000/ea163841-f3ce-45be-a5e8-738799ec3599"}</dcterms:identifier>
+        <skos:definition xml:lang="en-us">{"id": "cafc18f8-0fe0-441f-af43-6d1fba625153", "value": "[New.] var. samaybaji, samhay n. set of ceremonial (ritual) foods including pulse balls, (black) soybeans, beaten rice mixed with puffed rice, spiced roasted meat prepared with vegetables and pickles (served as refreshment before a feast)."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "2ff8ef51-3809-4f25-95c3-3cc28d92f048", "value": "\u0938\u092e\u092f\u094d"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/f2c10b34-38ed-43be-bd0a-05ffa927524a">
+        <skos:prefLabel xml:lang="en-us">{"id": "4df1e564-af3a-45f1-93a3-3dc1b95fcd0f", "value": "kap\u0101\u0303y"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "8e22bff1-e307-45d7-b081-5bf6703e2421", "value": "n. cottonwool."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/4223cf59-6cd4-40c0-bcde-6b6ff04c04fa">
+        <dcterms:identifier xml:lang="en-us">{"id": "30c93d45-b46b-470b-8b60-c48f8d74feef", "value": "http://localhost:8000/4223cf59-6cd4-40c0-bcde-6b6ff04c04fa"}</dcterms:identifier>
+        <skos:altLabel xml:lang="dev">{"id": "945f62b7-49ce-43d7-bd02-322a6d6a1df7", "value": "\u0935\u091c\u094d\u0930"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "a0a02438-80fa-462b-bd0a-f7f994749ae1", "value": "vajra"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "d647fd75-40ad-4155-823d-353c12cdab8b", "value": "[Fr. S. vajra] n. thunderbolt (ritual instrument)."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/e6766627-b637-4d5e-965d-acd430bf4602">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "cb167a95-3c3f-45cd-8514-e10209d62338", "value": "\u092c\u093e\u0930\u093e\u0939\u0940"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "e90cd40b-74af-4bc4-a526-c635b95ad288", "value": "b\u0101r\u0101h\u012b"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "86b107f9-1af0-46c4-92e7-a7181ddb5358", "value": "n. B\u0101r\u0101h\u012bs are the carpenters of Bu\u1e45ga\u1e25dya\u1e25 or R\u0101to Matsyendran\u0101tha. There are other carpenter castes in Newar community like Sth\u0101pita, S\u0129ka\u1e25mi, \u015ailpak\u0101ra. But only B\u0101r\u0101h\u012bs have the right to construct the chariot. They also carry out the Digu P\u016bj\u0101 (the worship of lineage deity) of Bu\u1e45gadya\u1e25. The Digu P\u016bj\u0101 is observed for four consecutive days during the longest chariot festival of Nepal."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c4ec0ce8-2051-48e8-9843-3a1c2b33abf4">
+        <skos:prefLabel xml:lang="en-us">{"id": "b01ae7bc-d859-4d9f-8d28-3622f0e38f80", "value": "m\u016b b\u0101h\u0101\u1e25"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "8a60c3e7-ee3e-453e-a083-058462833c67", "value": "\u092e\u0942 \u092c\u093e\u0939\u093e\u0903"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "b466b9bc-0434-4358-9c47-6d4c2ddb609e", "value": "[Fr. S. m\u016blavih\u0101ra] n. a Buddhist monastery to which a separate or independent sa\u1e45gha is attached which performs its initiations at the concerned b\u0101h\u0101\u1e25. See, s.v. b\u0101h\u0101\u1e25 and kac\u0101 b\u0101h\u0101\u1e25."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "e4cf5f82-46a2-4836-b72c-a189dd2dd5ec", "value": "http://localhost:8000/c4ec0ce8-2051-48e8-9843-3a1c2b33abf4"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/9c432201-b855-4730-b705-43fa6a46ccd6">
+        <skos:definition xml:lang="en-us">{"id": "3a448f91-2bc4-4a13-a659-436e167105be", "value": "[New.] n. beaten rice."}</skos:definition>
+        <dcterms:identifier xml:lang="en-us">{"id": "6509bf1e-6f9d-4c45-974e-74f673960aaa", "value": "http://localhost:8000/9c432201-b855-4730-b705-43fa6a46ccd6"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "632f9b0e-53f6-49f7-a059-5f1bf94e9aa8", "value": "\u092c\u091c\u093f"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "8af5114a-7bbd-49f9-b4ca-bbbe163e98c5", "value": "baji"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/0cf0d9f5-33ae-484c-9323-b05a74a5ed04">
+        <skos:altLabel xml:lang="dev">{"id": "5d66e532-e802-4765-b412-5ccf86fa6be7", "value": "\u091a\u092a\u093f\u0932\u093e"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "4fe9e21b-eb23-4585-a03d-b7049272278d", "value": "http://localhost:8000/0cf0d9f5-33ae-484c-9323-b05a74a5ed04"}</dcterms:identifier>
+        <skos:definition xml:lang="en-us">{"id": "f7d05019-9aa2-4c0e-a85c-b1931c9cfdde", "value": "[New.] var. capil\u0101ga\u1e25; n. small treasure box with a roof-shaped lid."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "e80d5e6e-f6a2-4ef4-ad34-46afdfd56635", "value": "capil\u0101 "}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/ce95e3d0-63da-467c-a4a2-49929a7c1a68">
+        <skos:definition xml:lang="en-us">{"id": "de4c6fd7-e3b9-43f4-9a78-d8da396d8c47", "value": "n. any wall of a house."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="en-us">{"id": "5950a0a7-37ac-47a4-9cda-fec681c0f8f3", "value": "\u0905\u0901\u0917\u0903"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "e8b61a6d-d49a-43e2-bce9-c3717483bad1", "value": "a\u0303ga\u1e25"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/46d7f688-78fd-464c-9261-0b0045c00b3d">
+        <skos:definition xml:lang="en-us">{"id": "0bb76a78-e0d8-4230-b864-31f6b420c5c7", "value": "n. roof tile rebate."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "fc363a8a-c451-4ed1-b93e-3c56401ec7ce", "value": "kathip\u0101dhv\u0101"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/43b0bfc8-3c49-4e8e-9c00-6763f14eeb1f">
+        <skos:prefLabel xml:lang="en-us">{"id": "5cb1afe7-95b8-45a0-97a0-bb8b7f49a618", "value": "ihi"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "45b77abf-4d1b-4e73-9a4a-5f11d28b8011", "value": "n. the marriage of a Newar maiden with a god who is in the form of a bel-fruit."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/b845b6ec-224f-4e2e-8dc9-ce5d4777fda9">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "0165d263-6c1c-47aa-9ae8-8df6475847c8", "value": "uga\u1e25"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "1c062ee3-a662-41eb-9cdd-e7143d63b879", "value": "n. wooden mortar (to beat rice)."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/5d27f930-8645-4be1-a3be-c4549058ccb4">
+        <skos:definition xml:lang="en-us">{"id": "73677bfe-5c5c-44d7-b397-05b027835a0f", "value": "1) rebate (for panels). 2) wall between pillars."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "61cd58dc-1c4b-4650-b16e-bfd617c58738", "value": "kapa\u1e25"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/b7a9b6c1-4542-4519-8e12-f5c832f89352">
+        <skos:definition xml:lang="en-us">{"id": "f7def79d-3f25-448f-9bc4-149b53261fa7", "value": "See s.v. kakku."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "674241a2-6939-41d3-9001-4994eeaea08d", "value": "ga\u1e25pa\u1e25"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/309ac1d5-fc08-42c9-820b-6b788ee7e8ad">
+        <skos:prefLabel xml:lang="en-us">{"id": "5ec78259-1043-4c10-9105-21fd2de4a664", "value": "yajn\u0303aku\u1e47\u1e0da"}</skos:prefLabel>
+        <skos:altLabel xml:lang="en-us">{"id": "5f9117d2-aacb-4f02-84a4-4a9eb25f38f7", "value": "\u092f\u091c\u094d\u091e\u0915\u0941\u0923\u094d\u0921"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "20c08a59-455e-4058-a509-49ffccf689ee", "value": "[S.]; n. a hole in the ground or an altar, for receiving the fire for an oblation."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/32b50a1d-e024-4831-8b90-dc49187c8523">
+        <skos:prefLabel xml:lang="en-us">{"id": "68e46ba6-e1b8-477e-a138-c1e857b61e75", "value": "\u1e0di\u1e6d\u1e6dh\u0101"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "dcca3973-f90d-4d19-880c-7dd37a1284f2", "value": "\u0921\u093f\u091f\u094d\u0920\u093e"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "5ae40f73-6d91-4d2d-ab96-ae58a89f150f", "value": "http://localhost:8000/32b50a1d-e024-4831-8b90-dc49187c8523"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "67b1c778-0a5e-4425-bd9b-600efa824b69", "value": "var. \u1e0d\u012b\u1e6d\u1e6dh\u0101, \u1e0di\u1e6dh\u0101; n. a civil servant ranking above a mukhiy\u0101 and lower than a subb\u0101 during R\u0101\u1e47\u0101 and \u015a\u0101ha period (cf. Stiller 1981, 379). According to Edwards (1975, 107), \u1e0di\u1e6d\u1e6dh\u0101s originally had been the judges who presided over the court in Kathmandu but later could serve in number of other offices, such as the Kaus\u012b, the H\u0101ttis\u0101ra or the Sadara Daphtarakh\u0101n\u0101 (cf. also Kumar 1967, 165 and M.C Regmi 1978, 226). However, it remains obscure that whether the \u1e0di\u1e6d\u1e6dh\u0101s played same role also during the Malla period or not. The Chronicle (NBhV, vol. II, 101) suggests that \u1e0di\u1e6d\u1e6dh\u0101s were given responsibility of the finance section of the royal court during the Malla period."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/eefd665d-1272-4bbf-8f74-52ea2a0e12ee">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "1ee914df-b80f-4514-8829-765d98762efa", "value": "\u0917\u093e\u0903\u091d\u094d\u092f\u093e\u0903"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "120865d4-fa5a-4cc7-9917-49d5ec2736d7", "value": "g\u0101\u1e25jhy\u0101\u1e25"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "3e526342-30f7-4c6b-b3ce-df6051dc1e4c", "value": "n. window with three openings."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c593d286-e47d-44ad-b1e9-1605d0716c54">
+        <skos:prefLabel xml:lang="en-us">{"id": "f9561b3c-80a1-4e2a-8992-1a55baf361c8", "value": "kakku"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "c13bf761-feef-40b9-8f03-aabdefc4f7a0", "value": "n. 1) upper part of the bell body. 2) neck."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/24ef0bd5-db89-49ab-abd4-c2474b5f87d3">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "c2d59792-ca46-43b4-bb2c-a3dff8360719", "value": "n. wooden frame for a large number of ceremonial wick lumps."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "5ca8a74b-bed1-4fef-a559-02b79d41d9a4", "value": "gvad\u0101\u1e25"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/fe4fb8d1-c548-497f-b0cd-7f252d09afec">
+        <skos:prefLabel xml:lang="en-us">{"id": "e858a777-41da-43b3-8afb-619de3daabf8", "value": "kvacuk\u016b"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "0ad39593-6dce-414a-b1fc-a812870e8e26", "value": "n. small door bolt from the lintel."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/cea2d6c0-6c1e-4c7c-b172-aea8f75c9af2">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "220f4d0a-6d06-4b86-a2cf-3788b975f467", "value": "naki\u0303jhy\u0101\u1e25"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "2ed037c4-efcd-4752-9849-53dabd117e74", "value": "\u0928\u0915\u093f\u0901\u091d\u094d\u092f\u093e\u0903"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "1a559f6d-170d-4825-9216-d9948d1c4b63", "value": "n. 1) a window with the image of Kum\u0101r\u012b, 2) a place in Mah\u0101p\u0101la named after such window which can be found in Bhelakhu B\u0101h\u0101\u1e25 (LAL0230)."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/91f2fb8e-36a9-476f-9263-39ada83e0c47">
+        <skos:definition xml:lang="en-us">{"id": "7666a889-12b9-4ef1-babd-38405c2522e5", "value": "n. 1) drinking water pot. 2) baluster (lit sater pot pattern)."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "e48868f5-b924-4cf3-95e3-542140a41e3a", "value": "\u0101\u0303khvar\u0101"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c93c8999-670d-4ab9-aa59-80ba2553cae7">
+        <dcterms:identifier xml:lang="en-us">{"id": "da3a5a36-7670-40d2-8c60-50005bf2421b", "value": "http://localhost:8000/c93c8999-670d-4ab9-aa59-80ba2553cae7"}</dcterms:identifier>
+        <skos:altLabel xml:lang="en-us">{"id": "b3593112-6759-4247-8a25-ed44b8737845", "value": "\u092d\u0942\u092e\u093f\u0938\u094d\u092a\u0930\u094d\u0936\u092e\u0941\u0926\u094d\u0930\u093e"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "e4925bf4-8700-45f2-85ef-8ae4c222b736", "value": "[S.] var. bh\u016bmispar\u015bana-, bh\u016bmyakrama\u1e47a-mudr\u0101; n. the gesture of \u2018earth-touching\u2019. This gesture is performed by extending the right hand downwards to touch the ground with its fingerprints."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "a667e063-3ac2-4371-a5b0-cb8cbb34a3f9", "value": "bh\u016bmispar\u015bamudr\u0101"}</skos:prefLabel>
+        <skos:exactMatch rdf:resource="http://localhost:8000/a87a8c95-aa19-4c34-8ee6-56987e400844"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/f3ee8f96-15dd-4d99-ba26-b85ef3b8dfc5">
+        <skos:prefLabel xml:lang="en-us">{"id": "8cbb6b6a-5a3f-41c4-8dfd-4f7501ef4e5f", "value": "k\u012btv\u0101ka\u1e25"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "e6327253-d5f9-41a7-bd4c-c86a13c96f20", "value": "n. 1) base for adzing. 2) base for planing (edge of the door leaves)."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/4ca0641e-d9cf-4db9-a638-2acd79baeaf5">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "edad7616-2065-4a2a-b149-297d3abd3558", "value": "tharap\u0101"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "bf1a39b8-29c2-4243-a39d-7f220d096f7c", "value": "[fr. S. sthav\u012brap\u0101da]; n. see s.v. thap\u0101ju."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "c95bcdc4-f801-454f-8dea-5a8bcf92628d", "value": "\u0925\u0930\u092a\u093e"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/168fa85f-5afb-4d8b-b60b-6b44ced215e1">
+        <skos:altLabel xml:lang="dev">{"id": "c2a97233-ae72-4b16-9277-19d377f9a20d", "value": "\u0905\u0937\u094d\u091f\u092e\u0940"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "b5d54e48-e262-422b-b358-269d6e5296ea", "value": "a\u1e63\u1e6dam\u012b"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "4fc8e060-bccb-45c0-9038-8b6b4e0e8937", "value": "http://localhost:8000/168fa85f-5afb-4d8b-b60b-6b44ced215e1"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/73d131d9-8de3-4dee-9dcd-647faa7bac71">
+        <skos:definition xml:lang="en-us">{"id": "804301c9-18cb-49c0-9065-fd2b50e6069b", "value": "[New.] var. nan\u012b; n. courtyard "}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "fcfc8040-9b79-40d0-9445-4d6834bfcfe5", "value": "nani"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "588d54a6-d4d4-44fc-b554-9b8eb0294d48", "value": "http://localhost:8000/73d131d9-8de3-4dee-9dcd-647faa7bac71"}</dcterms:identifier>
+        <skos:altLabel xml:lang="dev">{"id": "2b007702-b9ca-47c9-a8c0-05b7dde165d6", "value": "\u0928\u0928\u093f"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/86ef0497-2c15-4b72-95af-1bc76f72f565">
+        <skos:prefLabel xml:lang="en-us">{"id": "b5b63ee1-fceb-4d66-bb70-8befc2e305c8", "value": "kathip\u0101"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "e0b3f5a4-b441-4d14-9a28-3a274e253c9b", "value": "n. stick to give a notch to the roof tile."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/6095af98-51aa-43f2-b0f2-5cd99f8e706a">
+        <skos:exactMatch rdf:resource="http://localhost:8000/9092141c-b329-4e87-9006-6c252c20d409"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:scopeNote xml:lang="en-us">{"id": "d3f8f920-de6c-4c50-8e61-f99ac0f5a00a", "value": "See, s.v. \u0101lamata."}</skos:scopeNote>
+        <skos:exactMatch rdf:resource="http://localhost:8000/0baaca40-5bce-4a2d-aa8d-3c136ecfc7d6"/>
+        <skos:altLabel xml:lang="en-us">{"id": "bfb0915e-039c-4d2a-8d11-b0517e6cc240", "value": "\u092e\u0924\u0915\u0932\u0903"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "bf89d9ff-bcc6-403d-bb56-8de7f0f2e145", "value": "matakala\u1e25"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/1d1a920d-77c9-4c65-a1b8-3beec42562fc">
+        <skos:prefLabel xml:lang="en-us">{"id": "6ad6c457-94cb-4da5-b2d5-f5cd8659e3f3", "value": "\u0101l\u012b\u1e0dha"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "8d7f2fb5-a6e4-462d-96f6-a49f3a2d653f", "value": "http://localhost:8000/1d1a920d-77c9-4c65-a1b8-3beec42562fc"}</dcterms:identifier>
+        <skos:altLabel xml:lang="dev">{"id": "36a322c3-2e33-4901-b151-f26f0de0992e", "value": "\u0906\u0932\u0940\u0922"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "37cefc4b-93ad-48cd-bc19-275c60207748", "value": "[S.] adj. posture, the right knee advanced, the left leg retracted. "}</skos:definition>
+        <arches:image xml:lang="en-us">{"id": "eb1572a5-6d0b-4579-91a2-88407311a2c5", "value": "concepts/LAL1600-004_P_20190307_01.JPG"}</arches:image>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/7a5428d5-445d-499f-b746-120813008dec">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "23a54424-a585-4e7a-a2b0-90a7484984ce", "value": "in\u0101yd\u0101lu"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "887072cf-1cb9-47fe-b874-4a2164a13023", "value": "n. lamp with an image of Ga\u1e47e\u015ba"}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/769c9ebd-146a-4b7f-8907-733c8aae58e6">
+        <skos:prefLabel xml:lang="en-us">{"id": "5c35d5dd-d0bf-45b8-b541-86b4c3cc3b53", "value": "parya\u1e45ka"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:scopeNote xml:lang="en-us">{"id": "a2aa8549-dc03-46d3-98a4-6f0dcb2ed60c", "value": "a particular mode of sitting on the ground (a squatting position assumed by ascetics and Buddhists in meditation). See s.v. ardhaparya\u1e45ka."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/12d09f9e-8b61-4500-83d4-14a96c0e44bf">
+        <skos:prefLabel xml:lang="en-us">{"id": "d8bc36d6-a77b-4dd9-aba6-093b41544d1b", "value": "il\u0101\u0303"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "c84a8a7f-2b96-45bf-a60e-d15f4d075c42", "value": "n. canopy."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/afaa8c50-4089-444a-8794-b0a89a50afa4">
+        <skos:definition xml:lang="en-us">{"id": "94c6cf69-847a-47c6-80e9-bf8cb6b4f6f0", "value": "n. 1) rainbow. 2) rainbow pattern (wood carving)."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "15be1b36-7ba0-4c54-bb22-38d201b2ddae", "value": "ka\u0303"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c849b888-1610-45fd-b575-7d1fb7979be1">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "2978acb7-7fea-455d-be52-f86acb60e054", "value": "[S.] n. The garbhag\u1e5bha is an elongated dome and is surmounted by the eyes on the harmik\u0101 and rings surmounted by the another small elongated caitya (cf. Locke 1985, 356)."}</skos:definition>
+        <dcterms:identifier xml:lang="en-us">{"id": "d5bf3689-77f9-4fcc-a59d-ea9a78342067", "value": "http://localhost:8000/c849b888-1610-45fd-b575-7d1fb7979be1"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en-us">{"id": "71f721c6-ca41-413a-87bc-3984612aa4f9", "value": "garbhag\u1e5bha"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "0f6e744f-9722-4fb7-af63-1177107cd364", "value": "\u0917\u0930\u094d\u092d\u0917\u0943\u0939"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/58c5aa2c-526c-4a29-89f5-3ab6bfb68f12">
+        <skos:altLabel xml:lang="en-us">{"id": "63f24cb8-0feb-499b-b3dd-dbfaa42eaf87", "value": "\u0905\u0937\u094d\u091f\u092e\u093e\u0924\u0943\u0915\u093e"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "20ad1282-a616-48b8-ac5b-ed5d3a3d0d2d", "value": "a\u1e63\u1e6dam\u0101t\u1e5bk\u0101"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "a974df89-37b1-4c21-b1f3-ac698340d81b", "value": "http://localhost:8000/58c5aa2c-526c-4a29-89f5-3ab6bfb68f12"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "a8c57f74-e15f-422f-b5bd-5f7486caf38a", "value": "[S.] n. A group of \u201cEight Mother Goddesses\u201d most commonly consisting of Brahm\u0101\u1e47\u012b, Mahe\u015bvar\u012b, Kaum\u0101r\u012b, Vai\u1e63\u1e47av\u012b, V\u0101r\u0101h\u012b, Indr\u0101\u1e47\u012b, C\u0101mu\u1e47\u1e0d\u0101 and Mah\u0101lak\u1e63m\u012b. In contrast to the classic number of Seven Mother Goddesses (saptam\u0101t\u1e5bk\u0101) in India, a\u1e63\u1e6dam\u0101t\u1e5bk\u0101s are venerated in Nepal. As mentioned in Slusser (1998 vol. 2, 322), the Goddesses C\u0101mu\u1e47\u1e0d\u0101 and Mah\u0101lak\u1e63m\u012b have complex origins, where as rest of them are related to Brahm\u0101, \u015aiva, Kum\u0101ra, Vi\u1e63\u1e47u and Indra respectively. The a\u1e63\u1e6dam\u0101t\u1e5bk\u0101s in Nep\u0101l are taken as hitv\u0101dyo, meaning (according to Slusser 1998 vol. 2, 322) \u201cfierce or forbidding deities who except sacrifice\u201d."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/4471fb2e-9707-4219-940e-1acf01c97b15">
+        <skos:definition xml:lang="en-us">{"id": "e9d909e3-2581-4ebe-b41f-9524d0508351", "value": "n. 45-degree grillwork (window), key batten."}</skos:definition>
+        <skos:mappingRelation rdf:resource="http://localhost:8000/5f4c2f35-5b08-4b3d-a311-2e454a82d854"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "ba6d338c-46e3-496f-96d9-df7f7c726f86", "value": "icik\u0101"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c6b07513-0958-4f3c-a94d-b4cca710d312">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "7faa5f4d-8ca5-4153-badd-dffb4f7d94ce", "value": "n. mane of a lion."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "14dd9159-cc9a-4dba-953f-1781f4bba34d", "value": "\u0927\u0941\u0901\u0938\u0901"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "47015c56-a7ab-4ec5-ad8a-2d97d0df542c", "value": "dhu\u0303sa\u0303"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/37bcb4b6-5bfc-4c24-addd-c9eb63d2ea1a">
+        <skos:prefLabel xml:lang="en-us">{"id": "4dcc0063-7742-4b8c-9e08-6bea31b72f5e", "value": "p\u0101neju"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "9004124b-3a1f-4c6b-9d7f-8ba5c778a5e2", "value": "[New.] var. p\u0101nju; n. priests of Bu\u1e45gadya\u1e25 (R\u0101to Matsyendran\u0101tha) who come from Bu\u1e45gamati and belong to the Vajr\u0101c\u0101rya caste"}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "759e723d-f26f-42b3-8b2b-1a59437a448a", "value": "\u092a\u093e\u0928\u0947\u091c\u0941"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "1b69e166-4b74-443f-9f5e-8e496c048280", "value": "http://localhost:8000/37bcb4b6-5bfc-4c24-addd-c9eb63d2ea1a"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/2450321f-0174-4024-9c69-baa97a636620">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "ef008699-d006-4fa8-a196-c1d70f55d5e6", "value": "\u0938\u092e\u092f\u094d\u092c\u091c\u093f"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "1230889c-c1a9-4249-a9a1-b2fa398bd92a", "value": "http://localhost:8000/2450321f-0174-4024-9c69-baa97a636620"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en-us">{"id": "5346c89f-7db4-4b68-a6d4-216ae1f800d7", "value": "samaybaji"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "3d5c7ca0-3028-432a-9130-66c925970624", "value": "See s.v. samay."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/b43cd452-b3c6-487c-896c-6fa3e799585b">
+        <skos:definition xml:lang="en-us">{"id": "7fbdd687-4e35-4f8e-9f9b-3815a9848c44", "value": "n. stove (charcoal)."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "d0820408-5f27-445a-93a7-2d04833e74e8", "value": "ag\u016b"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="en-us">{"id": "0a5edb80-838d-4fff-b880-cbd2463b1d7a", "value": "\u0905\u0917\u0942"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/f890ebfd-8548-471f-a648-5f17990ea034">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "516c6989-990f-4496-ae1a-54d89e9e63cd", "value": "aga\u1e25"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "1c7d8fce-1acf-4de5-8e17-53835e8f7ff1", "value": "n. brick-kiln."}</skos:definition>
+        <skos:altLabel xml:lang="en-us">{"id": "f5a85072-4233-4d9a-9b9a-994e60cd6438", "value": "\u0905\u0917\u0903"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/09e7108e-d413-4521-9c25-f7a05c911a46">
+        <dcterms:identifier xml:lang="en-us">{"id": "b6649910-e8d4-4f01-b12b-d5ee887a8b6c", "value": "http://localhost:8000/09e7108e-d413-4521-9c25-f7a05c911a46"}</dcterms:identifier>
+        <skos:altLabel xml:lang="dev">{"id": "fc046cb5-0db9-4ecf-a918-25e41a07b476", "value": "\u0906\u091c\u0941"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "9e265975-1972-4913-9d26-69e5ca49e77c", "value": "\u0101ju"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "471751a9-c8f5-4284-871f-bf67dba3d9be", "value": "[fr. S \u0101rya] n. seniors/elders of a b\u0101h\u0101\u1e25. Mostly in the major b\u0101h\u0101\u1e25s, there are 10 \u0101jus locally known as Da\u015bap\u0101ramit\u0101 \u0100jus. When one of them passes away, the \u0101ju next in line replaces him while a new \u0101ju is inducted as the tenth \u0101ju. The induction of \u0101ju is done based on the seniority in terms of age. The senior-most \u0101ju has the responsibility of performing the daily rituals and all other worships at the \u0101ga\u0303 of the b\u0101h\u0101\u1e25."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/9c2e3d9d-070c-4999-968a-806b3cf649c9">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "5347e37b-c1f2-4dc6-9024-32616a4a2827", "value": "ikh\u0101"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "65a9be96-bd9e-46a0-abe0-7d6b409c9784", "value": "n. rectangular house."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/9b43c92c-4670-457d-82bb-d2402d87a2ff">
+        <dcterms:identifier xml:lang="en-us">{"id": "1304d776-b15d-4650-bb19-04d0e9b80e66", "value": "http://localhost:8000/9b43c92c-4670-457d-82bb-d2402d87a2ff"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en-us">{"id": "da238490-c52a-45f2-9b01-fd36c5540e65", "value": "v\u0101r\u0101h\u012b"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "6aa78f30-7149-45af-a899-5144513fb4ac", "value": "Barahi (B\u0101r\u0101hi) are the carpenters of Bungadya\u1e25 or R\u0101to Machhindran\u0101th. There are other carpenter castes in Newar community like Sth\u0101pit, S\u0129ka\u1e25mi, \u015ailpak\u0101r. But only Barahi have the right to construct the chariot. They also carry out the Digu Puj\u0101 (the worship of lineage deity) of Bungadya\u1e25. The Digu Puj\u0101 is observed for four consecutive days during the longest chariot festival of Nepal."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/ba38a927-5b99-4786-9cc1-f64d16ffceb7">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "90f285aa-5975-4073-8629-b10f1d95b926", "value": "\u092c\u0939\u0940"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "901fc340-4851-404c-af7d-af4b768eb12a", "value": "http://localhost:8000/ba38a927-5b99-4786-9cc1-f64d16ffceb7"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en-us">{"id": "841e336f-85ac-4906-8002-94d37ec68254", "value": "bah\u012b"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "7349d3ce-37ec-4ab0-9faa-f0c5d3081ccf", "value": "[F. S.] var. bah\u012br\u012b, bahira, bah\u012bl, bahi; n. type of Buddhist monastery. According to Locke (1985, 5), the structure of a bah\u012b is similar to the b\u0101h\u0101\u1e25s, but it has its own distinctive features. The bah\u012b is usually two storey-building of brick and wood structure. In comparison to the late Malla b\u0101h\u0101\u1e25s, the bah\u012bs have simpler structure with less ornamentation."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/8496e489-c1bc-4c96-830b-36989905a3b3">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "956a7001-9d29-44dc-a766-a3930fb77522", "value": "var. Bh\u012bma Ek\u0101da\u015b\u012b, Bhimy\u0101da\u015b\u012b; the eleventh day of the bright half of M\u0101gha is celebrated as Bh\u012bmasena Ek\u0101da\u015b\u012b. On this day, a special worship is offered to Bh\u012bmasena at Bh\u012bmasena Mandira located in Patan Durbar Square (LAL1380) and his statue is taken around Lalitpur and worshipped. "}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "45c227bc-a9b9-4295-a1e8-38938012baf6", "value": "Bh\u012bmasena Ek\u0101da\u015b\u012b"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/4ba9b667-cd0b-4ca4-93f7-c99cb19155eb">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "5e68aade-9958-4405-93f8-88a861bdeb04", "value": "ka\u1e25si"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "13ed2daa-5fae-4563-9467-c2ec5c395efb", "value": "n. open roof, verandah or balcony."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/667791c1-25ed-418d-9a89-75ca7b33fad1">
+        <skos:definition xml:lang="en-us">{"id": "1f298500-3665-45b0-838f-eac9988b7b7a", "value": "n. socket of a door or window."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "2e4276ed-ac5e-44b5-bc66-80d3966a4510", "value": "khat\u0101\u0303g\u0101\u1e25"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/3bcd0fee-6120-4774-9744-30a8d5c40598">
+        <skos:prefLabel xml:lang="en-us">{"id": "7a41d46f-9ef8-4921-b2c6-1a9242fb4031", "value": "ik\u0101"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "5df69548-dbbd-4162-b633-25aca1070ab4", "value": "n. slotted batten (grillwork)."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c7b0c7da-121e-4c86-8458-a55307d734a7">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "c52c9f10-47cf-4d09-9b79-adaea6f4a92b", "value": "ka\u0303jhy\u0101\u1e25"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "17763e49-f73c-4f21-81fb-3e734e82d980", "value": "n. group of window openings (lit. open window)."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/ceba18b4-a7a7-49ea-9c77-dcf57605d09f">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "3d28d636-4c99-40a0-be6d-a1e056679d43", "value": "\u0905\u092d\u092f\u092e\u0941\u0926\u094d\u0930\u093e"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "4d5704bf-f3a6-4230-89b2-8a8671da17ed", "value": "abhayamudr\u0101"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "40ab104a-301e-4727-b12e-edbaeca0789c", "value": "[S.] n. the gesture of \u2018protection or fearlessness\u2019 also identified with the gesture of giving refuge. It is like the \u2018boon-granting\u2019 gesture in appearance, the palm held outwards and the fingers extending upwards, representing the Buddha\u2019s protection from all the fears of cyclic of birth."}</skos:definition>
+        <dcterms:identifier xml:lang="en-us">{"id": "c57a7c3c-705c-4f3f-b145-e990db96c22b", "value": "http://localhost:8000/ceba18b4-a7a7-49ea-9c77-dcf57605d09f"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/3dd52b5d-3003-4551-a385-dbcc9dd7291f">
+        <skos:prefLabel xml:lang="en-us">{"id": "39eb99ad-2d5f-40e9-a270-f841c8ab27f4", "value": "caitya"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "b161462f-e12e-4520-8c4d-e0a10bf7ae94", "value": "\u091a\u0948\u0924\u094d\u092f"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "11df5e9b-adf4-4fc7-8bf8-5ef67312de8f", "value": "[S.] n. 1) a funeral monument or Buddhist cenotaph. 2) a pyramidal column containing the ashes of deceased persons, sacred tree (esp. a religious fig-tree) growing on a mound, hall or temple or place of worship (esp. with, Buddhism and Jainism and generally containing a monument). An outstanding example of a classical caitya is the magnificent K\u0101rli Caitya-hall from the late 1st century BCE near Pune (Poona), in western India."}</skos:definition>
+        <dcterms:identifier xml:lang="en-us">{"id": "5ba53575-f8e2-4667-bb5a-06d41d04a140", "value": "http://localhost:8000/3dd52b5d-3003-4551-a385-dbcc9dd7291f"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/740e6c08-f486-4b07-8c6d-62a80f4b1237">
+        <dcterms:identifier xml:lang="en-us">{"id": "2bab163d-d6f9-4081-a08e-a2eccbdee994", "value": "http://localhost:8000/740e6c08-f486-4b07-8c6d-62a80f4b1237"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "0b2d650a-ebca-48c3-822d-959f84859739", "value": "\u0927\u0930\u094d\u092e\u0927\u093e\u0924\u0941 \u092e\u0923\u094d\u0921\u0932"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "8bbac48a-5054-4801-9c37-6748b14a08ec", "value": "dharmadh\u0101tu ma\u1e47dala"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "6cbf15f0-b350-4ca0-823f-00194f46a86d", "value": "[S.] n. a Buddhist Tantric rendering of the enlightened universe."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/5ccfb245-3e5e-4286-8316-1a6790918999">
+        <skos:prefLabel xml:lang="en-us">{"id": "5376c51e-9c60-4bcf-b0f5-a573faccb745", "value": "dekh\u0101"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "40e7b628-c5d0-4331-ac7c-422169aa1e7a", "value": "[f. S d\u012bk\u1e63\u0101] initiation"}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "7143a58f-ae8a-4193-9da2-6f4aea4c213f", "value": "\u0926\u0947\u0916\u093e"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/5f3306f7-ab2e-4318-aa15-a64153760e8d">
+        <skos:definition xml:lang="en-us">{"id": "e5c4c219-a766-4d2f-bda0-08248c8e6a01", "value": "[New.] var. libi\u1e43; n. 1) lace, 2) canopy, 3) frilled belt, 4) frilled belt pattern (carving or metal work)."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "ed103751-be11-4452-9ad5-3fb72b0ff31c", "value": "\u0932\u093f\u092c\u093f\u0901"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "13617762-16fe-46bb-955a-c88547620626", "value": "libi\u0303"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "f47dca83-b448-407f-a89f-faff3697e710", "value": "http://localhost:8000/5f3306f7-ab2e-4318-aa15-a64153760e8d"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/582d2530-5438-4ba0-8c9a-f378c3eb4592">
+        <skos:definition xml:lang="en-us">{"id": "2f029d63-f742-4ebe-807a-a1e8374019fd", "value": "n. oval window."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "084b9065-5f9b-4351-ae2b-171927d4f2c9", "value": "khe\u0303yjhy\u0101\u1e25"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/86de5fb0-fada-40ef-9765-6e7822b300a8">
+        <skos:prefLabel xml:lang="en-us">{"id": "8d786b2c-796a-4054-a919-e962982e1db5", "value": "ga\u1e25jhy\u0101\u1e25"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "06815441-a4a1-4235-ae93-dea731fc0c7d", "value": "n. blind window."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/90f587b5-d0b2-4deb-99e4-7398f0470cc7">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "835f601a-f91c-4571-bac6-5a692a4aa85d", "value": "kayg\u016bc\u0101"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "8f2f6a7a-8f2a-412b-bb2f-6e19487ffef4", "value": "n. pea pattern (carving or interlacing cane)."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/b41517aa-99d1-46d6-8fa1-54c6d7fd8e49">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "b229b2ac-e113-40f0-8ae9-1f790c0a758d", "value": "kala\u0303pu"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "b7ef06d8-a6a0-4c07-99ff-ca1f39877ace", "value": "n. iron dong (mod constr)."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/1d115404-a369-44b9-9e30-189e853cd963">
+        <skos:definition xml:lang="en-us">{"id": "75f59ced-1ef0-4237-b057-f74a763f0c47", "value": "var. gar\u0101la; n. wooden support for sawing lumber."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "d3136f1e-40fe-4870-a93d-0cb2b69d4c6a", "value": "gar\u0101l\u0101"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/60c6b788-883e-4c23-9db9-73fdd493b3de">
+        <skos:definition xml:lang="en-us">{"id": "5c532116-b690-44cf-ba88-c56174e8000b", "value": "n. railing of a chariot."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "7c9d0acd-7fe9-4aeb-a620-e1c8a7892482", "value": "khajal\u0101"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/433c9f7d-54ac-4328-81c0-dd479ffbed2c">
+        <skos:definition xml:lang="en-us">{"id": "67daaa64-8147-4149-a722-8d59f9cc60a4", "value": "[New.] var. kiki\u1e43p\u0101, kikampa; silver banner, silver or gold leaf that decorates the crown of a deity."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "41693eae-6a2c-4bae-b9bd-185c3862862c", "value": "kiki\u0303p\u0101"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "e94bd97e-d3e4-4e91-a4d0-002a44f6091f", "value": "\u0915\u093f\u0915\u093f\u0901\u092a\u093e"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/9092141c-b329-4e87-9006-6c252c20d409">
+        <skos:definition xml:lang="en-us">{"id": "f9b3ebc5-6414-46f1-8911-b43d7d48f2ed", "value": "n. lamp (on a bamboo pole, erected in the month, K\u0101rttika of Vikrama Era)"}</skos:definition>
+        <skos:exactMatch rdf:resource="http://localhost:8000/6095af98-51aa-43f2-b0f2-5cd99f8e706a"/>
+        <skos:altLabel xml:lang="en-us">{"id": "2291c016-0bed-485b-8a98-917a0e286bf4", "value": "\u0906\u0932\u092e\u0924"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:exactMatch rdf:resource="http://localhost:8000/0baaca40-5bce-4a2d-aa8d-3c136ecfc7d6"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "9d88cbcc-8d52-488b-822c-b2c84083cc72", "value": "\u0101lamata"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/7b5b5135-6015-451f-99aa-60831aad4bea">
+        <skos:altLabel xml:lang="dev">{"id": "0b52138a-b0c4-456c-a980-27e48080b5d8", "value": "\u092a\u0942\u0930\u094d\u0923\u0915\u0932\u0936"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "33d3f6bd-e250-4766-a309-8056dece35d2", "value": "p\u016br\u1e47akala\u015ba"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "cfa9fab9-1825-40ef-a968-e532c3f4e29f", "value": "[S.]; n. ritual vessel filled with water."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/910d4a62-163e-46ff-baf8-42cb1a425f6e">
+        <dcterms:identifier xml:lang="en-us">{"id": "ecd6807e-40cd-4274-9898-0517c1ab7771", "value": "http://localhost:8000/910d4a62-163e-46ff-baf8-42cb1a425f6e"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "b07b63e7-03ba-46f7-b3b9-0aa44462cf9c", "value": "[S.] n. the sacred plant ocimum basilicum, also known as holy basil said to have been produced from the hair of the goddess Tulas\u012b and held in veneration by the worshippers of Vi\u1e63\u1e47u."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "83754640-1201-41cc-abf6-45c06a7d4717", "value": "tulas\u012b"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "cdb21659-5ad0-49e2-b035-8afada09931f", "value": "\u0924\u0941\u0932\u0938\u0940"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/24b31d12-92c0-4a4c-b188-0bbf237ef9ac">
+        <skos:prefLabel xml:lang="en-us">{"id": "a3b2d422-f5a9-4116-bef8-d559dbf4b24d", "value": "gva\u1e25jhy\u0101\u1e25"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "ad084350-5895-4dfb-b592-e6d25e272883", "value": "n. round window."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/cb04023c-eb3b-4858-9b79-b152eaf2897c">
+        <skos:definition xml:lang="en-us">{"id": "de3cebac-3e5e-44c8-acda-a3bd169350b0", "value": "n. opening of end wall."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "ba6fc982-0995-4282-adb0-c05736cc2ff7", "value": "kil\u0101y-pv\u0101\u1e25"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c6642343-17f1-4751-8ed3-1ac9cbec3383">
+        <skos:prefLabel xml:lang="en-us">{"id": "17866c7a-7861-4816-85d1-70bd9aa53d91", "value": "mhadan\u0101 vanegu"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "b6d43b99-5a74-4229-8b70-4ebea97dfa32", "value": "http://localhost:8000/c6642343-17f1-4751-8ed3-1ac9cbec3383"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/f3b4a844-8c74-4810-82b7-f5f00c71c89b">
+        <skos:definition xml:lang="en-us">{"id": "83d64a54-f6cf-4a22-ab71-6e33a44250ab", "value": "n. small cabinet above the inner window frame."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "a5b5f94a-0748-4da5-ab8c-83385d4f635d", "value": "ga\u0303"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/f0069331-e845-4a1f-b4bb-18d3ad1cc052">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "28c35173-802c-40d9-8fd6-be989071f9c9", "value": "n. 1) terrace wall. 2) railing of chaiot."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "14b41155-f1a6-4ddd-a79c-d7d433871b07", "value": "ka\u1e25sipa\u1e25kh\u0101\u1e25"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/e4106297-d57e-4b73-b9a5-1f13afb3b719">
+        <skos:related rdf:resource="http://localhost:8000/94eb75b9-9b0b-483b-a999-88e544fb5819"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "e185fa69-00b9-4e78-a2ed-c40d2c0d2004", "value": "mandira"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "62656386-d6c1-413f-8131-371be8635bbd", "value": "http://localhost:8000/e4106297-d57e-4b73-b9a5-1f13afb3b719"}</dcterms:identifier>
+        <arches:image xml:lang="en-us">{"id": "265dd6f7-82ae-48f1-b716-a4c382d5dc60", "value": "concepts/temple.jpg"}</arches:image>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "8d5a9d80-cf1c-46df-9db6-3738adddd40d", "value": "\u092e\u0928\u094d\u0926\u093f\u0930"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "06356272-04b1-49af-b37b-b47d3528040e", "value": "[S.] var. mandir; n.  a place where a deity is enshrined. Broadly speaking mandira (temple) is referred to a spiritual place where mainly Hindus, Buddhists or Jainas go to worship gods and perform ritual. Many Hindu temples are filled with wooden and stone arts such as, Pa\u015bupatin\u0101tha Temple in the Kathmandu Valley.  It is the landmarks around which ancient arts, community, celebrations and economy were developed. "}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/85990f68-49f6-48dd-937b-cb3711d86347">
+        <skos:altLabel xml:lang="en-us">{"id": "0b745e93-090a-4037-a351-a3f827cc1e06", "value": "\u0905\u0901\u0932\u093e\u092f\u094d"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "f078fb64-d05e-4fa0-a107-f715cfdac578", "value": "a\u0303l\u0101y"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "d7fddd9f-d114-4d01-9eac-94e5ea3b9e7e", "value": "var. a\u0303l\u0101; wall plate."}</skos:definition>
+        <skos:exactMatch rdf:resource="http://localhost:8000/87388dd4-f940-4372-b26a-15b0151a4940"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/9833dd9a-5403-4ad8-8570-7382b8cc4be7">
+        <skos:prefLabel xml:lang="en-us">{"id": "0d95e51a-a619-443a-9a25-976e26993eb3", "value": "dharmadh\u0101tujin\u0101laya caitya"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "aed7b6c6-d3f4-4fce-af52-5f1c4e46d5da", "value": "[S.] n. a type of caitya with four Buddhas in the cardinal directions. "}</skos:definition>
+        <skos:altLabel xml:lang="en-us">{"id": "41fbfdd4-35d7-4d75-8c7f-cfa30d091778", "value": "\u0927\u0930\u094d\u092e\u0927\u093e\u0924\u0941\u091c\u093f\u0928\u093e\u0932\u092f \u091a\u0948\u0924\u094d\u092f"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "9d7e1015-b8dd-41c8-acd2-f5fcc85ef4f5", "value": "http://localhost:8000/9833dd9a-5403-4ad8-8570-7382b8cc4be7"}</dcterms:identifier>
+        <arches:image xml:lang="en-us">{"id": "4622def8-5c72-4f9d-9963-401e4147f49d", "value": "concepts/LAL0680-003_P_20190117_01__Dharmadhatu_Jinalaya_Caitya_SfBiqs2.jpg"}</arches:image>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/095848d1-3632-46e2-8bf7-a98edecd9c5e">
+        <skos:definition xml:lang="en-us">{"id": "ef475bc5-f0ba-4bec-992d-fe8626c09411", "value": "vt. 1) to bake (bricks, earthen pots). 2) to cremate."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "80a30f19-7d45-4397-bf48-ad992f046330", "value": "uye"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/4c6b8e03-ead4-4202-a16e-8b1a73b0cc9f">
+        <skos:definition xml:lang="en-us">{"id": "7a8fc1ab-3250-4f10-ad26-3f3698e5b8af", "value": "var. caukul\u0101\u0303, cvakul\u0101\u0303, ca-u-kul\u0101\u0303, cakul\u0101; n. 1) board to space a pair of pillars. 2) board between post and capital. 3) cornice above a window or door."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "c4707f7a-17ef-4d74-a754-2f083f01ad75", "value": "cakul\u0101\u0303"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/395e5997-3a84-4e9e-bea1-5c0a69cc4ca8">
+        <skos:prefLabel xml:lang="en-us">{"id": "a57bcf4f-db71-4280-9378-71dbdc55e92a", "value": "prabh\u0101ma\u1e47dala"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "c28a7cc6-7dec-4902-bbbe-01f5cd28ca32", "value": "[S.];  n. a circle or crown of rays."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "9315d34e-7bcf-4f30-8e93-b5ef593de974", "value": "\u092a\u094d\u0930\u092d\u093e\u092e\u0923\u094d\u0921\u0932"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/e8c2992a-02a1-4ee3-b053-5278c3e4cf3e">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "8acaef3b-1233-44ed-8ef9-b3195795a249", "value": "\u092b\u0932\u094d\u091a\u093e"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "f2a56a8d-9a73-43e3-a1b2-c1c5475be3f5", "value": "[New.] var. phale, phalac\u0101; wayside shelter, one-storeyed building open towards the street for religious or social functions (see, KSND s.v. phalc\u0101 and Gutschow 1987, 57), for travellers, rest-house (cp. satta\u1e25). Phalc\u0101, which is little more than roofed rectangular platform, \u201cusually a lean-to in the towns, but free-standing along the trails\u201d (cf. Slusser 1998, vol. 1, 146)."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "d0cc31aa-59bd-478d-953d-0ec2ca2a5e50", "value": "phalc\u0101"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "aee04691-879b-4dbd-8eea-667731f3c11b", "value": "http://localhost:8000/e8c2992a-02a1-4ee3-b053-5278c3e4cf3e"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/e0bd3351-6b19-4ede-9a2e-7d92f22405a9">
+        <dcterms:identifier xml:lang="en-us">{"id": "4e2bd8ca-1860-4053-8fb7-833111a80ed5", "value": "http://localhost:8000/e0bd3351-6b19-4ede-9a2e-7d92f22405a9"}</dcterms:identifier>
+        <skos:altLabel xml:lang="dev">{"id": "7b6a6dd1-d4da-4a83-ac56-d8ea11e1e53a", "value": "\u0916\u094d\u092f\u093e\u0903/\u0916\u094d\u092f\u093e\u0915"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "e9525b1b-8351-40fd-b852-78f47a91ecbe", "value": "khy\u0101\u1e25/khy\u0101ka"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "fdc321f0-2326-427a-b04f-2dcb95308820", "value": "[New.] n. a goblin or spirit that frightens people. This figure generally can be found painted on the wall, right-hand side of the main entrance of a temple in the Kathmandu Valley.  For example, this can be observed at \u015avetabhairava temple located in Ikhalakhu and Khapi\u0303che\u0303 Bhairava temple located in Khapi\u0303che\u0303 \u1e6cola, Patan (see, LAL0100 and LAL1780). According to TDN (s.v. khy\u0101k) some people believe that k\u0101lo (black) khy\u0101ka is a bad spirit, whilst seto (white) khy\u0101ka is good one. "}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/d8ee6de8-3d17-43a0-80be-1d058ede3fea">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "65188e4c-0285-47dc-9c90-b316ae3f3c70", "value": "gva\u0303ga\u1e25kva"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "367f6733-f44e-40ca-b9d3-3350ed645039", "value": "n. wall bracket (part of outer window or door frame with figural designs)."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/4e7c4649-e051-490e-8177-e700bbebce28">
+        <skos:prefLabel xml:lang="en-us">{"id": "8286d601-fc11-4ced-a279-9d080ba5fda9", "value": "tikijhy\u0101\u1e25"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "00569fa8-9c4b-4d68-bdc4-518e2222d66e", "value": "var. tik\u0101jhy\u0101\u1e25; n. latticed window."}</skos:definition>
+        <skos:exactMatch rdf:resource="http://localhost:8000/ce666f61-fb08-445a-be1b-7e96b1577f95"/>
+        <skos:altLabel xml:lang="dev">{"id": "a506a6c4-0aa3-4830-80e0-12866573f8db", "value": "\u0924\u093f\u0915\u093f\u091d\u094d\u092f\u093e\u0903"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/33aedf2f-6c7d-44f2-a65a-e7f1bfdf1aa0">
+        <skos:definition xml:lang="en-us">{"id": "805ab6a5-9a7e-4d47-816b-7e68e393a99a", "value": "[fr. S sthav\u012brap\u0101da \u0101rya] n. the senior-most of a b\u0101h\u0101\u1e25. He is responsible for performing the daily rituals and all other worships at the \u0101ga\u0303 of the b\u0101h\u0101\u1e25. See s.v. \u0101ju."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "f4376284-5ace-4ea6-8b86-737349936044", "value": "\u0925\u092a\u093e\u091c\u0941"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "19c54123-45d9-48ad-bddc-61bdd27a9f93", "value": "thap\u0101ju"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/72aa8e57-d87e-490b-831a-4d095a599b3f">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "bbf04407-5a55-4839-947e-f8b5009ad8f7", "value": "kil\u0101y"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "3ccff77c-5d80-4d81-be1a-5de98ea183f8", "value": "n. end wall (without the right to have a window)"}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/511f7e93-9b9e-4375-b10b-041f89b747ae">
+        <skos:prefLabel xml:lang="en-us">{"id": "44439d35-aba8-4a84-be98-d48f895abfaf", "value": "kul\u0101\u0303th\u0101\u0303"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "45023c8c-94d7-4de2-ac57-6ae77f2b6249", "value": "n. vertical beam of a latticed window."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/f182b209-75e3-4dd2-bfdf-0317b3724777">
+        <skos:prefLabel xml:lang="en-us">{"id": "f346332d-119f-4863-afa8-780e8342f37a", "value": "kayg\u016b"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "a8dd5c44-d8d0-4bb6-a7ae-2ace47740ff5", "value": "n. dried pea."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/64ca77fb-b595-44bb-b5fb-9d858669117e">
+        <skos:definition xml:lang="en-us">{"id": "1b233abd-d1e8-4e87-bfe7-f599122e5bf9", "value": "n. diagonal latticework."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "410aec0c-b7a1-49e5-9ede-2d204fdead14", "value": "ecika\u0303"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/4f07d561-d5c9-4ef8-a810-959e3d42325d">
+        <skos:altLabel xml:lang="dev">{"id": "467fa48f-ba58-48df-bb20-768e9e42a967", "value": "\u091c\u094d\u0935\u0932\u093e\u0928\u094d\u0939\u093e\u092f\u094d\u0915\u0901"}</skos:altLabel>
+        <arches:image xml:lang="en-us">{"id": "a90e0553-c26a-425f-b95b-0dc5289f7a62", "value": "concepts/LAL0100-rph003-2018_uA63QdE_Jvalanayaka.jpg"}</arches:image>
+        <dcterms:identifier xml:lang="en-us">{"id": "17894e60-3400-4e28-916b-bc6199bb071b", "value": "http://localhost:8000/4f07d561-d5c9-4ef8-a810-959e3d42325d"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en-us">{"id": "91f695c9-5989-47aa-a3d8-d71edf18aca9", "value": "jval\u0101nh\u0101yka\u0303"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "e3d30b96-09dc-4065-87c3-8b1b42214d9f", "value": "[Fr. S.] var. jv\u0101l\u0101nh\u0101yaka, jv\u0101l\u0101n\u0101yaka; n. ceremonial mirror encircled by flames. It is a symbol of prosperity and good fortune."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/89c862b5-4a17-4208-9ecd-06ca254c697d">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "90e9a840-7844-49a5-b937-bfd138da3c18", "value": "kvakh\u0101che\u0303"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "21013cdb-5109-4b5d-aaf1-a5b030990dad", "value": "n. house from which passage is provided to a courtyard."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/375bf804-35b4-49af-8dc2-f5c82893ef80">
+        <skos:definition xml:lang="en-us">{"id": "7f548710-8f24-4c4b-bc63-2d91b145c03d", "value": "adj. unripe, unbaked."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "5304b009-0b40-4005-9614-b1e4af507974", "value": "kaci"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/80a654f5-164a-49df-95c1-807e6738cbe4">
+        <skos:definition xml:lang="en-us">{"id": "15624b85-0dc7-40e9-a934-611b6fc38cad", "value": "n. processional route (around Kathmandu)."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "e403c964-181d-49ba-ad6d-5537d6f8cac7", "value": "up\u0101kh\u0101"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/91d19803-bd27-4e04-adf8-fe09c830d778">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "90b7bb87-6d2c-4a5b-a9be-a11c6b3054ea", "value": "a\u0303sa"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "c849d664-1900-46ab-bcce-939ae4e6c0a6", "value": "n. egg pattern (carving)."}</skos:definition>
+        <skos:altLabel xml:lang="en-us">{"id": "ca87428a-12aa-4a11-a9a0-6874d08e4a52", "value": "\u0905\u0901\u0938"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/3ed1bf3a-7e96-4adb-8892-3b8e5be848f7">
+        <skos:prefLabel xml:lang="en-us">{"id": "aab8e8e2-06a0-4047-829a-97c959025374", "value": "agi\u0303"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "03f4ac36-81b9-4f56-be1a-f41ef1097f3d", "value": "\u0905\u0917\u093f\u0901"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "4fa5add7-be47-4608-9178-933fc5ef6e1d", "value": "n. fire pit."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/87fbe85d-ff7f-466d-9878-25fc1c8fb19f">
+        <dcterms:identifier xml:lang="en-us">{"id": "bc4cf57f-0dd2-43ee-945e-f2682d8adf18", "value": "http://localhost:8000/87fbe85d-ff7f-466d-9878-25fc1c8fb19f"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "a25b7c44-63b0-4c20-960a-5ffa595ab800", "value": "b\u0101k\u016bjhy\u0101\u1e25"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "9caa0995-2972-4349-a0ee-94254820e010", "value": "\u092c\u093e\u0915\u0942\u091d\u094d\u092f\u093e\u0903"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/13bff92c-99bc-4ab0-b409-119be76dd62c">
+        <skos:altLabel xml:lang="dev">{"id": "604910b5-bca8-4433-b002-5e5497dcf948", "value": "\u0935\u0947\u0924\u0938\u093f\u0901"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "111afddc-f993-4137-a315-87e2cdc63b9e", "value": "vetasi\u0303"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "dc6fceaa-2a50-4511-9afa-5c4f914ab4cc", "value": "See, s.v. dha\u1e25m\u0101."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/bb4d35e1-a821-44e1-b399-a6b51114821c">
+        <arches:image xml:lang="en-us">{"id": "66846335-5b8e-4e79-89ff-61db2dd9e400", "value": "concepts/LAL0440_P_20190124_11_Akshyobhya.jpg"}</arches:image>
+        <dcterms:identifier xml:lang="en-us">{"id": "6200ec4b-fd77-4300-97c3-9c483f933549", "value": "http://localhost:8000/bb4d35e1-a821-44e1-b399-a6b51114821c"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "e93c7283-6dd7-4719-9e65-6b46303a597a", "value": "\u0915\u094d\u0935\u093e\u0903\u092a\u093e\u0903\u0926\u094d\u092f\u0903"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "8fc754ec-8b4b-461d-ac38-9afb0d2f92dd", "value": "[New.] var. kv\u0101padya, kv\u0101b\u0101ju; n. principal deity of a Buddhist monastery (b\u0101h\u0101\u1e25). Excluding one exception (see, Locke 1985, 516) the kv\u0101\u1e25p\u0101\u1e25dya\u1e25 is always a non-tantric deity, usually an image of the Buddha such as, Ak\u1e63obhya, \u015a\u0101kyamuni, Maitreya etc. (cp. Gellner 2001, 137).  "}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "12bc76af-301d-4db6-8133-a70799820f4c", "value": "kv\u0101\u1e25p\u0101\u1e25dya\u1e25"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/0e584a70-4e18-4ecd-8142-9380086fa7f5">
+        <skos:prefLabel xml:lang="en-us">{"id": "8914199f-3a97-40ae-a1f0-73d88a6ef2f6", "value": "ak\u0101pala\u0303"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "0cd508bc-116d-45b8-8c59-9b4729bbd99c", "value": "n. mallet to compress and provide the size of the ruffian."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "044a432f-870b-4826-b522-32faf288aedc", "value": "\u0905\u0915\u093e\u092a\u0932\u0901"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/a87a8c95-aa19-4c34-8ee6-56987e400844">
+        <skos:exactMatch rdf:resource="http://localhost:8000/c93c8999-670d-4ab9-aa59-80ba2553cae7"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "3a073d58-9671-4235-a116-f9ddaa702135", "value": "\u092d\u0942\u0938\u094d\u092a\u0930\u094d\u0936\u0928"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "849ed45c-c1db-4ba0-a46c-c12baf6eb12b", "value": "bh\u016bspar\u015bana"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "49de74ab-61c4-4e48-8362-143bbe47b5cf", "value": "See, s.v. bh\u016bmispar\u015bana."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/f2976f3c-2e9f-45ec-8643-e3f644f860cf">
+        <skos:altLabel xml:lang="en-us">{"id": "2d403c07-0ad3-4e74-b672-f363600277fd", "value": "\u0915\u094d\u0935\u093e\u0903\u092a\u093e\u0903\u091c\u0941"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "0f4eeb6b-3a0d-4119-afb0-f1d59002052b", "value": "[New.] n. hon. principal deity of a Buddhist Monastery (see, s.v. kv\u0101\u1e25p\u0101\u1e25dya\u1e25)."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "87d189ce-18b9-4a58-9970-f079a23b6e0c", "value": "kv\u0101\u1e25p\u0101\u1e25ju"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "4b6db326-d683-4020-902c-fe89d0b441b1", "value": "http://localhost:8000/f2976f3c-2e9f-45ec-8643-e3f644f860cf"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/fb144546-a91b-4b87-9b69-0b8afa3b45d9">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "babc98f4-64b0-470e-9ed2-0c5c85eaa9e1", "value": "ka\u0303c\u0101"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en-us">{"id": "e4648ef1-1040-474c-9b3e-a0522634c92f", "value": "n. black clay."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/bc8e60e4-c2c2-4b9e-ba39-6b51c2d9337f">
+        <skos:prefLabel xml:lang="en-us">{"id": "ebf1432d-db50-4e20-b44d-ad1b52c74751", "value": "cibh\u0101\u1e25"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "f73108a1-4a57-49f7-bd13-8c32e8c882ab", "value": "\u091a\u093f\u092d\u093e\u0903"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "a306872d-61e7-4f23-9be4-8b854031eef2", "value": "[New.] n. caitya."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/23cd2f48-a396-4360-9d1d-8d8d0dd33c7b">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "6cb0fed6-0e73-48d3-8ea4-c98ca8485e2e", "value": "digi"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "b77bd8a3-6f49-451d-8e5d-13d8db40bc9b", "value": "n. feast hall in a Buddhist monastery (b\u0101h\u0101\u1e25)."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "1244be4a-8ec8-424b-90cc-af7ae3dbe196", "value": "\u0926\u093f\u0917\u093f"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/a9776e17-d8e2-48c5-851c-d24ef849d331">
+        <skos:prefLabel xml:lang="en-us">{"id": "cc11d4fe-e70d-44f8-bab2-8f65dda5cc97", "value": "sinha\u1e25m\u016b"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <dcterms:identifier xml:lang="en-us">{"id": "9b43e8d4-9266-461a-80b3-a5cd00696a0b", "value": "http://localhost:8000/a9776e17-d8e2-48c5-851c-d24ef849d331"}</dcterms:identifier>
+        <skos:definition xml:lang="en-us">{"id": "f0998c77-fd30-4f90-8a68-916daf2eb17f", "value": "[New.] n. pagoda-shaped pot for keeping vermillion powder. It is usually depicted in a pair with jval\u0101nh\u0101yka\u0303."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "42fa3cea-e626-43d8-a213-6039635a797d", "value": "\u0938\u093f\u0928\u094d\u0939\u0903\u092e\u0942"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/a4cde915-dbcc-4515-a77b-9ea3c1d76439">
+        <skos:definition xml:lang="en-us">{"id": "bc7a90d2-51a0-4007-adb2-fe2225db5bc1", "value": "[S.] n. the gesture of \u2018boon-granting\u2019. This is performed with the palm held outwards and downwards, with all the fingers loosely outstretched or curved slightly inwards."}</skos:definition>
+        <dcterms:identifier xml:lang="en-us">{"id": "53bd85e0-26a0-47c1-a5b9-35c938641f68", "value": "http://localhost:8000/a4cde915-dbcc-4515-a77b-9ea3c1d76439"}</dcterms:identifier>
+        <skos:altLabel xml:lang="en-us">{"id": "7b732bf9-6e76-41c4-a737-a621ce542814", "value": "\u0935\u0930\u0926\u092e\u0941\u0926\u094d\u0930\u093e"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "da559dac-cc7b-4fa3-8c65-98c1468e8581", "value": "varadamudr\u0101"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/48310e97-8c4a-40d3-b821-fbf565f1db8e">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "e5c781ac-b873-4363-9de6-75693bed38ab", "value": "pakhi"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "51a51b6e-30a0-4f40-8cef-a85ee0f3a056", "value": "See, s.v. a\u0303ygui\u0303."}</skos:definition>
+        <skos:exactMatch rdf:resource="http://localhost:8000/2340b9fd-551e-4b34-a66b-e19475d7a3ad"/>
+        <skos:altLabel xml:lang="en-us">{"id": "5b35ef6a-e277-4121-a708-b212d7141ca5", "value": "\u092a\u0916\u093f"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/2340b9fd-551e-4b34-a66b-e19475d7a3ad">
+        <skos:prefLabel xml:lang="en-us">{"id": "98070576-ac04-4aac-973d-405a350d752d", "value": "a\u0303ygui\u0303"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "0bfd9c26-8b28-4e51-a173-7bc3c5e7c84e", "value": "n. rope line to hang clothes on."}</skos:definition>
+        <skos:altLabel xml:lang="en-us">{"id": "ad059a2f-8732-4d5b-bc01-709925d1ae3f", "value": "\u0905\u0901\u092f\u094d\u0917\u0941\u0907\u0901"}</skos:altLabel>
+        <skos:exactMatch rdf:resource="http://localhost:8000/48310e97-8c4a-40d3-b821-fbf565f1db8e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/51876322-8917-428b-96c7-ae53d5f6a854">
+        <skos:altLabel xml:lang="dev">{"id": "4e6304eb-3991-477a-bdc9-27c209aa2a72", "value": "\u091a\u0915\u094d\u0935\u093e\u0926\u094d\u092f\u0903"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "ab555406-411f-4ae2-8b73-a63452d115b8", "value": "var. cukab\u0101h\u0101\u1e25dya\u1e25, cakv\u0101dya\u1e25; n. vernacular name of M\u012bnan\u0101tha."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "afb946fb-72d3-40e4-b215-5d1008043958", "value": "cakv\u0101dya\u1e25"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:title xml:lang="en-us">{"id": "96095294-19e5-4507-8b3f-e3d7b8c9ed8e", "value": "DANAM glossary"}</dcterms:title>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/ce666f61-fb08-445a-be1b-7e96b1577f95">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "2baa95f5-dbad-45ae-8ba9-23d7e6748b43", "value": "\u0101\u0303kh\u012bjhy\u0101la"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "9a9311f7-487b-411e-bb0b-a4fb26f59d9e", "value": "\u0906\u0901\u0916\u0940\u091d\u094d\u092f\u093e\u0932"}</skos:altLabel>
+        <skos:exactMatch rdf:resource="http://localhost:8000/4e7c4649-e051-490e-8177-e700bbebce28"/>
+        <skos:definition xml:lang="en-us">{"id": "0d1ea81d-c9a8-4357-afff-967ce563daf1", "value": "See, s.v. tikijhy\u0101\u1e25."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/370e109d-fd51-4b4a-9a8a-085355af2631">
+        <skos:prefLabel xml:lang="en-us">{"id": "52bfd704-a157-4f9a-a0af-a5719b6e2776", "value": "ga\u1e25che\u0303"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "07e07bd1-39fe-4e21-9a2b-dde24f404a9d", "value": "n. house with rooms giving on to each other."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/397a013b-0a08-47e8-ba23-8ed53b2eca7f">
+        <dcterms:identifier xml:lang="en-us">{"id": "bf9bc2bf-866c-4940-91eb-2a8e09e7730e", "value": "http://localhost:8000/397a013b-0a08-47e8-ba23-8ed53b2eca7f"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "cf7267b6-5f00-4bb8-8ff6-6f0490a1f6e2", "value": "\u0924\u094b\u0930\u0923"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "9edfb52b-60d0-4b48-8a0e-822a6112a52f", "value": "tora\u1e47a"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "4704a465-380d-4e10-991e-8dc1201f9cd2", "value": "[S.] var. toran; n. the ornamented arch of a door or gateway. "}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/14715d41-6ad1-472f-a63b-f67a55379d8b">
+        <skos:definition xml:lang="en-us">{"id": "45eb259e-4b55-4935-9c3d-6c1de871fa26", "value": "n. furnace of smith."}</skos:definition>
+        <skos:altLabel xml:lang="en-us">{"id": "47f20808-0bc9-427e-82dd-b7835253de92", "value": "\u0905\u092b\u0903"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "d887e267-c834-470c-92ee-2ecb61954ce1", "value": "apha\u1e25"}</skos:prefLabel>
+        <skos:exactMatch rdf:resource="http://localhost:8000/9cd2e29c-17a4-418e-a08d-fd2e538709c3"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/87388dd4-f940-4372-b26a-15b0151a4940">
+        <skos:exactMatch rdf:resource="http://localhost:8000/85990f68-49f6-48dd-937b-cb3711d86347"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "8eb5e5f6-ea3b-4ee5-a3fc-354aa5321d23", "value": "asa"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "93b41e1c-3214-4e75-8d49-3685eed5bc29", "value": "See, s.v. a\u0303l\u0101y."}</skos:definition>
+        <skos:altLabel xml:lang="en-us">{"id": "52bb40a6-b105-4049-b2ed-d7c4a984a166", "value": "\u0905\u0938"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/7df60e89-9959-4e90-8366-e06f5253d933">
+        <skos:definition xml:lang="en-us">{"id": "286f8d14-cd54-4dd4-a535-42cd0e21dfad", "value": "n. 1) perforated batten (latticed window)."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "bfb1731b-385d-4172-9f1e-2cad2294cece", "value": "ek\u0101"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/d0bb50aa-280c-4881-84a6-096ebcb1212d">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "03540361-7d1c-4fad-87d5-ccd16d66f26c", "value": "\u0906\u0917\u0901\u091b\u0947\u0901"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "1d9b5dc5-c2a4-454d-8b85-5fe2d605ab37", "value": "\u0101g\u00e3ch\u1ebd"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "64135e91-bedf-418f-a31f-883304592dba", "value": "[Fr. S. agama] var. \u0101ga\u1e43che, \u0101gache, agache; n. shrine of esoteric clan deity. It is an inner sacred place, house or room accessible only to initiates. "}</skos:definition>
+        <dcterms:identifier xml:lang="en-us">{"id": "01baa6c6-ef26-433a-a185-a0ff4b3efe9e", "value": "http://localhost:8000/d0bb50aa-280c-4881-84a6-096ebcb1212d"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/b44cd53a-93c2-469a-b11f-938df76a0eb5">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "21b6efe5-8b6a-406b-80d0-caabcb5352bd", "value": "n. unbaked brick."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "f9fe2a53-1513-4825-b10e-776458edc89d", "value": "kaci-ap\u0101"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/0a7d3349-4503-4b75-a8af-2514898a3a43">
+        <skos:prefLabel xml:lang="en-us">{"id": "2a26b965-4326-4b53-9ff3-aa2f1283c6a7", "value": "kh\u0101l-ap\u0101"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "4f4a2f5a-5a6d-49a1-ae16-314b69234683", "value": "n. cornice brick with rounded moulding."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/3626e546-e4bd-4b39-936a-cefb5919146a">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "b8a756d4-7219-4fd7-bcf2-1d8673a5428d", "value": "n. foundation pile (mod constr)."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "2c43ef9a-5008-4408-a22f-2c83d0094531", "value": "kisi"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/0baaca40-5bce-4a2d-aa8d-3c136ecfc7d6">
+        <skos:altLabel xml:lang="en-us">{"id": "dc3ca902-8b78-4776-9dbf-92a7eb4aaca9", "value": "\u092e\u0924\u0915\u0932\u0901\u0932\u093f"}</skos:altLabel>
+        <skos:exactMatch rdf:resource="http://localhost:8000/9092141c-b329-4e87-9006-6c252c20d409"/>
+        <skos:definition xml:lang="en-us">{"id": "1d3c82a8-f754-4331-b5fa-10c4b5af20fb", "value": "See, s.v. \u0101lamata and matakala\u1e25."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "3d6e464c-47a9-4857-a899-b17d096a15f2", "value": "matakala\u0303li"}</skos:prefLabel>
+        <skos:exactMatch rdf:resource="http://localhost:8000/6095af98-51aa-43f2-b0f2-5cd99f8e706a"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/ffdeb09c-12cb-46f9-a873-07c3e8dc6d9e">
+        <skos:prefLabel xml:lang="en-us">{"id": "8a7f1f72-3c87-464c-9068-7c2ec2843496", "value": "bhuvana"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "12f269ea-ba73-4ef1-a789-d7a28105b7f5", "value": "n. the world, earth (generally 3 worlds are reckoned, see tri-bhuvana-and bhuvana-traya),but also 2 (see bhuvana-dvaya), or 7 or 14."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/0a5acb6c-be21-49c4-923f-49345f23390f">
+        <skos:prefLabel xml:lang="en-us">{"id": "c8ad9146-43eb-4d72-9cea-1a8b1eb80381", "value": "gu\u0303bajjhy\u0101\u1e25"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "e678e20e-bdcb-4c1c-92f9-3b188aa2d067", "value": "n. arched window."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/2b43badd-76ba-4b5e-bdd2-b1346c1f9c02">
+        <skos:prefLabel xml:lang="en-us">{"id": "8b683e65-2ffe-4ace-b280-6141fca8e866", "value": "\u0101c\u0101\u1e25 luyegu"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "7b668adf-1ae9-48b3-ab59-eb69ab3be13f", "value": "http://localhost:8000/2b43badd-76ba-4b5e-bdd2-b1346c1f9c02"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "6068d6d3-7465-4c1a-ae12-0411b3b57f0e", "value": "\u0906\u091a\u093e\u0903 \u0932\u0941\u092f\u0947\u0917\u0941"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "b506d829-e001-455c-a68e-8474a989b640", "value": "var. \u0101c\u0101\u1e25 luigu; n. The initiatory ritual in tantric Buddhism that formally makes a Vajr\u0101ch\u0101rya eligible for conducting secret tantric worships. It is called vajr\u0101c\u0101rya-abhi\u1e63eka in Sanskrit."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/2bb06fac-10cf-466f-bd7d-5e921e533637">
+        <skos:prefLabel xml:lang="en-us">{"id": "061057ce-6405-4aad-be81-031a22b1c691", "value": "n\u0101\u1e25gva\u1e25"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "cb9ceaeb-f181-4e24-9e35-18178d80dd22", "value": "\u0928\u093e\u0903\u0917\u094d\u0935\u0903"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "8fb5532f-2695-45f4-a408-6db6c134a9e1", "value": "http://localhost:8000/2bb06fac-10cf-466f-bd7d-5e921e533637"}</dcterms:identifier>
+        <skos:definition xml:lang="en-us">{"id": "103b50ba-799b-40f7-a9a0-5080bded7908", "value": "[New.] var. n\u0101ga\u1e25, n\u0101\u1e25gvala; n. raised or embossed design of a snake usually found on caityas."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/a0024cba-1055-4f99-bbe2-b8a9cc3b9b62">
+        <dcterms:identifier xml:lang="en-us">{"id": "17a846da-a5f5-4514-8f3a-39816e4b5363", "value": "http://localhost:8000/a0024cba-1055-4f99-bbe2-b8a9cc3b9b62"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en-us">{"id": "1ae53390-301e-4588-ae35-f715e5a85f14", "value": "a\u1e63\u1e6das\u0101hasrik\u0101"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "747e9b95-74fc-438f-889c-af658f811489", "value": "\u0905\u0937\u094d\u091f\u0938\u093e\u0939\u0938\u094d\u0930\u093f\u0915\u093e"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/63c6b206-0406-42a4-ace3-587be40dc35c">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "15b91a8f-1876-477a-a697-d7a54895b638", "value": "\u092c\u093e\u0939\u093e\u0903"}</skos:altLabel>
+        <arches:image xml:lang="en-us">{"id": "f9ed4ed4-5ce6-43d3-bf86-f4bc0ed037dc", "value": "concepts/LAL0390_P_20190126_10_Hakha_Baha.JPG"}</arches:image>
+        <dcterms:identifier xml:lang="en-us">{"id": "790a533e-92d3-49bb-8dd0-35a8f7f2061b", "value": "http://localhost:8000/63c6b206-0406-42a4-ace3-587be40dc35c"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en-us">{"id": "c08d0bee-8b92-4104-b205-15da17b543ef", "value": "b\u0101h\u0101\u1e25"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "a243c374-a3bf-4e2a-a983-6676094e7cb3", "value": "[fr. S. vih\u0101ra] var. vah\u0101ra, b\u0101h\u0101ra, b\u0101h\u0101la, bah\u0101l, bah\u0101. b\u0101h\u0101; n.  b\u0101h\u0101\u1e25 (vih\u0101ra) is a Buddhist monastery, where Buddhist (supposedly celibate) monks or nun live. However, according to Locke (1985, 3) even before the Malla period by 1093 (NS 213) such Buddhist monasteries were inhabited by Vajr\u0101c\u0101ryas, master of Buddhist tantric traditions,  who were most probably householders. In the context of the Kathmandu Valley, the term b\u0101h\u0101\u1e25 refers to a building, an architectural structure inhabited by a sa\u1e45gha of initiated \u015a\u0101kyabhik\u1e63us and Vajr\u0101c\u0101ryas (Locke 1985, 4). Architecturally speaking, the Newar Buddhist monasteries are defined mainly by three crucial elements; a principal deity, caitya in front of the main deity and shrine of esoteric deity often placed upstairs in an enclosed room (cf. Gellner 2001, 137). "}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:identifier xml:lang="en-us">{"id": "c1c3c292-9d74-4f48-b5bf-6f706ba45d4d", "value": "http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"}</dcterms:identifier>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/6aac0632-9e59-40a0-99ef-4482b0a0d7cb">
+        <skos:prefLabel xml:lang="en-us">{"id": "ac9a4667-b74d-43cc-b307-761dc8372777", "value": "p\u0101suk\u0101jhy\u0101\u1e25"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "b050202e-dc00-4e53-889d-22f498c9b941", "value": "\u092a\u093e\u0938\u0941\u0915\u093e\u091d\u094d\u092f\u093e\u0903"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "5ed5cf88-de8c-40ca-86ed-e567e91d52fe", "value": "var. pas\u016bk\u0101jhy\u0101\u1e25; n. window with a row of five small openings"}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/09bd97e3-f0d7-4fcc-a073-9901df005cd6">
+        <dcterms:identifier xml:lang="en-us">{"id": "82c3fa3b-1039-4c59-8af3-b33b36c87418", "value": "http://localhost:8000/09bd97e3-f0d7-4fcc-a073-9901df005cd6"}</dcterms:identifier>
+        <skos:altLabel xml:lang="dev">{"id": "6f587974-f10c-4575-9ad1-92cc3a257ccb", "value": "\u092c\u091c\u094d\u0930\u0927\u093e\u0924\u0941 \u092e\u0923\u094d\u0921\u0932"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "6bc2d138-ab0b-41fd-bdfa-4acf6020a7b2", "value": "vajradh\u0101tu ma\u1e47dala"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "61d1c66d-5d7c-4630-b47a-945dc6372418", "value": "[F. S. vajradh\u0101tuma\u1e47\u1e0dala] var. bajradh\u0101tuma\u0303\u1e0dala, bajradh\u0101tuma\u1e0da\u0303g\u016b; n. platform with a vajra design."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/3b9cc18a-cc02-463a-bd72-87686ee2d37d">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "6b33cbb4-8eea-42c7-b098-20fe24e61e4b", "value": "\u092d\u0917\u093f\u0901"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "a2e5d5cc-f4f1-47e0-82a2-b058c63c2dff", "value": "[New.]; n. tapering of a st\u016bpa or ci\u0303bh\u0101\u1e25."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "85903696-252a-4df2-a6b0-2cde1feca6f2", "value": "bhagi\u0303"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/5d1d2830-046a-41d0-9b9d-91f177faaa72">
+        <skos:definition xml:lang="en-us">{"id": "5ea076aa-148d-4c9f-a6e5-a3d6a8432f28", "value": "n. brace and bit."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "d8b0de39-0fa9-4b16-806c-bb9d4928c1a6", "value": "batu"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c9be77c3-4ae5-4da3-a3ab-8bf0725356bf">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "11fe55d4-46f7-44ec-a5c3-c56ae3c5d891", "value": "kapi"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "b99121ef-bfd8-4217-8418-c490bf4b603f", "value": "n. 1) inner corner of a wall. 2) narrow place."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/9de7309d-a129-4c9b-8c57-09fd91cfa3ad">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "5ad4050c-a579-4041-97e0-4fd8a33f1928", "value": "kvaphya\u1e25"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "1487f275-c39e-47c0-a305-8fea6c76b8bd", "value": "n. decorative base of a chariot; stylized frill."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/00cc2d5c-e938-4670-852c-c66457176b38">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="en-us">{"id": "7a3048ee-f2e1-447f-9de0-c8526e8b7744", "value": "\u0906\u0924\u093f"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "ff0656fa-a49a-47dc-8028-9c6d1d62af1d", "value": "var. \u0101rati, \u0101\u0303ti; lintel (with the socket of the door pin)."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "8ad98d8b-fe4a-47c1-91af-e92817729269", "value": "\u0101ti"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/e960074e-3557-4316-a1cb-6d5e8eca43ca">
+        <skos:prefLabel xml:lang="en-us">{"id": "c5e060ad-7351-4aef-b5f0-0a291441e910", "value": "khic\u0101kha\u1e25"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "a05abd19-e6bb-4cc3-a3c2-2c1e955caebb", "value": "n. base landing for a staircase."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/d46a06b0-f5f6-49eb-b682-999d82f12543">
+        <skos:altLabel xml:lang="en-us">{"id": "cff1af33-59ea-4b14-b16b-a672a5fccd18", "value": "\u0905\u0938\u094d\u0924\u0932\u094d\u0935\u0939\u0941\u0901"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "08646c93-a0a7-48d5-aa96-f8cec4c1664f", "value": "astalvahu\u0303"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "036c83fc-ab3b-45ed-a7ce-038b4c64f074", "value": "n. first foundation stone."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/f49de3a9-35aa-44ce-88b6-4cd59dc3f4ec">
+        <skos:definition xml:lang="en-us">{"id": "c5022b30-6411-4d2d-bd28-89c8f5970a48", "value": "n. course of bricks without clay or concrete."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "8897f7aa-aad2-490c-91c9-5e0d449f06f2", "value": "asu"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="en-us">{"id": "1402e7bb-7f3f-450e-a298-206b5e282182", "value": "\u0905\u0938\u0941"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/49701317-6690-44a2-9f9b-a99720509494">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "d09e6fdf-9954-41a0-83d0-e8c2eef5b591", "value": "agi\u0303matha\u1e25"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "bf066593-afb0-453b-a7aa-f54ad5215b64", "value": "[Fr. S. agnima\u1e6dha] var. agi\u0303thala, agiga\u1e25; n. sacred eternal fire."}</skos:definition>
+        <skos:altLabel xml:lang="en-us">{"id": "10751675-a742-4f8a-84b6-4a94604d72af", "value": "\u0905\u0917\u093f\u0901\u092e\u0925\u0903"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:description xml:lang="en-us">{"id": "c2221029-52f6-47e6-8a65-d6781bcb1cf1", "value": "The glossary implies to the words and their meanings within DANAM"}</dcterms:description>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/4c928e0b-dacc-4908-b0de-4336a038d661">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "83dc558f-69b8-44c5-8fde-34875c8329ee", "value": "n. wood for chariot wheels."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "2749aa59-06e6-4cc9-8bb9-e5fb314ffca8", "value": "kh\u0101\u0303s\u0101"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/71850730-0f47-4d8b-b66c-9dbef7542a9a">
+        <skos:prefLabel xml:lang="en-us">{"id": "277c20ca-4e9b-4ba3-bd1b-ad9843d593d9", "value": "gathic\u0101"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "2dcda3ad-132b-4a9f-89bf-95861e08a402", "value": "n. blackish clay (for bricks, post etc.)"}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/cace75b3-17cd-4a69-ae44-7f14a1ed5c8c">
+        <skos:altLabel xml:lang="dev">{"id": "078cb99a-1ce5-4b61-8c65-0db95960cc36", "value": "\u0924\u0941\u0932\u0938\u0940 \u092e\u0920"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "49b1a050-dff1-4059-b1ec-f0aeac221fb2", "value": "[F. S.] a little raised place where the sacred plant, ocimum basilicum (tulas\u012b) is grown for worship."}</skos:definition>
+        <dcterms:identifier xml:lang="en-us">{"id": "bf094cc8-73a5-4be2-85b1-7a6b0e388029", "value": "http://localhost:8000/cace75b3-17cd-4a69-ae44-7f14a1ed5c8c"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en-us">{"id": "9e182c7b-4558-407a-b38f-4f5099737213", "value": "tulas\u012b ma\u1e6dha"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/a4ccfe5a-1493-4819-b470-421d8fc65594">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "3b4bbdd7-1500-4201-955d-ab0f6b81c399", "value": "\u0924\u094d\u0930\u093f\u0916\u093e"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "f99fd344-8729-4012-ae33-afcf10d933cf", "value": "trikh\u0101"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "d8ff0258-2352-4fd8-8f03-dd2a713377a8", "value": "n. window with a row of three small openings"}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/f327489e-803d-4c20-ad85-0dc1b398c7ff">
+        <skos:prefLabel xml:lang="en-us">{"id": "67f786f9-ade4-4a8c-82e4-0a6771aed9dc", "value": "sa\u1e45gha"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "ae1e48c0-2453-4dc7-9940-420ec8703da2", "value": "[S.] var. sa\u1e45gha; n. number of people or inhabitants living together. This term most commonly used to refer to the order of Buddhist monks and nuns. In the context of Newars in the Kathmandu Valley, each of the b\u0101h\u0101s is inhabited and tended by initiated householder \u015a\u0101kyabhik\u1e63us and Vajr\u0101c\u0101ryas, called Bare. They and their families constitute the sa\u1e45gha of their respective b\u0101h\u0101\u1e25 (cp. Locke 1985, 3)."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "a71865fe-9f08-43eb-bd62-5dd152fb7aa7", "value": "\u0938\u0919\u094d\u0918"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "681c1f07-e9dc-4114-9a51-8c410d5953dc", "value": "http://localhost:8000/f327489e-803d-4c20-ad85-0dc1b398c7ff"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/5f4c2f35-5b08-4b3d-a311-2e454a82d854">
+        <skos:mappingRelation rdf:resource="http://localhost:8000/4471fb2e-9707-4219-940e-1acf01c97b15"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "598ace93-877a-42f2-a9f4-e2d9aa8e1bbe", "value": "n. window with 45-degree grillwork (see also s.v. icik\u0101)."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "a1720e02-8676-415f-be12-3f3bbd3feef6", "value": "icik\u0101jhy\u0101\u1e25"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/ef6c268d-89ed-42b3-bad0-53d444b3420d">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "3a7c09c8-3dd8-474e-9493-480b1f3fbc95", "value": "atha\u1e25"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "bd175688-bc0f-417e-961a-2c4a07258d9c", "value": "n. earthen pot (for washing clothes)."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/5856d44e-7b96-4932-ad2c-a27cfd991990">
+        <skos:definition xml:lang="en-us">{"id": "e8e194fd-5a67-4865-8736-07788b9ebc3d", "value": "[S.]; n. a musical instrument, a sort of small drum shaped like an hour-glass and held in one hand.\n"}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "953959a7-5fe0-43ba-bdbf-f0ebf5be8f29", "value": "\u1e0damaru"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "04fe75ee-198d-46a5-9dc8-81cb21c47ab2", "value": "\u0921\u092e\u0930\u0941"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/da02a13b-8eed-4892-bbff-097923815013">
+        <dcterms:identifier xml:lang="en-us">{"id": "e2ec49c0-1cd1-484e-9e7c-b1a339b37f9a", "value": "http://localhost:8000/da02a13b-8eed-4892-bbff-097923815013"}</dcterms:identifier>
+        <skos:definition xml:lang="en-us">{"id": "bff6b230-9d58-41db-b1ef-e5efe922e5ab", "value": "[Fr. S. sattra] var. satta\u1e25, sattal, sattala, satagu\u0303; n. religious building (space for a feast or shelter). According to Slusser (1998, vol. 1, 146) satta\u1e25 is a third type of community shelter, other two being dharma\u015b\u0101l\u0101 and p\u0101\u1e6di. Satta\u1e25s are more specifically the community spaces of gu\u1e6dh\u012b associations, which are typically long, rectangular, two-storey buildings."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "a1042b6e-4195-4de1-ae59-b0aff751f78a", "value": "sata\u1e25"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "9daa8971-fea8-458d-b637-ad76aa3fc520", "value": "\u0938\u0924\u0903"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/d33556ec-32e2-4576-b8a3-770170fa4259">
+        <dcterms:identifier xml:lang="en-us">{"id": "ef38dac5-23e5-46d9-ac5f-63fa919e1c1c", "value": "http://localhost:8000/d33556ec-32e2-4576-b8a3-770170fa4259"}</dcterms:identifier>
+        <skos:altLabel xml:lang="dev">{"id": "ae403f02-eadc-4e7f-83dc-295de9f4f1ed", "value": "\u0915\u0935\u0901"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "231b36c0-d851-4650-8eae-f6dfd0ea24b1", "value": "[New.] n. evil spirit in the shape of skeleton. This figure generally can be found painted on the wall, left-hand side of the main entrance of a temple in Kathmandu Valley.  For example, this can be observed at \u015avetabhairava temple located in Ikhalakhu and Khapi\u0303che\u0303 Bhairava temple located in Khapi\u0303che\u0303 Tola, Patan (see, LAL0100 and LAL1780). "}</skos:definition>
+        <arches:image xml:lang="en-us">{"id": "de5d2116-2e9d-41d5-b674-ad7e25239f2a", "value": "concepts/LAL1780_P_20190329_25_Kava.JPG"}</arches:image>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "b3692ef2-687d-44ca-8d34-e3c4f8981799", "value": "kava\u0303"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c8dc5120-b713-41c6-ae11-cc7c36f83ee7">
+        <skos:altLabel xml:lang="dev">{"id": "5a148de5-68ac-4526-81e7-341388cc8860", "value": "\u092a\u0938\u0941\u0915\u093e"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "9a8b7c72-5665-418c-924b-fe5a45e82522", "value": "pasuk\u0101"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "bb643eb2-c970-4d67-8d1a-bbfb998f12bf", "value": "[fr. S. pa\u00f1cas\u016btrik\u0101]; n. ritual garland of five-colored thread worn during p\u016bj\u0101s."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/631871b7-c662-4268-891d-d6b2170b3593">
+        <skos:prefLabel xml:lang="en-us">{"id": "0f15b4c6-9119-48f6-baa0-7c4c3c0577a0", "value": "kat\u0101\u0303c\u0101"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "5406ddfc-952b-4b6e-9097-8c43be1b20df", "value": "n. spacer for the plumb bob."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/86eae930-35bf-4e9f-87b2-1abeb0001f47">
+        <skos:definition xml:lang="en-us">{"id": "406aa133-25e2-40ec-96b2-0ce5623f9dae", "value": "[S.] n. word of blessing, can be used as apprecatio, in which case it means 'good fortune' (Pant and Pierce 1989: 12), can be used as a prefix to names of persons and gods, in which case it means 'venerable' or 'glorious' respectively. The number of \u015br\u012bs used varies, depending on context."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "97edb018-cef4-4ffa-86bf-84a2469714f2", "value": "\u015br\u012b"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/9729f3d6-7b23-48e4-bfe2-655eb0d7a9e9">
+        <skos:prefLabel xml:lang="en-us">{"id": "0715c8e7-f45e-49cd-8292-dc13e1c0d520", "value": "buddhajayant\u012b"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "814dbf46-e1a5-4b7f-ba8a-9fe3d348fedd", "value": "The Buddhajayant\u012b, also known as Buddha P\u016br\u1e47im\u0101 and Buddha Day, is celebrated to commemorate the birth, enlightenment (Buddhahood), and death (parinirv\u0101n\u1e47a) of Gautama Buddha in the Ther\u0101v\u0101da or southern tradition.  Lord \u015a\u0101kyamuni Buddha was born on the full-moon day of Vai\u015b\u0101kha (the first month of Vikrama era), got enlightenment on the same day in 588 BC and passed away on the same day in 543 BC. This auspicious day is, therefore, a trisamyoga (threefold blessed) and is celebrated to mark the birth anniversary, the day of enlightenment and the day of mah\u0101parinirv\u0101\u1e47a (demise) of Lord Sakymuni Buddha."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/77bc3237-e6b8-4721-a054-6bc2216f9711">
+        <skos:definition xml:lang="en-us">{"id": "813855a7-446d-4970-8820-aa309b632e36", "value": "[New.] var. degala, degu; n. temple "}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "80d8e50f-5ce6-4110-b20e-df1163261c2b", "value": "dega\u1e25"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "673abefe-24df-4fcf-a986-570d61c75fdb", "value": "http://localhost:8000/77bc3237-e6b8-4721-a054-6bc2216f9711"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "c1263a9d-1ac8-4571-bc6e-c58eeb8488a8", "value": "\u0926\u0947\u0917\u0903"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/fc550d37-9d2e-4791-8d14-08bc4b762796">
+        <skos:definition xml:lang="en-us">{"id": "97b91c3b-1896-49ea-a632-5d2c4c3e63e4", "value": "n. header (brick)."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "dbfb67eb-9201-4e6d-bb30-511a472ca3f5", "value": "kil\u0101y-apa"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/808d71d0-1af5-4279-9335-dd0cab9be65f">
+        <skos:prefLabel xml:lang="en-us">{"id": "41c1b449-a853-4fa1-8e17-e7082494b2c6", "value": "ap\u0101"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="en-us">{"id": "aade4b34-720a-4360-ae44-8502f13ef134", "value": "\u0905\u092a\u093e"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "62507e8e-4eeb-479c-9b68-6e7c59d7f135", "value": "var. app\u0101; n. brick."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/b0745f65-318b-412f-80d6-514951e913d4">
+        <skos:prefLabel xml:lang="en-us">{"id": "08a98ca4-65b3-4f8d-b92f-d3d35aaafa76", "value": "ile"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "8526ebbb-d438-4b3d-81e8-dfabf875db14", "value": "vt. 1) to smear, to besmear. 2) to paint, to white-wash. 3) to apply oil or ointment."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/31163a51-2c79-4319-80cc-dbcfb694082e">
+        <skos:definition xml:lang="en-us">{"id": "5275d699-9b9e-491d-94f6-dabe02637f67", "value": "n. cornice brick."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "8a6ee25c-3c8a-4883-b8af-c3191830e0dc", "value": "akul\u0101\u0303"}</skos:prefLabel>
+        <skos:altLabel xml:lang="en-us">{"id": "f3fe3878-22c3-41b1-8b7f-e611b06b4117", "value": "\u0905\u0915\u0941\u0932\u093e\u0901"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/13f48532-2902-40bd-96b9-03a8ebdde77b">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "bbb60486-541b-49bf-8e4e-4851efcaa486", "value": "\u0927\u0941\u0938\u0903"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "58d0aeca-dcf2-44ae-8e2c-ac672f66751f", "value": "n. members of Vajr\u0101c\u0101rya caste who collect gold dust from goldsmiths."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "70afa77f-84c8-4eac-a320-7f7c9397de60", "value": "dhusa\u1e25"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/7f46a3c8-5545-428c-960f-810b1e75da9a">
+        <dcterms:identifier xml:lang="en-us">{"id": "647efadf-b17a-441f-b42b-2398e376ce8e", "value": "http://localhost:8000/7f46a3c8-5545-428c-960f-810b1e75da9a"}</dcterms:identifier>
+        <skos:definition xml:lang="en-us">{"id": "b2f2b941-7a86-432e-965a-0329140d963d", "value": "[S.] n. serpent. In Hinduism, Buddhism and Jainism, the n\u0101gas are divine, semi-divine deities, or a semi-divine race of half-human half-serpent beings that reside in the netherworld (p\u0101t\u0101la) or in the world of n\u0101gas (n\u0101galoka) and can occasionally take human form. They are principally depicted in three forms: wholly humans with snakes on the heads and necks; common serpents or as half-human half-snake beings. Vi\u1e63\u1e47u is originally portrayed in the form sheltered by \u015ae\u1e63an\u0101ga or reclining on \u015ae\u1e63a, but the iconography has been extended to other deities as well, e.g., \u015aiva is often shown garlanded with a snake and the serpent is a common feature in Ganesha iconography."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "c2e76cdc-7adf-4a13-b326-688a598b8ec7", "value": "\u0928\u093e\u0917"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "4fc1d660-37fe-4141-be32-06e8cc56ff1e", "value": "n\u0101ga"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/bf6ba586-0a1b-4c22-9daa-ffc94e645935">
+        <skos:definition xml:lang="en-us">{"id": "7cfccd85-6ae5-4ec7-84e3-12eac298cb63", "value": "n. private passage to a courtyard."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "9f9775cb-ea07-4383-ba4d-6482ab3bac4f", "value": "kvakh\u0101"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/2639676e-ad41-4013-b224-015ea156d107">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "f04b8631-91a1-4c56-aaa7-e718836ffd99", "value": "kul\u0101\u0303"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "af947a83-c6d3-45c5-902f-e6b7458854a5", "value": "n. 1) window cornice. 2) stepped pattern (of cornice)."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/ab4e0a4c-71b7-44f3-af13-040b904cdfd4">
+        <skos:definition xml:lang="en-us">{"id": "1c627e6d-2ed6-4add-b429-647bd152267e", "value": "n. stone slab above the first foundation stone."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "ab7a3db2-83db-4d73-8aea-2bb62b892326", "value": "k\u0101ule"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c28a8bbc-c856-4d47-987b-a50578d7c617">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "7a44ebb1-122b-43bf-bbcc-b0ab87144ad9", "value": "gva\u0303"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "aefa2a4c-133c-4c33-87dc-d1a8e5e9dcf9", "value": "n. name of a caste engaged in stirring the cremation fire."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/1df8dfc7-b383-455a-8510-7f480e66f797">
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "ef5d2d6b-a64d-4072-9ca8-8257bc92c7dc", "value": "khic\u0101khva\u1e25"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en-us">{"id": "72d33db5-c5ad-4b42-a614-b68cbb405bb6", "value": "n. lit. \"dog's paw\", dog's paw pattern on the dhali\u0303mva\u1e25."}</skos:scopeNote>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/94eb75b9-9b0b-483b-a999-88e544fb5819">
+        <dcterms:identifier xml:lang="en-us">{"id": "585f7158-6383-4edb-97e9-13fcdc783e9d", "value": "http://localhost:8000/94eb75b9-9b0b-483b-a999-88e544fb5819"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en-us">{"id": "06ebb7bf-e866-4881-8437-1688d50ca72e", "value": "\u015bikhara"}</skos:prefLabel>
+        <skos:definition xml:lang="en-us">{"id": "c0d37e66-83c6-4b34-8d8e-72ee01bce8b1", "value": "[S.] var. \u015bikhar, sikhar, sikhara;  this term, literally \"mountain peak\", refers to the rising tower in the Hindu temple architecture of North India and Nepal and also often used in Jain temples. "}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "3befc186-cc19-4f97-a9e4-2c43715003d4", "value": "\u0936\u093f\u0916\u0930"}</skos:altLabel>
+        <skos:related rdf:resource="http://localhost:8000/e4106297-d57e-4b73-b9a5-1f13afb3b719"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c09c9891-8203-4812-8788-913623d71be6">
+        <arches:image xml:lang="en-us">{"id": "010d4ae5-bfbf-4039-9406-a931cc5ca9f6", "value": "concepts/LAL0933-002_P_20181127_inr9aiw_hiti.jpg"}</arches:image>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "df44447b-3b21-459d-9b06-aacdef6e7fbb", "value": "[New.] var. hi\u1e6di, hiti; n. spring of water or watering-place."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "834b9e8f-c350-4952-80e2-3aa78505f7e2", "value": "hiti"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "fbe1c2db-7d00-433b-a577-030351f502c5", "value": "\u0939\u093f\u0924\u093f"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "b4eae211-03e7-4601-84dc-f872120b7b90", "value": "http://localhost:8000/c09c9891-8203-4812-8788-913623d71be6"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/93d3944e-2657-430f-9954-894bb4e193e0">
+        <arches:image xml:lang="en-us">{"id": "0e777f58-ee2d-402c-b6c7-5893bf164155", "value": "concepts/LAL1600-015_P_20190307_0y_Linga.JPG"}</arches:image>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "c6b39d14-1858-45fa-b152-8d281924ccd3", "value": "li\u1e45ga"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "8cd98def-a4b0-4001-9d6f-65ab6f425101", "value": "http://localhost:8000/93d3944e-2657-430f-9954-894bb4e193e0"}</dcterms:identifier>
+        <skos:definition xml:lang="en-us">{"id": "a324e594-c8d7-4529-8932-385a284c4335", "value": "[S.] n. \u015aiva's genital organ or \u015aiva worshiped in the form of a Phallus, this is usually of stone or marble, and set up in temples appropriated to \u015aiva."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "8e840c32-fc7e-4adc-a68b-e8bed91ce103", "value": "\u0932\u093f\u0919\u094d\u0917"}</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/e156caca-2133-4b56-9e88-17ac3f437e78">
+        <skos:definition xml:lang="en-us">{"id": "60fcd79b-1103-4983-b9e7-7cc288370533", "value": "[fr. S. bhairavadeva] God Bhairava, the wrathful manifestation of lord \u015aiva."}</skos:definition>
+        <skos:prefLabel xml:lang="en-us">{"id": "80379444-8575-49bb-a673-2bf98836e4c0", "value": "bhaila\u1e25dya\u1e25"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "36b81b64-2aa6-45fe-9508-b51f9df7bbf8", "value": "\u092d\u0948\u0932\u0903\u0926\u094d\u092f\u0903"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/41b6638c-4ae6-4bad-a62c-ae2739480913">
+        <dcterms:identifier xml:lang="en-us">{"id": "03866036-65b2-442f-9305-722aa106e0fd", "value": "http://localhost:8000/41b6638c-4ae6-4bad-a62c-ae2739480913"}</dcterms:identifier>
+        <skos:definition xml:lang="en-us">{"id": "a76dca3b-6bc2-4e47-aa17-8738edc86e5b", "value": "[New.] wayside stall or temporary shop (under a tree)."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "44e6a541-e234-4901-a9a7-40b274aea70c", "value": "\u091a\u092a\u093e\u0903\u0917\u0942"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "19c6182b-9907-43f7-96c7-ffe6d46e392c", "value": "cap\u0101\u1e25g\u016b"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/574bbf40-0811-4b74-a3aa-a7b3bef13d2e">
+        <skos:prefLabel xml:lang="en-us">{"id": "2bf9dec8-1567-4378-ad48-72e32f18193c", "value": "ardhaparya\u1e45ka"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "7f196faa-c4fd-49e7-beaa-5a8f2e3149cf", "value": "the \u201chalf cross-legged\u201d posture (\u0101sana) practised in meditation. See s.v. parya\u1e45ka."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/78cd4fa8-54fc-4202-8ea9-fcea56f5c28a">
+        <skos:altLabel xml:lang="dev">{"id": "9029e92c-6bcf-4be6-b007-0f8bfa93049e", "value": "\u0939\u0901\u0916\u093f\u0924\u0903"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en-us">{"id": "9fd3b992-d436-4c0a-b4b9-f8ea9c2ac6ba", "value": "http://localhost:8000/78cd4fa8-54fc-4202-8ea9-fcea56f5c28a"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en-us">{"id": "f0c02479-85bc-4691-87e4-a08ae1418824", "value": "ha\u0303khita\u1e25"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "270efff3-965c-4c38-8242-54bbb4eaa783", "value": "[New.] var. ha\u0303khitala, hakhig\u016b; n. line on wood."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/6b384006-717b-4314-93ad-15c1ba20d06e">
+        <dcterms:identifier xml:lang="en-us">{"id": "9e1b7531-8d13-4705-9d9a-ec1ba446dcd5", "value": "http://localhost:8000/6b384006-717b-4314-93ad-15c1ba20d06e"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "e760fb83-8005-4d20-8176-2bb372555df5", "value": "[fr. S \u0101gama]\tvar. \u0101gam; n. 1) inner sacred place for performing secret tantric rituals, room where an image of a secret deity is kept, accessible only to initiates, 2) mystery, secret."}</skos:definition>
+        <skos:altLabel xml:lang="dev">{"id": "98b5cc30-c719-4a8f-8462-ecfe8f0c4faa", "value": "\u0906\u0917\u0901"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "8b2df6cc-4048-4a7f-b37d-1fed2e0ee5cf", "value": "\u0101ga\u0303"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/0b2a9989-1ba0-4b7e-a084-befa05ade0e4">
+        <skos:prefLabel xml:lang="en-us">{"id": "be3f2219-ba81-4743-8023-582b9e05767f", "value": "khaga\u1e25"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "b372bd28-5169-4d66-8904-289f2ff1bd33", "value": "n. bolt of a door."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/57333e90-dcd0-4d0e-b9bc-03a1ff99a92d">
+        <skos:prefLabel xml:lang="en-us">{"id": "c2854dc1-b3b0-49ca-94ff-cdc76700142a", "value": "gath\u0101\u0303muga\u1e25"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:definition xml:lang="en-us">{"id": "1fb79bd3-61c3-4933-bd3b-d6b4a35d1525", "value": "n. three-legged straw figure (made on crossroads on the occasion of Gatg\u0101\u0303muga\u1e25 festival in August)."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/eb186e15-87dd-4735-b015-f6274e954ce5">
+        <dcterms:identifier xml:lang="en-us">{"id": "776d1817-8e8e-46e7-9718-73ec9b1b49ba", "value": "http://localhost:8000/eb186e15-87dd-4735-b015-f6274e954ce5"}</dcterms:identifier>
+        <arches:image xml:lang="en-us">{"id": "06e7245f-65c4-4d7c-8903-02748154ea48", "value": "concepts/LAL1590_P_20190313_02_Kalasha_new.jpg"}</arches:image>
+        <skos:definition xml:lang="en-us">{"id": "cbb8ca45-49c2-420f-a749-403e1dbeb46a", "value": "[S.] var. kalasa, kalas; n. 1) a copper-gilt bell-shaped crescent on the top of a temple or tomb (see, TND s.v. kalas). 2) a copper or mud water-pot used in the performance of religious rites."}</skos:definition>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:altLabel xml:lang="dev">{"id": "0e7fca75-d182-44c3-a949-a20149565c1d", "value": "\u0915\u0932\u0936"}</skos:altLabel>
+        <skos:prefLabel xml:lang="en-us">{"id": "962bdfc6-ec58-45e8-88de-fcb4fb9aeb73", "value": "kala\u015ba"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/528670ce-d2fb-431a-bd0b-2d6d8cb87dde">
+        <dcterms:identifier xml:lang="en-us">{"id": "60027070-7522-4697-ad04-54466268d571", "value": "http://localhost:8000/528670ce-d2fb-431a-bd0b-2d6d8cb87dde"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/70072e88-11a5-4c8d-9646-43476946c51a"/>
+        <skos:prefLabel xml:lang="en-us">{"id": "e67aaa24-ad37-46aa-a7e5-b4a1cd6ca01f", "value": "jhallara"}</skos:prefLabel>
+        <skos:altLabel xml:lang="dev">{"id": "0a397506-483c-4afa-9e22-aeb3a4c058f4", "value": "\u091d\u0932\u094d\u0932\u0930"}</skos:altLabel>
+        <skos:definition xml:lang="en-us">{"id": "6c321ee6-7ac9-4beb-842d-31a3130df932", "value": "[F. S.] n. 1) frill 2) frill pattern (carving)."}</skos:definition>
+      </skos:Concept>
+    </skos:hasTopConcept>
+  </skos:ConceptScheme>
+</rdf:RDF>
